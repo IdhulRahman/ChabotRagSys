@@ -1,0 +1,1216 @@
+[Lionel Messi] | [InterMiami] | [2024] | Goals: 14 | Assists: 11
+[Lionel Messi] | [InterMiami] | [2023] | Goals: 11 | Assists: 5
+[Lionel Messi] | [PSG] | [2022/2023] | Goals: 21 | Assists: 20
+[Lionel Messi] | [PSG] | [2021/2022] | Goals: 11 | Assists: 14
+[Lionel Messi] | [Barcelona] | [2020/2021] | Goals: 38 | Assists: 12
+[Lionel Messi] | [Barcelona] | [2019/2020] | Goals: 31 | Assists: 25
+[Lionel Messi] | [Barcelona] | [2018/2019] | Goals: 51 | Assists: 19
+[Lionel Messi] | [Barcelona] | [2017/2018] | Goals: 45 | Assists: 18
+[Lionel Messi] | [Barcelona] | [2016/2017] | Goals: 54 | Assists: 16
+[Cristiano Ronaldo] | [AL Nassr] | [2023/2024] | Goals: 50 | Assists: 13
+[Cristiano Ronaldo] | [AL Nassr] | [2022/2023] | Goals: 14 | Assists: 2
+[Cristiano Ronaldo] | [Man United] | [2021/2022] | Goals: 3 | Assists: 2
+[Cristiano Ronaldo] | [Man United] | [2020/2021] | Goals: 24 | Assists: 3
+[Cristiano Ronaldo] | [Juventus] | [2019/2020] | Goals: 0 | Assists: 0
+[Cristiano Ronaldo] | [Juventus] | [2018/2019] | Goals: 36 | Assists: 5
+[Cristiano Ronaldo] | [Juventus] | [2017/2018] | Goals: 28 | Assists: 10
+[Cristiano Ronaldo] | [Real Madrid] | [2016/2017] | Goals: 42 | Assists: 11
+[Cristiano Ronaldo] | [Real Madrid] | [2015/2016] | Goals: 51 | Assists: 15
+[Neymar] | [AL Hilal] | [2023/2024] | Goals: 1 | Assists: 2
+[Neymar] | [PSG] | [2022/2023] | Goals: 18 | Assists: 16
+[Neymar] | [PSG] | [2021/2022] | Goals: 13 | Assists: 8
+[Neymar] | [PSG] | [2020/2021] | Goals: 17 | Assists: 7
+[Neymar] | [PSG] | [2019/2020] | Goals: 19 | Assists: 11
+[Neymar] | [PSG] | [2018/2019] | Goals: 23 | Assists: 10
+[Neymar] | [PSG] | [2017/2018] | Goals: 28 | Assists: 16
+[Neymar] | [Barcelona] | [2016/2017] | Goals: 20 | Assists: 21
+[Neymar] | [Barcelona] | [2015/2016] | Goals: 31 | Assists: 20
+[Kylian Mbappe] | [PSG] | [2023/2024] | Goals: 44 | Assists: 10
+[Kylian Mbappe] | [PSG] | [2022/2023] | Goals: 41 | Assists: 9
+[Kylian Mbappe] | [PSG] | [2021/2022] | Goals: 39 | Assists: 21
+[Kylian Mbappe] | [PSG] | [2020/2021] | Goals: 42 | Assists: 11
+[Kylian Mbappe] | [PSG] | [2019/2020] | Goals: 30 | Assists: 14
+[Kylian Mbappe] | [PSG] | [2018/2019] | Goals: 39 | Assists: 13
+[Kylian Mbappe] | [PSG] | [2017/2018] | Goals: 21 | Assists: 13
+[Kylian Mbappe] | [Monaco] | [2016/2017] | Goals: 0 | Assists: 0
+[Kylian Mbappe] | [Monaco] | [2015/2016] | Goals: 26 | Assists: 8
+[Mohamed Salah] | [Liverpool] | [2023/2024] | Goals: 25 | Assists: 13
+[Mohamed Salah] | [Liverpool] | [2022/2023] | Goals: 30 | Assists: 16
+[Mohamed Salah] | [Liverpool] | [2021/2022] | Goals: 31 | Assists: 15
+[Mohamed Salah] | [Liverpool] | [2020/2021] | Goals: 31 | Assists: 6
+[Mohamed Salah] | [Liverpool] | [2019/2020] | Goals: 23 | Assists: 13
+[Mohamed Salah] | [Liverpool] | [2018/2019] | Goals: 27 | Assists: 10
+[Mohamed Salah] | [Liverpool] | [2017/2018] | Goals: 44 | Assists: 14
+[Mohamed Salah] | [Roma] | [2016/2017] | Goals: 19 | Assists: 12
+[Mohamed Salah] | [Roma] | [2015/2016] | Goals: 15 | Assists: 6
+[Kamir Benzema] | [AL Ittihad] | [2023/2024] | Goals: 16 | Assists: 9
+[Kamir Benzema] | [Real Madrid] | [2022/2023] | Goals: 31 | Assists: 6
+[Kamir Benzema] | [Real Madrid] | [2021/2022] | Goals: 44 | Assists: 15
+[Kamir Benzema] | [Real Madrid] | [2020/2021] | Goals: 30 | Assists: 9
+[Kamir Benzema] | [Real Madrid] | [2019/2020] | Goals: 27 | Assists: 11
+[Kamir Benzema] | [Real Madrid] | [2018/2019] | Goals: 30 | Assists: 10
+[Kamir Benzema] | [Real Madrid] | [2017/2018] | Goals: 12 | Assists: 11
+[Kamir Benzema] | [Real Madrid] | [2016/2017] | Goals: 19 | Assists: 7
+[Kamir Benzema] | [Real Madrid] | [2015/2016] | Goals: 28 | Assists: 7
+[Vinicius Junior] | [Real Madrid] | [2023/2024] | Goals: 24 | Assists: 9
+[Vinicius Junior] | [Real Madrid] | [2022/2023] | Goals: 23 | Assists: 19
+[Vinicius Junior] | [Real Madrid] | [2021/2022] | Goals: 22 | Assists: 16
+[Vinicius Junior] | [Real Madrid] | [2020/2021] | Goals: 6 | Assists: 4
+[Vinicius Junior] | [Real Madrid] | [2019/2020] | Goals: 5 | Assists: 3
+[Vinicius Junior] | [Real Madrid] | [2018/2019] | Goals: 4 | Assists: 8
+[Vinicius Junior] | [Real Madrid Castilla] | [2017/2018] | Goals: 4 | Assists: 0
+[Vinicius Junior] | [Flamengo] | [2016/2017] | Goals: 10 | Assists: 3
+[Vinicius Junior] | [Flamengo] | [2015/2016] | Goals: 4 | Assists: 1
+[Paul Pogba] | [Juventus] | [2023/2024] | Goals: 0 | Assists: 0
+[Paul Pogba] | [Juventus] | [2022/2023] | Goals: 0 | Assists: 1
+[Paul Pogba] | [Man United] | [2021/2022] | Goals: 1 | Assists: 9
+[Paul Pogba] | [Man United] | [2020/2021] | Goals: 6 | Assists: 6
+[Paul Pogba] | [Man United] | [2019/2020] | Goals: 1 | Assists: 3
+[Paul Pogba] | [Man United] | [2018/2019] | Goals: 16 | Assists: 11
+[Paul Pogba] | [Man United] | [2017/2018] | Goals: 6 | Assists: 12
+[Paul Pogba] | [Man United] | [2016/2017] | Goals: 9 | Assists: 6
+[Paul Pogba] | [Juventus] | [2015/2016] | Goals: 10 | Assists: 15
+[Antoine Griezmann] | [Atletico Madrid] | [2023/2024] | Goals: 24 | Assists: 8
+[Antoine Griezmann] | [Atletico Madrid] | [2022/2023] | Goals: 16 | Assists: 18
+[Antoine Griezmann] | [Atletico Madrid] | [2021/2022] | Goals: 8 | Assists: 6
+[Antoine Griezmann] | [Barcelona] | [2020/2021] | Goals: 0 | Assists: 0
+[Antoine Griezmann] | [Barcelona] | [2019/2020] | Goals: 20 | Assists: 12
+[Antoine Griezmann] | [Barcelona] | [2018/2019] | Goals: 15 | Assists: 4
+[Antoine Griezmann] | [Atletico Madrid] | [2017/2018] | Goals: 21 | Assists: 11
+[Antoine Griezmann] | [Atletico Madrid] | [2016/2017] | Goals: 29 | Assists: 13
+[Antoine Griezmann] | [Atletico Madrid] | [2015/2016] | Goals: 32 | Assists: 6
+[Ilkay Gundogan] | [Barcelona] | [2023/2024] | Goals: 5 | Assists: 14
+[Ilkay Gundogan] | [Man City] | [2022/2023] | Goals: 11 | Assists: 6
+[Ilkay Gundogan] | [Man City] | [2021/2022] | Goals: 10 | Assists: 7
+[Ilkay Gundogan] | [Man City] | [2020/2021] | Goals: 17 | Assists: 4
+[Ilkay Gundogan] | [Man City] | [2019/2020] | Goals: 5 | Assists: 4
+[Ilkay Gundogan] | [Man City] | [2018/2019] | Goals: 6 | Assists: 8
+[Ilkay Gundogan] | [Man City] | [2017/2018] | Goals: 6 | Assists: 7
+[Ilkay Gundogan] | [Man City] | [2016/2017] | Goals: 5 | Assists: 1
+[Ilkay Gundogan] | [Dortmund] | [2015/2016] | Goals: 3 | Assists: 5
+[Harry Kane] | [Bayern Munchen] | [2023/2024] | Goals: 44 | Assists: 12
+[Harry Kane] | [Tottenham] | [2022/2023] | Goals: 32 | Assists: 5
+[Harry Kane] | [Tottenham] | [2021/2022] | Goals: 27 | Assists: 10
+[Harry Kane] | [Tottenham] | [2020/2021] | Goals: 33 | Assists: 17
+[Harry Kane] | [Tottenham] | [2019/2020] | Goals: 24 | Assists: 2
+[Harry Kane] | [Tottenham] | [2018/2019] | Goals: 24 | Assists: 6
+[Harry Kane] | [Tottenham] | [2017/2018] | Goals: 41 | Assists: 4
+[Harry Kane] | [Tottenham] | [2016/2017] | Goals: 35 | Assists: 7
+[Harry Kane] | [Tottenham] | [2015/2016] | Goals: 28 | Assists: 2
+[Thomas Muller] | [Bayern Munchen] | [2023/2024] | Goals: 7 | Assists: 10
+[Thomas Muller] | [Bayern Munchen] | [2022/2023] | Goals: 8 | Assists: 11
+[Thomas Muller] | [Bayern Munchen] | [2021/2022] | Goals: 13 | Assists: 22
+[Thomas Muller] | [Bayern Munchen] | [2020/2021] | Goals: 15 | Assists: 19
+[Thomas Muller] | [Bayern Munchen] | [2019/2020] | Goals: 14 | Assists: 25
+[Thomas Muller] | [Bayern Munchen] | [2018/2019] | Goals: 9 | Assists: 12
+[Thomas Muller] | [Bayern Munchen] | [2017/2018] | Goals: 9 | Assists: 15
+[Thomas Muller] | [Bayern Munchen] | [2016/2017] | Goals: 9 | Assists: 15
+[Thomas Muller] | [Bayern Munchen] | [2015/2016] | Goals: 32 | Assists: 10
+[Robert Lewandowski] | [Barcelona] | [2023/2024] | Goals: 26 | Assists: 9
+[Robert Lewandowski] | [Barcelona] | [2022/2023] | Goals: 33 | Assists: 8
+[Robert Lewandowski] | [Bayern Munchen] | [2021/2022] | Goals: 50 | Assists: 6
+[Robert Lewandowski] | [Bayern Munchen] | [2020/2021] | Goals: 48 | Assists: 9
+[Robert Lewandowski] | [Bayern Munchen] | [2019/2020] | Goals: 55 | Assists: 9
+[Robert Lewandowski] | [Bayern Munchen] | [2018/2019] | Goals: 40 | Assists: 9
+[Robert Lewandowski] | [Bayern Munchen] | [2017/2018] | Goals: 41 | Assists: 4
+[Robert Lewandowski] | [Bayern Munchen] | [2016/2017] | Goals: 43 | Assists: 8
+[Robert Lewandowski] | [Bayern Munchen] | [2015/2016] | Goals: 42 | Assists: 4
+[Angel Di Maria] | [Benfica] | [2023/2024] | Goals: 17 | Assists: 13
+[Angel Di Maria] | [Juventus] | [2022/2023] | Goals: 8 | Assists: 7
+[Angel Di Maria] | [PSG] | [2021/2022] | Goals: 5 | Assists: 8
+[Angel Di Maria] | [PSG] | [2020/2021] | Goals: 5 | Assists: 15
+[Angel Di Maria] | [PSG] | [2019/2020] | Goals: 13 | Assists: 22
+[Angel Di Maria] | [PSG] | [2018/2019] | Goals: 19 | Assists: 16
+[Angel Di Maria] | [PSG] | [2017/2018] | Goals: 21 | Assists: 9
+[Angel Di Maria] | [PSG] | [2016/2017] | Goals: 14 | Assists: 15
+[Angel Di Maria] | [PSG] | [2015/2016] | Goals: 15 | Assists: 22
+[Heung Min Son] | [Tottenham] | [2023/2024] | Goals: 17 | Assists: 10
+[Heung Min Son] | [Tottenham] | [2022/2023] | Goals: 14 | Assists: 6
+[Heung Min Son] | [Tottenham] | [2021/2022] | Goals: 24 | Assists: 8
+[Heung Min Son] | [Tottenham] | [2020/2021] | Goals: 22 | Assists: 15
+[Heung Min Son] | [Tottenham] | [2019/2020] | Goals: 18 | Assists: 11
+[Heung Min Son] | [Tottenham] | [2018/2019] | Goals: 20 | Assists: 19
+[Heung Min Son] | [Tottenham] | [2017/2018] | Goals: 18 | Assists: 11
+[Heung Min Son] | [Tottenham] | [2016/2017] | Goals: 21 | Assists: 7
+[Heung Min Son] | [Tottenham] | [2015/2016] | Goals: 8 | Assists: 6
+[Raheem Sterling] | [Chelsea] | [2023/2024] | Goals: 10 | Assists: 8
+[Raheem Sterling] | [Chelsea] | [2022/2023] | Goals: 9 | Assists: 4
+[Raheem Sterling] | [Man City] | [2021/2022] | Goals: 17 | Assists: 8
+[Raheem Sterling] | [Man City] | [2020/2021] | Goals: 14 | Assists: 10
+[Raheem Sterling] | [Man City] | [2019/2020] | Goals: 31 | Assists: 5
+[Raheem Sterling] | [Man City] | [2018/2019] | Goals: 25 | Assists: 15
+[Raheem Sterling] | [Man City] | [2017/2018] | Goals: 23 | Assists: 13
+[Raheem Sterling] | [Man City] | [2016/2017] | Goals: 10 | Assists: 15
+[Raheem Sterling] | [Man City] | [2015/2016] | Goals: 11 | Assists: 8
+[Riyad Mahrez] | [Al Ahli] | [2023/2024] | Goals: 12 | Assists: 13
+[Riyad Mahrez] | [Man City] | [2022/2023] | Goals: 15 | Assists: 13
+[Riyad Mahrez] | [Man City] | [2021/2022] | Goals: 24 | Assists: 9
+[Riyad Mahrez] | [Man City] | [2020/2021] | Goals: 14 | Assists: 9
+[Riyad Mahrez] | [Man City] | [2019/2020] | Goals: 13 | Assists: 13
+[Riyad Mahrez] | [Man City] | [2018/2019] | Goals: 12 | Assists: 12
+[Riyad Mahrez] | [Leicester] | [2017/2018] | Goals: 13 | Assists: 12
+[Riyad Mahrez] | [Leicester] | [2016/2017] | Goals: 10 | Assists: 6
+[Riyad Mahrez] | [Leicester] | [2015/2016] | Goals: 18 | Assists: 11
+[Sadio Mane] | [AL Nassr] | [2023/2024] | Goals: 19 | Assists: 11
+[Sadio Mane] | [Bayern Munchen] | [2022/2023] | Goals: 12 | Assists: 6
+[Sadio Mane] | [Liverpool] | [2021/2022] | Goals: 23 | Assists: 2
+[Sadio Mane] | [Liverpool] | [2020/2021] | Goals: 16 | Assists: 8
+[Sadio Mane] | [Liverpool] | [2019/2020] | Goals: 22 | Assists: 9
+[Sadio Mane] | [Liverpool] | [2018/2019] | Goals: 26 | Assists: 2
+[Sadio Mane] | [Liverpool] | [2017/2017] | Goals: 20 | Assists: 9
+[Sadio Mane] | [Liverpool] | [2016/2017] | Goals: 13 | Assists: 7
+[Sadio Mane] | [Liverpool] | [2015/2016] | Goals: 15 | Assists: 6
+[Alvaro Morata] | [Atletico Madrid] | [2023/2024] | Goals: 21 | Assists: 4
+[Alvaro Morata] | [Atletico Madrid] | [2022/2023] | Goals: 15 | Assists: 3
+[Alvaro Morata] | [Juventus] | [2021/2022] | Goals: 12 | Assists: 7
+[Alvaro Morata] | [Juventus] | [2020/2021] | Goals: 20 | Assists: 11
+[Alvaro Morata] | [Atletico Madrid] | [2019/2020] | Goals: 16 | Assists: 4
+[Alvaro Morata] | [Atletico Madrid] | [2018/2019] | Goals: 6 | Assists: 1
+[Alvaro Morata] | [Chelsea] | [2017/2018] | Goals: 9 | Assists: 0
+[Alvaro Morata] | [Chelsea] | [2016/2017] | Goals: 15 | Assists: 6
+[Alvaro Morata] | [Real Madrid] | [2015/2016] | Goals: 20 | Assists: 5
+[Bernardo Silva] | [Man City] | [2023/2024] | Goals: 12 | Assists: 10
+[Bernardo Silva] | [Man City] | [2022/2023] | Goals: 7 | Assists: 6
+[Bernardo Silva] | [Man City] | [2021/2022] | Goals: 13 | Assists: 7
+[Bernardo Silva] | [Man City] | [2020/2021] | Goals: 5 | Assists: 9
+[Bernardo Silva] | [Man City] | [2019/2020] | Goals: 8 | Assists: 10
+[Bernardo Silva] | [Man City] | [2018/2019] | Goals: 13 | Assists: 13
+[Bernardo Silva] | [Man City] | [2017/2018] | Goals: 9 | Assists: 10
+[Bernardo Silva] | [Monaco] | [2016/2017] | Goals: 11 | Assists: 10
+[Bernardo Silva] | [Monaco] | [2015/2016] | Goals: 7 | Assists: 1
+[Erling Haaland] | [Man City] | [2023/2024] | Goals: 38 | Assists: 6
+[Erling Haaland] | [Man City] | [2022/2023] | Goals: 52 | Assists: 9
+[Erling Haaland] | [Dortmund] | [2021/2022] | Goals: 29 | Assists: 7
+[Erling Haaland] | [Dortmund] | [2020/2021] | Goals: 41 | Assists: 10
+[Erling Haaland] | [Dortmund] | [2019/2020] | Goals: 16 | Assists: 2
+[Erling Haaland] | [Salzburg] | [2018/2019] | Goals: 28 | Assists: 5
+[Erling Haaland] | [Salzburg] | [2017/2018] | Goals: 1 | Assists: 0
+[Erling Haaland] | [Molde] | [2016/2017] | Goals: 16 | Assists: 4
+[Erling Haaland] | [Molde] | [2015/2016] | Goals: 3 | Assists: 1
+[Romelu Lukaku] | [Roma] | [2023/2024] | Goals: 21 | Assists: 4
+[Romelu Lukaku] | [Inter ] | [2022/2023] | Goals: 14 | Assists: 7
+[Romelu Lukaku] | [Chelsea] | [2021/2022] | Goals: 15 | Assists: 0
+[Romelu Lukaku] | [Inter] | [2020/2021] | Goals: 30 | Assists: 11
+[Romelu Lukaku] | [Inter] | [2019/2020] | Goals: 34 | Assists: 6
+[Romelu Lukaku] | [Man United] | [2018/2019] | Goals: 15 | Assists: 3
+[Romelu Lukaku] | [Man United] | [2017/2018] | Goals: 27 | Assists: 9
+[Romelu Lukaku] | [Everton] | [2016/2017] | Goals: 26 | Assists: 7
+[Romelu Lukaku] | [Everton] | [2015/2016] | Goals: 25 | Assists: 6
+[Luka Modric] | [Real Madrid] | [2023/2024] | Goals: 2 | Assists: 7
+[Luka Modric] | [Real Madrid] | [2022/2023] | Goals: 6 | Assists: 6
+[Luka Modric] | [Real Madrid] | [2021/2022] | Goals: 3 | Assists: 12
+[Luka Modric] | [Real Madrid] | [2020/2021] | Goals: 6 | Assists: 6
+[Luka Modric] | [Real Madrid] | [2019/2020] | Goals: 5 | Assists: 7
+[Luka Modric] | [Real Madrid] | [2018/2019] | Goals: 4 | Assists: 8
+[Luka Modric] | [Real Madrid] | [2017/2018] | Goals: 2 | Assists: 8
+[Luka Modric] | [Real Madrid] | [2016/2017] | Goals: 1 | Assists: 3
+[Luka Modric] | [Real Madrid] | [2015/2016] | Goals: 3 | Assists: 5
+[Sergio Ramos] | [Sevilla] | [2023/2024] | Goals: 7 | Assists: 1
+[Sergio Ramos] | [PSG] | [2022/2023] | Goals: 4 | Assists: 1
+[Sergio Ramos] | [PSG] | [2021/2022] | Goals: 2 | Assists: 0
+[Sergio Ramos] | [Real Madrid] | [2020/2021] | Goals: 4 | Assists: 1
+[Sergio Ramos] | [Real Madrid] | [2019/2020] | Goals: 13 | Assists: 0
+[Sergio Ramos] | [Real Madrid] | [2018/2019] | Goals: 11 | Assists: 1
+[Sergio Ramos] | [Real Madrid] | [2017/2018] | Goals: 5 | Assists: 1
+[Sergio Ramos] | [Real Madrid] | [2016/2017] | Goals: 10 | Assists: 2
+[Sergio Ramos] | [Real Madrid] | [2015/2016] | Goals: 3 | Assists: 2
+[Joshua Kimmich] | [Bayern Munchen] | [2023/2024] | Goals: 2 | Assists: 9
+[Joshua Kimmich] | [Bayern Munchen] | [2022/2023] | Goals: 7 | Assists: 11
+[Joshua Kimmich] | [Bayern Munchen] | [2021/2022] | Goals: 3 | Assists: 11
+[Joshua Kimmich] | [Bayern Munchen] | [2020/2021] | Goals: 6 | Assists: 14
+[Joshua Kimmich] | [Bayern Munchen] | [2019/2020] | Goals: 7 | Assists: 15
+[Joshua Kimmich] | [Bayern Munchen] | [2018/2019] | Goals: 2 | Assists: 18
+[Joshua Kimmich] | [Bayern Munchen] | [2017/2018] | Goals: 6 | Assists: 15
+[Joshua Kimmich] | [Bayern Munchen] | [2016/2017] | Goals: 9 | Assists: 2
+[Leroy Sane] | [Bayern Munchen] | [2023/2024] | Goals: 10 | Assists: 12
+[Leroy Sane] | [Bayern Munchen] | [2022/2023] | Goals: 14 | Assists: 9
+[Leroy Sane] | [Bayern Munchen] | [2021/2022] | Goals: 14 | Assists: 14
+[Leroy Sane] | [Bayern Munchen] | [2020/2021] | Goals: 10 | Assists: 10
+[Leroy Sane] | [Man City] | [2019/2020] | Goals: 0 | Assists: 0
+[Leroy Sane] | [Man City] | [2018/2019] | Goals: 16 | Assists: 17
+[Leroy Sane] | [Man City] | [2017/2018] | Goals: 14 | Assists: 19
+[Leroy Sane] | [Man City] | [2016/2017] | Goals: 9 | Assists: 6
+[Nacho Fernandez] | [Real Madrid] | [2023/2024] | Goals: 0 | Assists: 1
+[Nacho Fernandez] | [Real Madrid] | [2022/2023] | Goals: 1 | Assists: 1
+[Nacho Fernandez] | [Real Madrid] | [2021/2022] | Goals: 3 | Assists: 0
+[Nacho Fernandez] | [Real Madrid] | [2020/2021] | Goals: 1 | Assists: 0
+[Nacho Fernandez] | [Real Madrid] | [2019/2020] | Goals: 2 | Assists: 0
+[Nacho Fernandez] | [Real Madrid] | [2018/2019] | Goals: 0 | Assists: 1
+[Nacho Fernandez] | [Real Madrid] | [2017/2018] | Goals: 4 | Assists: 0
+[Nacho Fernandez] | [Real Madrid] | [2016/2017] | Goals: 3 | Assists: 3
+[Nacho Fernandez] | [Real Madrid] | [2015/2016] | Goals: 1 | Assists: 0
+[Virgil van Dijk] | [Liverpool] | [2023/2024] | Goals: 4 | Assists: 2
+[Virgil van Dijk] | [Liverpool] | [2022/2023] | Goals: 3 | Assists: 1
+[Virgil van Dijk] | [Liverpool] | [2021/2022] | Goals: 3 | Assists: 1
+[Virgil van Dijk] | [Liverpool] | [2020/2021] | Goals: 1 | Assists: 0
+[Virgil van Dijk] | [Liverpool] | [2019/2020] | Goals: 5 | Assists: 2
+[Virgil van Dijk] | [Liverpool] | [2018/2019] | Goals: 6 | Assists: 4
+[Virgil van Dijk] | [Liverpool] | [2017/2018] | Goals: 1 | Assists: 0
+[Virgil van Dijk] | [Liverpool] | [2016/2017] | Goals: 0 | Assists: 0
+[Virgil van Dijk] | [Liverpool] | [2015/2016] | Goals: 4 | Assists: 0
+[Sergi Roberto] | [Barcelona] | [2023/2024] | Goals: 3 | Assists: 3
+[Sergi Roberto] | [Barcelona] | [2022/2023] | Goals: 4 | Assists: 3
+[Sergi Roberto] | [Barcelona] | [2021/2022] | Goals: 2 | Assists: 1
+[Sergi Roberto] | [Barcelona] | [2020/2021] | Goals: 1 | Assists: 2
+[Sergi Roberto] | [Barcelona] | [2019/2020] | Goals: 1 | Assists: 2
+[Sergi Roberto] | [Barcelona] | [2018/2019] | Goals: 1 | Assists: 7
+[Sergi Roberto] | [Barcelona] | [2017/2018] | Goals: 1 | Assists: 8
+[Sergi Roberto] | [Barcelona] | [2016/2017] | Goals: 1 | Assists: 6
+[Joao Cancelo] | [Barcelona] | [2023/2024] | Goals: 4 | Assists: 5
+[Joao Cancelo] | [Bayern Munchen] | [2022/2023] | Goals: 1 | Assists: 6
+[Joao Cancelo] | [Man City] | [2021/2022] | Goals: 2 | Assists: 4
+[Joao Cancelo] | [Man City] | [2020/2021] | Goals: 3 | Assists: 10
+[Joao Cancelo] | [Man City] | [2019/2020] | Goals: 3 | Assists: 5
+[Joao Cancelo] | [Juventus] | [2018/2019] | Goals: 1 | Assists: 5
+[Joao Cancelo] | [Inter] | [2017/2018] | Goals: 1 | Assists: 3
+[Joao Cancelo] | [Valencia] | [2016/2017] | Goals: 0 | Assists: 0
+[Roberto Firmino] | [Al Ahli] | [2023/2024] | Goals: 9 | Assists: 7
+[Roberto Firmino] | [Liverpool] | [2022/2023] | Goals: 13 | Assists: 5
+[Roberto Firmino] | [Liverpool] | [2021/2022] | Goals: 11 | Assists: 5
+[Roberto Firmino] | [Liverpool] | [2020/2021] | Goals: 9 | Assists: 9
+[Roberto Firmino] | [Liverpool] | [2019/2020] | Goals: 12 | Assists: 12
+[Roberto Firmino] | [Liverpool] | [2018/2019] | Goals: 16 | Assists: 7
+[Roberto Firmino] | [Liverpool] | [2017/2018] | Goals: 27 | Assists: 16
+[Roberto Firmino] | [Liverpool] | [2016/2017] | Goals: 12 | Assists: 8
+[Roberto Firmino] | [Liverpool] | [2015/2016] | Goals: 11 | Assists: 9
+[Kai Havertz] | [Arsenal] | [2023/2024] | Goals: 14 | Assists: 7
+[Kai Havertz] | [Chelsea] | [2022/2023] | Goals: 9 | Assists: 1
+[Kai Havertz] | [Chelsea] | [2021/2022] | Goals: 14 | Assists: 5
+[Kai Havertz] | [Chelsea] | [2020/2021] | Goals: 9 | Assists: 6
+[Kai Havertz] | [Leverkusen] | [2019/2020] | Goals: 18 | Assists: 9
+[Kai Havertz] | [Leverkusen] | [2018/2019] | Goals: 20 | Assists: 6
+[Kai Havertz] | [Leverkusen] | [2017/2018] | Goals: 4 | Assists: 8
+[Kai Havertz] | [Leverkusen] | [2016/2017] | Goals: 4 | Assists: 5
+[Koke] | [Atletico Madrid] | [2023/2024] | Goals: 0 | Assists: 6
+[Koke] | [Atletico Madrid] | [2022/2023] | Goals: 0 | Assists: 3
+[koke] | [Atletico Madrid] | [2021/2022] | Goals: 1 | Assists: 3
+[Koke] | [Atletico Madrid] | [2020/2021] | Goals: 1 | Assists: 2
+[Koke] | [Atletico Madrid] | [2019/2020] | Goals: 5 | Assists: 6
+[Koke] | [Atletico Madrid] | [2018/2019] | Goals: 6 | Assists: 5
+[koke] | [Atletico Madrid] | [2017/2018] | Goals: 6 | Assists: 7
+[Koke] | [Atletico Madrid] | [2016/2017] | Goals: 5 | Assists: 10
+[Koke] | [Atletico Madrid] | [2015/2016] | Goals: 5 | Assists: 15
+[Jose Gimenez] | [Atletico Madrid] | [2023/2024] | Goals: 0 | Assists: 1
+[Jose Gimenez] | [Atletico Madrid] | [2022/2023] | Goals: 2 | Assists: 1
+[Jose Gimenez] | [Atletico Madrid] | [2021/2022] | Goals: 1 | Assists: 1
+[Jose Gimenez] | [Atletico Madrid] | [2020/2021] | Goals: 1 | Assists: 0
+[Jose Gimenez] | [Atletico Madrid] | [2019/2020] | Goals: 0 | Assists: 1
+[Jose Gimenez] | [Atletico Madrid] | [2018/2019] | Goals: 2 | Assists: 0
+[Jose Gimenez] | [Atletico Madrid] | [2017/2018] | Goals: 2 | Assists: 2
+[Jose Gimenez] | [Atletico Madrid] | [2016/2017] | Goals: 1 | Assists: 1
+[Christopher Nkunku] | [Chelsea] | [2023/2024] | Goals: 3 | Assists: 0
+[Christopher Nkunku] | [RB Leipzig] | [2022/2023] | Goals: 23 | Assists: 7
+[Christopher Nkunku] | [RB Leipzig] | [2021/2022] | Goals: 35 | Assists: 16
+[Christopher Nkunku] | [RB Leipzig] | [2020/2021] | Goals: 7 | Assists: 9
+[Christopher Nkunku] | [RB Leipzig] | [2019/2020] | Goals: 5 | Assists: 13
+[Christopher Nkunku] | [PSG] | [2018/2019] | Goals: 4 | Assists: 2
+[Christopher Nkunku] | [PSG] | [2017/2018] | Goals: 5 | Assists: 0
+[Christopher Nkunku] | [PSG] | [2016/2017] | Goals: 2 | Assists: 1
+[Andrew Robertson] | [Liverpool] | [2023/2024] | Goals: 3 | Assists: 2
+[Andrew Robertson] | [Liverpool] | [2022/2023] | Goals: 0 | Assists: 11
+[Andrew Robertson] | [Liverpool] | [2021/2022] | Goals: 3 | Assists: 15
+[Andrew Robertson] | [Liverpool] | [2020/2021] | Goals: 1 | Assists: 7
+[Andrew Robertson] | [Liverpool] | [2019/2020] | Goals: 3 | Assists: 12
+[Andrew Robertson] | [Liverpool] | [2018/2019] | Goals: 0 | Assists: 13
+[Andrew Robertson] | [Liverpool] | [2017/2018] | Goals: 1 | Assists: 5
+[Andrew Robertson] | [Hull] | [2016/2017] | Goals: 1 | Assists: 3
+[Trent Alexander-Arnold] | [Liverpool] | [2023/2024] | Goals: 3 | Assists: 9
+[Trent Alexander-Arnold] | [Liverpool] | [2022/2023] | Goals: 4 | Assists: 10
+[Trent Alexander-Arnold] | [Liverpool] | [2021/2022] | Goals: 2 | Assists: 18
+[Trent Alexander-Arnold] | [Liverpool] | [2020/2021] | Goals: 2 | Assists: 9
+[Trent Alexander-Arnold] | [Liverpool] | [2019/2020] | Goals: 4 | Assists: 15
+[Trent Alexander-Arnold] | [Liverpool] | [2018/2019] | Goals: 1 | Assists: 15
+[Trent Alexander-Arnold] | [Liverpool] | [2017/2018] | Goals: 3 | Assists: 2
+[Trent Alexander-Arnold] | [Liverpool] | [2016/2017] | Goals: 0 | Assists: 1
+[Joseph Gomez] | [Liverpool] | [2023/2024] | Goals: 0 | Assists: 3
+[Joseph Gomez] | [Liverpool] | [2022/2023] | Goals: 0 | Assists: 1
+[Joseph Gomez] | [Liverpool] | [2021/2022] | Goals: 0 | Assists: 1
+[Joseph Gomez] | [Liverpool] | [2020/2021] | Goals: 0 | Assists: 1
+[Joseph Gomez] | [Liverpool] | [2019/2020] | Goals: 0 | Assists: 0
+[Joseph Gomez] | [Liverpool] | [2018/2019] | Goals: 0 | Assists: 0
+[Joseph Gomez] | [Liverpool] | [2017/2018] | Goals: 0 | Assists: 2
+[Joseph Gomez] | [Liverpool] | [2016/2017] | Goals: 0 | Assists: 0
+[Harry Maguire] | [Man United] | [2023/2024] | Goals: 4 | Assists: 2
+[Harry Maguire] | [Man United] | [2022/2023] | Goals: 0 | Assists: 0
+[Harry Maguire] | [Man United] | [2021/2022] | Goals: 2 | Assists: 0
+[Harry Maguire] | [Man United] | [2020/2021] | Goals: 2 | Assists: 1
+[Harry Maguire] | [Man United] | [2019/2020] | Goals: 3 | Assists: 2
+[Harry Maguire] | [Leicester] | [2018/2019] | Goals: 3 | Assists: 0
+[Harry Maguire] | [Leicester] | [2017/2018] | Goals: 2 | Assists: 4
+[Harry Maguire] | [Hull] | [2016/2017] | Goals: 3 | Assists: 2
+[Kyle Walker] | [Man City] | [2023/2024] | Goals: 0 | Assists: 5
+[Kyle Walker] | [Man City] | [2022/2023] | Goals: 0 | Assists: 1
+[Kyle Walker] | [Man City] | [2021/2022] | Goals: 1 | Assists: 2
+[Kyle Walker] | [Man City] | [2020/2021] | Goals: 2 | Assists: 1
+[Kyle Walker] | [Man City] | [2019/2020] | Goals: 1 | Assists: 6
+[Kyle Walker] | [Man City] | [2018/2019] | Goals: 2 | Assists: 1
+[Kyle Walker] | [Man City] | [2017/2018] | Goals: 0 | Assists: 7
+[Kyle Walker] | [Tottenham] | [2016/2017] | Goals: 0 | Assists: 5
+[Inaki Williams] | [Athletic Club] | [2023/2024] | Goals: 14 | Assists: 5
+[Inaki Williams] | [Athletic Club] | [2022/2023] | Goals: 11 | Assists: 5
+[Inaki Williams] | [Athletic Club] | [2021/2022] | Goals: 8 | Assists: 5
+[Inaki Williams] | [Athletic Club] | [2020/2021] | Goals: 8 | Assists: 7
+[Inaki Williams] | [Athletic Club] | [2019/2020] | Goals: 9 | Assists: 3
+[Inaki Williams] | [Athletic Club] | [2018/2019] | Goals: 15 | Assists: 4
+[Inaki Williams] | [Athletic Club] | [2017/2018] | Goals: 10 | Assists: 6
+[Inaki Williams] | [Athletic Club] | [2016/2017] | Goals: 8 | Assists: 6
+[Ferran Torres] | [Barcelona] | [2023/2024] | Goals: 11 | Assists: 3
+[Ferran Torres] | [Barcelona] | [2022/2023] | Goals: 7 | Assists: 3
+[Ferran Torres] | [Man City] | [2021/2022] | Goals: 7 | Assists: 6
+[Ferran Torres] | [Man City] | [2020/2021] | Goals: 13 | Assists: 3
+[Ferran Torres] | [Valencia] | [2019/2020] | Goals: 6 | Assists: 8
+[Ferran Torres] | [Valencia] | [2018/2019] | Goals: 3 | Assists: 2
+[Ferran Torres] | [Valencia] | [2017/2018] | Goals: 0 | Assists: 2
+[Jude Bellingham] | [Real Madrid] | [2023/2024] | Goals: 23 | Assists: 13
+[Jude Bellingham] | [Dortmund] | [2022/2023] | Goals: 14 | Assists: 6
+[Jude Bellingham] | [Dortmund] | [2021/2022] | Goals: 6 | Assists: 13
+[Jude Bellingham] | [Dortmund] | [2020/2021] | Goals: 4 | Assists: 4
+[Jude Bellingham] | [Birmingham] | [2019/2020] | Goals: 4 | Assists: 2
+[Marcus Rashford] | [Man United] | [2023/2024] | Goals: 8 | Assists: 5
+[Marcus Rashford] | [Man United] | [2022/2023] | Goals: 30 | Assists: 9
+[Marcus Rashford] | [Man United] | [2021/2022] | Goals: 5 | Assists: 2
+[Marcus Rashford] | [Man United] | [2020/2021] | Goals: 21 | Assists: 12
+[Marcus Rashford] | [Man United] | [2019/2020] | Goals: 22 | Assists: 8
+[Marcus Rashford] | [Man United] | [2018/2019] | Goals: 13 | Assists: 7
+[Marcus Rashford] | [Man United] | [2017/2018] | Goals: 13 | Assists: 8
+[Marcus Rashford] | [Man United] | [2016/2017] | Goals: 11 | Assists: 4
+[Bukayo Saka] | [Arsenal] | [2023/2024] | Goals: 20 | Assists: 14
+[Bukayo Saka] | [Arsenal] | [2022/2023] | Goals: 15 | Assists: 11
+[Bukayo Saka] | [Arsenal] | [2021/2022] | Goals: 12 | Assists: 7
+[Bukayo Saka] | [Arsenal] | [2020/2021] | Goals: 7 | Assists: 7
+[Bukayo Saka] | [Arsenal] | [2019/2020] | Goals: 4 | Assists: 12
+[Bukayo Saka] | [Arsenal] | [2018/2019] | Goals: 0 | Assists: 0
+[Frenkie de Jong] | [Barcelona] | [2023/2024] | Goals: 2 | Assists: 0
+[Frenkie de Jong] | [Barcelona] | [2022/2023] | Goals: 2 | Assists: 4
+[Frenkie de Jong] | [Barcelona] | [2021/2022] | Goals: 4 | Assists: 5
+[Frenkie de Jong] | [Barcelona] | [2020/2021] | Goals: 7 | Assists: 7
+[Frenkie de Jong] | [Barcelona] | [2019/2020] | Goals: 2 | Assists: 3
+[Frenkie de Jong] | [Ajax] | [2018/2019] | Goals: 3 | Assists: 3
+[Frenkie de Jong] | [Ajax] | [2017/2018] | Goals: 1 | Assists: 7
+[Frenkie de Jong] | [Ajax] | [2016/2017] | Goals: 1 | Assists: 0
+[Alexis Mac Allister] | [Liverpool] | [2023/2024] | Goals: 7 | Assists: 7
+[Alexis Mac Allister] | [Brighton] | [2022/2023] | Goals: 12 | Assists: 3
+[Alexis Mac Allister] | [Brighton] | [2021/2022] | Goals: 5 | Assists: 4
+[Alexis Mac Allister] | [Brighton] | [2020/2021] | Goals: 3 | Assists: 2
+[Alexis Mac Allister] | [Brighton] | [2019/2020] | Goals: 0 | Assists: 0
+[Alexis Mac Allister] | [Boca Juniors] | [2018/2019] | Goals: 2 | Assists: 4
+[Casemiro] | [Man United] | [2023/2024] | Goals: 5 | Assists: 3
+[Casemiro] | [Man United] | [2022/2023] | Goals: 7 | Assists: 6
+[Casemiro] | [real Madrid] | [2021/2022] | Goals: 1 | Assists: 3
+[Casemiro] | [Real Madrid] | [2020/2021] | Goals: 7 | Assists: 5
+[Casemiro] | [Real Madrid] | [2019/2020] | Goals: 5 | Assists: 5
+[Casemiro] | [Real Madrid] | [2018/2019] | Goals: 4 | Assists: 0
+[Casemiro] | [Real Madrid] | [2017/2018] | Goals: 7 | Assists: 3
+[Casemiro] | [Real Madrid] | [2016/2017] | Goals: 6 | Assists: 3
+[Casemiro] | [real Madrid] | [2015/2016] | Goals: 1 | Assists: 3
+[Casemiro] | [Real Madrid] | [2014/2015] | Goals: 4 | Assists: 1
+[Alejandro Garnacho] | [Man United] | [2023/2024] | Goals: 10 | Assists: 5
+[Alejandro Garnacho] | [Man United] | [2022/2023] | Goals: 5 | Assists: 4
+[Alejandro Garnacho] | [Man United] | [2021/2022] | Goals: 0 | Assists: 0
+[Jadon Sancho] | [Dortmund] | [2023/2024] | Goals: 3 | Assists: 2
+[Jadon Sancho] | [Man United] | [2022/2023] | Goals: 7 | Assists: 3
+[Jadon Sancho] | [Man United] | [2021/2022] | Goals: 5 | Assists: 3
+[Jadon Sancho] | [Dortmund] | [2020/2021] | Goals: 16 | Assists: 18
+[Jadon Sancho] | [Dortmund] | [2019/2020] | Goals: 20 | Assists: 19
+[Jadon Sancho] | [Dortmund] | [2018/2019] | Goals: 13 | Assists: 16
+[Jadon Sancho] | [Dortmund] | [2017/2018] | Goals: 1 | Assists: 4
+[Cody Gakpo] | [Liverpool] | [2023/2024] | Goals: 16 | Assists: 6
+[Cody Gakpo] | [Liverpool] | [2022/2023] | Goals: 7 | Assists: 2
+[Cody Gakpo] | [PSV Eindhoven] | [2021/2022] | Goals: 21 | Assists: 15
+[Cody Gakpo] | [PSV Eindhoven] | [2020/2021] | Goals: 11 | Assists: 4
+[Cody Gakpo] | [PSV Eindhoven] | [2019/2020] | Goals: 8 | Assists: 8
+[Cody Gakpo] | [PSV Eindhoven] | [2018/2019] | Goals: 2 | Assists: 6
+[Diogo Jota] | [Liverpool] | [2023/2024] | Goals: 15 | Assists: 4
+[Diogo Jota] | [Liverpool] | [2022/2023] | Goals: 7 | Assists: 8
+[Diogo Jota] | [Liverpool] | [2021/2022] | Goals: 21 | Assists: 6
+[Diogo Jota] | [Liverpool] | [2020/2021] | Goals: 13 | Assists: 1
+[Diogo Jota] | [Wolves] | [2019/2020] | Goals: 16 | Assists: 1
+[Diogo Jota] | [Wolves] | [2018/2019] | Goals: 10 | Assists: 7
+[Diogo Jota] | [Wolves] | [2017/2018] | Goals: 18 | Assists: 5
+[Diogo Jota] | [FC Porto] | [2016/2017] | Goals: 9 | Assists: 5
+[Jules Kounde] | [Barcelona] | [2023/2024] | Goals: 2 | Assists: 4
+[Jules Kounde] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 6
+[Jules Kounde] | [Sevilla] | [2021/2022] | Goals: 3 | Assists: 1
+[Jules Kounde] | [Sevilla] | [2020/2021] | Goals: 4 | Assists: 1
+[Jules Kounde] | [Sevilla] | [2019/2020] | Goals: 2 | Assists: 1
+[Jules Kounde] | [Bordeaux] | [2018/2019] | Goals: 2 | Assists: 1
+[Jules Kounde] | [Bordeaux] | [2017/2018] | Goals: 2 | Assists: 0
+[Iago Aspas] | [Celta Vigo] | [2023/2024] | Goals: 9 | Assists: 10
+[Iago Aspas] | [Celta Vigo] | [2022/2023] | Goals: 12 | Assists: 3
+[Iago Aspas] | [Celta Vigo] | [2021/2022] | Goals: 18 | Assists: 6
+[Iago Aspas] | [Celta Vigo] | [2020/2021] | Goals: 14 | Assists: 15
+[Iago Aspas] | [Celta Vigo] | [2019/2020] | Goals: 14 | Assists: 3
+[Iago Aspas] | [Celta Vigo] | [2018/2019] | Goals: 21 | Assists: 6
+[Iago Aspas] | [Celta Vigo] | [2017/2018] | Goals: 23 | Assists: 5
+[Iago Aspas] | [Celta Vigo] | [2016/2017] | Goals: 26 | Assists: 6
+[Hector Bellerin] | [Real Betis] | [2023/2024] | Goals: 0 | Assists: 1
+[Hector Bellerin] | [Sporting CP] | [2022/2023] | Goals: 1 | Assists: 0
+[Hector Bellerin] | [Barcelona] | [2021/2022] | Goals: 0 | Assists: 0
+[Hector Bellerin] | [Real Betis] | [2020/2021] | Goals: 0 | Assists: 5
+[Hector Bellerin] | [Arsenal] | [2019/2020] | Goals: 1 | Assists: 1
+[Hector Bellerin] | [Arsenal] | [2018/2019] | Goals: 0 | Assists: 5
+[Hector Bellerin] | [Arsenal] | [2017/2018] | Goals: 3 | Assists: 5
+[Hector Bellerin] | [Arsenal] | [2016/2017] | Goals: 1 | Assists: 5
+[Gerard Moreno] | [Villarreal] | [2023/2024] | Goals: 11 | Assists: 8
+[Gerard Moreno] | [Villarreal] | [2022/2023] | Goals: 11 | Assists: 6
+[Gerard Moreno] | [Villarreal] | [2021/2022] | Goals: 13 | Assists: 7
+[Gerard Moreno] | [Villarreal] | [2020/2021] | Goals: 30 | Assists: 10
+[Gerard Moreno] | [Villarreal] | [2019/2020] | Goals: 20 | Assists: 5
+[Gerard Moreno] | [Villarreal] | [2018/2019] | Goals: 13 | Assists: 3
+[Gerard Moreno] | [Espanyol] | [2017/2018] | Goals: 19 | Assists: 2
+[Gerard Moreno] | [Espanyol] | [2016/2017] | Goals: 13 | Assists: 4
+[David Alaba] | [Real Madrid] | [2023/2024] | Goals: 0 | Assists: 2
+[David Alaba] | [Real Madrid] | [2022/2023] | Goals: 2 | Assists: 3
+[David Alaba] | [Real Madrid] | [2021/2022] | Goals: 3 | Assists: 4
+[David Alaba] | [Bayern Munchen] | [2020/2021] | Goals: 2 | Assists: 4
+[David Alaba] | [Bayern Munchen] | [2019/2020] | Goals: 2 | Assists: 2
+[David Alaba] | [Bayern Munchen] | [2018/2019] | Goals: 3 | Assists: 7
+[David Alaba] | [Bayern Munchen] | [2017/2018] | Goals: 2 | Assists: 4
+[David Alaba] | [Bayern Munchen] | [2016/2017] | Goals: 5 | Assists: 6
+[Lucas Vazquez] | [Real Madrid] | [2023/2024] | Goals: 3 | Assists: 7
+[Lucas Vazquez] | [Real Madrid] | [2022/2023] | Goals: 4 | Assists: 2
+[Lucas Vazquez] | [Real Madrid] | [2021/2022] | Goals: 3 | Assists: 0
+[Lucas Vazquez] | [Real Madrid] | [2020/2021] | Goals: 2 | Assists: 7
+[Lucas Vazquez] | [Real Madrid] | [2019/2020] | Goals: 3 | Assists: 1
+[Lucas Vazquez] | [Real Madrid] | [2018/2019] | Goals: 5 | Assists: 4
+[Lucas Vazquez] | [Real Madrid] | [2017/2018] | Goals: 8 | Assists: 12
+[Lucas Vazquez] | [Real Madrid] | [2016/2017] | Goals: 4 | Assists: 11
+[Lucas Vazquez] | [Real Madrid] | [2015/2016] | Goals: 4 | Assists: 8
+[Pedri] | [Barcelona] | [2023/2024] | Goals: 4 | Assists: 5
+[Pedri] | [Barcelona] | [2022/2023] | Goals: 7 | Assists: 1
+[Pedri] | [Barcelona] | [2021/2022] | Goals: 5 | Assists: 1
+[Pedri] | [Barcelona] | [2020/2021] | Goals: 4 | Assists: 6
+[Pedri] | [Las Palmas] | [2019/2020] | Goals: 4 | Assists: 6
+[John Stones] | [Man City] | [2023/2024] | Goals: 1 | Assists: 2
+[John Stones] | [Man City] | [2022/2023] | Goals: 3 | Assists: 3
+[John Stones] | [Man City] | [2021/2022] | Goals: 2 | Assists: 0
+[John Stones] | [Man City] | [2020/2021] | Goals: 5 | Assists: 0
+[John Stones] | [Man City] | [2019/2020] | Goals: 0 | Assists: 1
+[John Stones] | [Man City] | [2018/2019] | Goals: 0 | Assists: 1
+[John Stones] | [Man City] | [2017/2018] | Goals: 3 | Assists: 0
+[John Stones] | [Man City] | [2016/2017] | Goals: 2 | Assists: 0
+[John Stones] | [Everton] | [2015/2016] | Goals: 0 | Assists: 0
+[Mateo Kovacic] | [Man City] | [2023/2024] | Goals: 3 | Assists: 1
+[Mateo Kovacic] | [Chelsea] | [2022/2023] | Goals: 2 | Assists: 2
+[Mateo Kovacic] | [Chelsea] | [2021/2022] | Goals: 2 | Assists: 6
+[Mateo Kovacic] | [Chelsea] | [2020/2021] | Goals: 0 | Assists: 2
+[Mateo Kovacic] | [Chelsea] | [2019/2020] | Goals: 2 | Assists: 3
+[Mateo Kovacic] | [Chelsea] | [2018/2019] | Goals: 0 | Assists: 2
+[Mateo Kovacic] | [Real Madrid] | [2017/2018] | Goals: 0 | Assists: 2
+[Mateo Kovacic] | [Real Madrid] | [2016/2017] | Goals: 2 | Assists: 3
+[Mateo Kovacic] | [Real Madrid] | [2015/2016] | Goals: 1 | Assists: 2
+[Jamie Vardy] | [Leicester] | [2023/2024] | Goals: 20 | Assists: 2
+[Jamie Vardy] | [Leicester] | [2022/2023] | Goals: 6 | Assists: 5
+[Jamie Vardy] | [Leicester] | [2021/2022] | Goals: 17 | Assists: 2
+[Jamie Vardy] | [Leicester] | [2020/2021] | Goals: 17 | Assists: 9
+[Jamie Vardy] | [Leicester] | [2019/2020] | Goals: 23 | Assists: 7
+[Jamie Vardy] | [Leicester] | [2018/2019] | Goals: 18 | Assists: 4
+[Jamie Vardy] | [Leicester] | [2017/2018] | Goals: 23 | Assists: 1
+[Jamie Vardy] | [Leicester] | [2016/2017] | Goals: 16 | Assists: 5
+[Luke Shaw] | [Man United] | [2023/2024] | Goals: 0 | Assists: 1
+[Luke Shaw] | [Man United] | [2022/2023] | Goals: 1 | Assists: 6
+[Luke Shaw] | [Man United] | [2021/2022] | Goals: 0 | Assists: 5
+[Luke Shaw] | [Man United] | [2020/2021] | Goals: 1 | Assists: 6
+[Luke Shaw] | [Man United] | [2019/2020] | Goals: 1 | Assists: 2
+[Luke Shaw] | [Man United] | [2018/2019] | Goals: 1 | Assists: 5
+[Luke Shaw] | [Man United] | [2017/2018] | Goals: 0 | Assists: 0
+[Luke Shaw] | [Man United] | [2016/2017] | Goals: 0 | Assists: 1
+[Bruno Fernandes] | [Man United] | [2023/2024] | Goals: 15 | Assists: 13
+[Bruno Fernandes] | [Man United] | [2022/2023] | Goals: 14 | Assists: 13
+[Bruno Fernandes] | [Man United] | [2021/2022] | Goals: 10 | Assists: 13
+[Bruno Fernandes] | [Man United] | [2020/2021] | Goals: 28 | Assists: 18
+[Bruno Fernandes] | [Man United] | [2019/2020] | Goals: 12 | Assists: 8
+[Bruno Fernandes] | [Sporting CP] | [2018/2019] | Goals: 31 | Assists: 15
+[Bruno Fernandes] | [Sporting CP] | [2017/2018] | Goals: 16 | Assists: 14
+[Bruno Fernandes] | [Sampdoria] | [2016/2017] | Goals: 5 | Assists: 3
+[Mason Mount] | [Man United] | [2023/2024] | Goals: 1 | Assists: 1
+[Mason Mount] | [Chelsea] | [2022/2023] | Goals: 3 | Assists: 3
+[Mason Mount] | [Chelsea] | [2021/2022] | Goals: 13 | Assists: 16
+[Mason Mount] | [Chelsea] | [2020/2021] | Goals: 9 | Assists: 8
+[Mason Mount] | [Chelsea] | [2019/2020] | Goals: 8 | Assists: 5
+[Mason Mount] | [Derby] | [2018/2019] | Goals: 11 | Assists: 5
+[Mason Mount] | [Vitesse] | [2017/2018] | Goals: 14 | Assists: 10
+[Antony] | [Man United] | [2023/2024] | Goals: 3 | Assists: 2
+[Antony] | [Man United] | [2022/2023] | Goals: 8 | Assists: 3
+[Antony] | [Ajax] | [2021/2022] | Goals: 12 | Assists: 10
+[Antony] | [Ajax] | [2020/2021] | Goals: 11 | Assists: 9
+[Josko Gvardiol] | [Man City] | [2023/2024] | Goals: 5 | Assists: 2
+[Josko Gvardiol] | [RB Leipzig] | [2022/2023] | Goals: 3 | Assists: 0
+[Josko Gvardiol] | [RB Leipzig] | [2021/2022] | Goals: 2 | Assists: 3
+[Josko Gvardiol] | [Dinamo Zagreb] | [2020/2021] | Goals: 3 | Assists: 2
+[Kalvin Phillips] | [West Ham] | [2023/2024] | Goals: 0 | Assists: 0
+[Kalvin Phillips] | [Man City] | [2022/2023] | Goals: 0 | Assists: 0
+[Kalvin Phillips] | [Leeds] | [2021/2022] | Goals: 1 | Assists: 1
+[Kalvin Phillips] | [Leeds] | [2020/2021] | Goals: 1 | Assists: 1
+[Kalvin Phillips] | [Leeds] | [2019/2020] | Goals: 1 | Assists: 2
+[Kalvin Phillips] | [Leeds] | [2018/2019] | Goals: 2 | Assists: 2
+[Kalvin Phillips] | [Leeds] | [2017/2018] | Goals: 1 | Assists: 3
+[Kalvin Phillips] | [Leeds] | [2016/2017] | Goals: 1 | Assists: 2
+[Rodri] | [Man City] | [2023/2024] | Goals: 9 | Assists: 13
+[Rodri] | [Man City] | [2022/2023] | Goals: 4 | Assists: 7
+[Rodri] | [Man City] | [2021/2022] | Goals: 7 | Assists: 2
+[Rodri] | [Man City] | [2020/2021] | Goals: 2 | Assists: 5
+[Rodri] | [Man City] | [2019/2020] | Goals: 4 | Assists: 2
+[Rodri] | [Atletico Madrid] | [2018/2019] | Goals: 3 | Assists: 1
+[Rodri] | [Villarreal] | [2017/2018] | Goals: 1 | Assists: 4
+[Rodri] | [Villarreal] | [2016/2017] | Goals: 1 | Assists: 2
+[Jack Grealish] | [Man City] | [2023/2024] | Goals: 3 | Assists: 3
+[Jack Grealish] | [Man City] | [2022/2023] | Goals: 5 | Assists: 11
+[Jack Grealish] | [Man City] | [2021/2022] | Goals: 6 | Assists: 4
+[Jack Grealish] | [Aston Villa] | [2020/2021] | Goals: 7 | Assists: 10
+[Jack Grealish] | [Aston Villa] | [2019/2020] | Goals: 10 | Assists: 8
+[Jack Grealish] | [Aston Villa] | [2018/2019] | Goals: 6 | Assists: 7
+[Jack Grealish] | [Aston Villa] | [2017/2018] | Goals: 3 | Assists: 6
+[Jack Grealish] | [Aston Villa] | [2016/2017] | Goals: 5 | Assists: 2
+[Julian Alvarez] | [Man City] | [2023/2024] | Goals: 19 | Assists: 13
+[Julian Alvarez] | [Man City] | [2022/2023] | Goals: 17 | Assists: 4
+[Julian Alvarez] | [River Plate] | [2021/2022] | Goals: 18 | Assists: 6
+[Julian Alvarez] | [River Plate] | [2020/2021] | Goals: 24 | Assists: 14
+[Julian Alvarez] | [River Plate] | [2019/2020] | Goals: 8 | Assists: 3
+[Julian Alvarez] | [River Plate] | [2018/2019] | Goals: 3 | Assists: 2
+[Julian Alvarez] | [River Plate] | [2017/2018] | Goals: 1 | Assists: 2
+[Phil Foden] | [Man City] | [2023/2024] | Goals: 27 | Assists: 12
+[Phil Foden] | [Man City] | [2022/2023] | Goals: 15 | Assists: 7
+[Phil Foden] | [Man City] | [2021/2022] | Goals: 14 | Assists: 11
+[Phil Foden] | [Man City] | [2020/2021] | Goals: 16 | Assists: 10
+[Phil Foden] | [Man City] | [2019/2020] | Goals: 8 | Assists: 9
+[Phil Foden] | [Man City] | [2018/2019] | Goals: 7 | Assists: 2
+[Phil Foden] | [Man City] | [2017/2018] | Goals: 0 | Assists: 1
+[Jeremy Doku] | [Man City] | [2023/2024] | Goals: 6 | Assists: 9
+[Jeremy Doku] | [Rennes] | [2022/2023] | Goals: 7 | Assists: 4
+[Jeremy Doku] | [Rennes] | [2021/2022] | Goals: 2 | Assists: 2
+[Jeremy Doku] | [Anderlecht] | [2020/2021] | Goals: 2 | Assists: 3
+[Jeremy Doku] | [Anderlecht] | [2019/2020] | Goals: 4 | Assists: 4
+[Jeremy Doku] | [Anderlecht] | [2018/2019] | Goals: 0 | Assists: 0
+[Timo Werner] | [Tottenham] | [2023/2024] | Goals: 2 | Assists: 3
+[Timo Werner] | [RB Leipzig] | [2022/2023] | Goals: 16 | Assists: 5
+[Timo Werner] | [Chelsea] | [2021/2022] | Goals: 11 | Assists: 6
+[Timo Werner] | [Chelsea] | [2020/2021] | Goals: 12 | Assists: 11
+[Timo Werner] | [RB Leipzig] | [2019/2020] | Goals: 34 | Assists: 12
+[Timo Werner] | [RB Leipzig] | [2018/2019] | Goals: 19 | Assists: 8
+[Timo Werner] | [RB Leipzig] | [2017/2018] | Goals: 21 | Assists: 9
+[Timo Werner] | [RB Leipzig] | [2016/2017] | Goals: 21 | Assists: 5
+[Richarlison] | [Tottenham] | [2023/2024] | Goals: 12 | Assists: 4
+[Richarlison] | [Tottenham] | [2022/2023] | Goals: 3 | Assists: 3
+[Richarlison] | [Everton] | [2021/2022] | Goals: 11 | Assists: 5
+[Richarlison] | [Everton] | [2020/2021] | Goals: 13 | Assists: 3
+[Richarlison] | [Everton] | [2019/2020] | Goals: 15 | Assists: 4
+[Richarlison] | [Everton] | [2018/2019] | Goals: 14 | Assists: 1
+[Richarlison] | [Watford] | [2017/2018] | Goals: 5 | Assists: 4
+[Richarlison] | [Fluminense] | [2016/2017] | Goals: 15 | Assists: 2
+[Alex Sandro] | [Juventus] | [2023/2024] | Goals: 1 | Assists: 0
+[Alex Sandro] | [Juventus] | [2022/2023] | Goals: 0 | Assists: 3
+[Alex Sandro] | [Juventus] | [2021/2022] | Goals: 2 | Assists: 1
+[Alex Sandro] | [Juventus] | [2020/2021] | Goals: 2 | Assists: 2
+[Alex Sandro] | [Juventus] | [2019/2020] | Goals: 1 | Assists: 4
+[Alex Sandro] | [Juventus] | [2018/2019] | Goals: 1 | Assists: 2
+[Alex Sandro] | [Juventus] | [2017/2018] | Goals: 4 | Assists: 5
+[Alex Sandro] | [Juventus] | [2016/2017] | Goals: 3 | Assists: 7
+[Danilo] | [Juventus] | [2023/2024] | Goals: 1 | Assists: 3
+[Danilo] | [Juventus] | [2022/2023] | Goals: 3 | Assists: 3
+[Danilo] | [Juventus] | [2021/2022] | Goals: 2 | Assists: 2
+[Danilo] | [Juventus] | [2020/2021] | Goals: 1 | Assists: 4
+[Danilo] | [Juventus] | [2019/2020] | Goals: 2 | Assists: 0
+[Danilo] | [Man City] | [2018/2019] | Goals: 1 | Assists: 1
+[Danilo] | [Man City] | [2017/2018] | Goals: 3 | Assists: 3
+[Danilo] | [Real Madrid] | [2016/2017] | Goals: 1 | Assists: 3
+[Danilo] | [Real Madrid] | [2015/2016] | Goals: 2 | Assists: 6
+[Danilo] | [FC Porto] | [2014/2015] | Goals: 7 | Assists: 1
+[Arthur] | [Fiorentina] | [2023/2024] | Goals: 2 | Assists: 3
+[Arthur] | [Liverpool] | [2022/2023] | Goals: 0 | Assists: 0
+[Arthur] | [Juventus] | [2021/2022] | Goals: 0 | Assists: 1
+[Arthur] | [Juventus] | [2020/2021] | Goals: 1 | Assists: 0
+[Arthur] | [Barcelona] | [2019/2020] | Goals: 4 | Assists: 4
+[Arthur] | [Barcelona] | [2018/2019] | Goals: 0 | Assists: 2
+[Arthur] | [Gremio] | [2017/2018] | Goals: 4 | Assists: 2
+[Arthur] | [Gremio] | [2016/2017] | Goals: 2 | Assists: 1
+[Federico Chiesa] | [Juventus] | [2023/2024] | Goals: 10 | Assists: 2
+[Federico Chiesa] | [Juventus] | [2022/2023] | Goals: 4 | Assists: 6
+[Federico Chiesa] | [Juventus] | [2021/2022] | Goals: 4 | Assists: 2
+[Federico Chiesa] | [Juventus] | [2020/2021] | Goals: 14 | Assists: 10
+[Federico Chiesa] | [Fiorentina] | [2019/2020] | Goals: 11 | Assists: 6
+[Federico Chiesa] | [Fiorentina] | [2018/2019] | Goals: 12 | Assists: 5
+[Federico Chiesa] | [Fiorentina] | [2017/2018] | Goals: 6 | Assists: 5
+[Federico Chiesa] | [Fiorentina] | [2016/2017] | Goals: 4 | Assists: 2
+[Alexis Sanchez] | [Inter] | [2023/2024] | Goals: 4 | Assists: 5
+[Alexis Sanchez] | [Marseille] | [2022/2023] | Goals: 18 | Assists: 3
+[Alexis Sanchez] | [Inter] | [2021/2022] | Goals: 9 | Assists: 4
+[Alexis Sanchez] | [Inter] | [2020/2021] | Goals: 7 | Assists: 5
+[Alexis Sanchez] | [Inter] | [2019/2020] | Goals: 4 | Assists: 9
+[Alexis Sanchez] | [Man United] | [2018/2019] | Goals: 2 | Assists: 4
+[Alexis Sanchez] | [Man United] | [2017/2018] | Goals: 3 | Assists: 5
+[Alexis Sanchez] | [Arsenal] | [2016/2017] | Goals: 30 | Assists: 15
+[Juan Cuadrado] | [Inter] | [2023/2024] | Goals: 0 | Assists: 2
+[Juan Cuadrado] | [Juventus] | [2022/2023] | Goals: 2 | Assists: 4
+[Juan Cuadrado] | [Juventus] | [2021/2022] | Goals: 5 | Assists: 5
+[Juan Cuadrado] | [Juventus] | [2020/2021] | Goals: 2 | Assists: 17
+[Juan Cuadrado] | [Juventus] | [2019/2020] | Goals: 3 | Assists: 6
+[Juan Cuadrado] | [Juventus] | [2018/2019] | Goals: 1 | Assists: 4
+[Juan Cuadrado] | [Juventus] | [2017/2018] | Goals: 5 | Assists: 8
+[Juan Cuadrado] | [Juventus] | [2016/2017] | Goals: 3 | Assists: 9
+[Joaquin Correa] | [Marseille] | [2023/2024] | Goals: 0 | Assists: 0
+[Joaquin Correa] | [Inter] | [2022/2023] | Goals: 4 | Assists: 3
+[Joaquin Correa] | [Inter] | [2021/2022] | Goals: 6 | Assists: 2
+[Joaquin Correa] | [Lazio] | [2020/2021] | Goals: 11 | Assists: 5
+[Joaquin Correa] | [Lazio] | [2019/2020] | Goals: 10 | Assists: 3
+[Joaquin Correa] | [Lazio] | [2018/2019] | Goals: 9 | Assists: 7
+[Joaquin Correa] | [Sevilla] | [2017/2018] | Goals: 7 | Assists: 6
+[Joaquin Correa] | [Sevilla] | [2016/2017] | Goals: 8 | Assists: 0
+[Lautaro Martinez] | [Inter] | [2023/2024] | Goals: 27 | Assists: 3
+[Lautaro Martinez] | [Inter] | [2022/2023] | Goals: 28 | Assists: 10
+[Lautaro Martinez] | [Inter] | [2021/2022] | Goals: 25 | Assists: 3
+[Lautaro Martinez] | [Inter] | [2020/2021] | Goals: 19 | Assists: 7
+[Lautaro Martinez] | [Inter] | [2019/2020] | Goals: 21 | Assists: 5
+[Lautaro Martinez] | [Inter] | [2018/2019] | Goals: 9 | Assists: 2
+[Dejan Kulusevski] | [Tottenham] | [2023/2024] | Goals: 8 | Assists: 3
+[Dejan Kulusevski] | [Tottenham] | [2022/2023] | Goals: 2 | Assists: 8
+[Dejan Kulusevski] | [Juventus] | [2021/2022] | Goals: 2 | Assists: 3
+[Dejan Kulusevski] | [Juventus] | [2020/2021] | Goals: 7 | Assists: 6
+[Dejan Kulusevski] | [Parma] | [2019/2020] | Goals: 10 | Assists: 8
+[Dejan Kulusevski] | [Atalanta] | [2018/2019] | Goals: 0 | Assists: 0
+[Axel Witsel] | [Atletico Madrid] | [2023/2024] | Goals: 2 | Assists: 0
+[Axel Witsel] | [Atletico Madrid] | [2022/2023] | Goals: 0 | Assists: 1
+[Axel Witsel] | [Dortmund] | [2021/2022] | Goals: 2 | Assists: 0
+[Axel Witsel] | [Dortmund] | [2020/2021] | Goals: 1 | Assists: 0
+[Axel Witsel] | [Dortmund] | [2019/2020] | Goals: 4 | Assists: 5
+[Axel Witsel] | [Dortmund] | [2018/2019] | Goals: 6 | Assists: 1
+[Rodrigo De Paul] | [Atletico Madrid] | [2023/2024] | Goals: 4 | Assists: 6
+[Rodrigo De Paul] | [Atletico Madrid] | [2022/2023] | Goals: 3 | Assists: 8
+[Rodrigo De Paul] | [Atletico Madrid] | [2021/2022] | Goals: 4 | Assists: 1
+[Rodrigo De Paul] | [Udinese] | [2020/2021] | Goals: 9 | Assists: 9
+[Rodrigo De Paul] | [Udinese] | [2019/2020] | Goals: 7 | Assists: 6
+[Rodrigo De Paul] | [Udinese] | [2018/2019] | Goals: 9 | Assists: 8
+[Rodrigo De Paul] | [Udinese] | [2017/2018] | Goals: 4 | Assists: 7
+[Rodrigo De Paul] | [Udinese] | [2016/2017] | Goals: 5 | Assists: 1
+[Thomas Lemar] | [Atletico Madrid] | [2023/2024] | Goals: 0 | Assists: 0
+[Thomas Lemar] | [Atletico Madrid] | [2022/2023] | Goals: 1 | Assists: 3
+[Thomas Lemar] | [Atletico Madrid] | [2021/2022] | Goals: 4 | Assists: 6
+[Thomas Lemar] | [Atletico Madrid] | [2020/2021] | Goals: 2 | Assists: 4
+[Thomas Lemar] | [Atletico Madrid] | [2019/2020] | Goals: 0 | Assists: 0
+[Thomas Lemar] | [Atletico Madrid] | [2018/2019] | Goals: 4 | Assists: 6
+[Thomas Lemar] | [Monaco] | [2017/2018] | Goals: 3 | Assists: 8
+[Thomas Lemar] | [Monaco] | [2016/2017] | Goals: 14 | Assists: 14
+[Nahuel Molina] | [Atletico Madrid] | [2023/2024] | Goals: 2 | Assists: 5
+[Nahuel Molina] | [Atletico Madrid] | [2022/2023] | Goals: 4 | Assists: 4
+[Nahuel Molina] | [Udinese] | [2021/2022] | Goals: 8 | Assists: 2
+[Nahuel Molina] | [Udinese] | [2020/2021] | Goals: 2 | Assists: 5
+[Nahuel Molina] | [Rosario Central] | [2019/2020] | Goals: 1 | Assists: 3
+[Nahuel Molina] | [Defensa y Justicia] | [2018/2019] | Goals: 0 | Assists: 0
+[Angel Correa] | [Atletico Madrid] | [2023/2024] | Goals: 11 | Assists: 3
+[Angel Correa] | [Atletico Madrid] | [2022/2023] | Goals: 10 | Assists: 3
+[Angel Correa] | [Atletico Madrid] | [2021/2022] | Goals: 13 | Assists: 6
+[Angel Correa] | [Atletico Madrid] | [2020/2021] | Goals: 9 | Assists: 11
+[Angel Correa] | [Atletico Madrid] | [2019/2020] | Goals: 7 | Assists: 7
+[Angel Correa] | [Atletico Madrid] | [2018/2019] | Goals: 5 | Assists: 4
+[Angel Correa] | [Atletico Madrid] | [2017/2018] | Goals: 9 | Assists: 9
+[Angel Correa] | [Atletico Madrid] | [2016/2017] | Goals: 8 | Assists: 10
+[Joao Felix] | [Barcelona] | [2023/2024] | Goals: 10 | Assists: 6
+[Joao Felix] | [Chelsea] | [2022/2023] | Goals: 4 | Assists: 0
+[Joao Felix] | [Atletico Madrid] | [2021/2022] | Goals: 10 | Assists: 5
+[Joao Felix] | [Atletico Madrid] | [2020/2021] | Goals: 10 | Assists: 5
+[Joao Felix] | [Atletico Madrid] | [2019/2020] | Goals: 9 | Assists: 3
+[Joao Felix] | [Benfica] | [2018/2019] | Goals: 20 | Assists: 8
+[Nathan Ake] | [Man City] | [2023/2024] | Goals: 3 | Assists: 2
+[Nathan Ake] | [Man City] | [2022/2023] | Goals: 3 | Assists: 0
+[Nathan Ake] | [Man City] | [2021/2022] | Goals: 3 | Assists: 0
+[Nathan Ake] | [Man City] | [2020/2021] | Goals: 1 | Assists: 0
+[Nathan Ake] | [Bournemouth] | [2019/2020] | Goals: 2 | Assists: 2
+[Nathan Ake] | [Bournemouth] | [2018/2019] | Goals: 4 | Assists: 0
+[Nathan Ake] | [Bournemouth] | [2017/2018] | Goals: 2 | Assists: 3
+[Nathan Ake] | [Chelsea] | [2016/2017] | Goals: 0 | Assists: 1
+[Nathan Ake] | [Watford] | [2015/2016] | Goals: 1 | Assists: 0
+[Manuel Akanji] | [Man City] | [2023/2024] | Goals: 4 | Assists: 0
+[Manuel Akanji] | [Man City] | [2022/2023] | Goals: 1 | Assists: 1
+[Manuel Akanji] | [Dortmund] | [2021/2022] | Goals: 1 | Assists: 0
+[Manuel Akanji] | [Dortmund] | [2020/2021] | Goals: 2 | Assists: 0
+[Manuel Akanji] | [Dortmund] | [2019/2020] | Goals: 0 | Assists: 2
+[Manuel Akanji] | [Dortmund] | [2018/2019] | Goals: 1 | Assists: 0
+[Manuel Akanji] | [Basel] | [2017/2018] | Goals: 2 | Assists: 1
+[Christian Pulisic] | [AC Milan] | [2023/2024] | Goals: 16 | Assists: 10
+[Christian Pulisic] | [Chelsea] | [2022/2023] | Goals: 1 | Assists: 2
+[Christian Pulisic] | [Chelsea] | [2021/2022] | Goals: 8 | Assists: 4
+[Christian Pulisic] | [Chelsea] | [2020/2021] | Goals: 6 | Assists: 4
+[Christian Pulisic] | [Chelsea] | [2019/2020] | Goals: 11 | Assists: 7
+[Christian Pulisic] | [Dortmund] | [2018/2019] | Goals: 7 | Assists: 5
+[Christian Pulisic] | [Dortmund] | [2017/2018] | Goals: 5 | Assists: 6
+[Christian Pulisic] | [Dortmund] | [2016/2017] | Goals: 5 | Assists: 9
+[Divock Origi] | [Nottm Forest] | [2023/2024] | Goals: 1 | Assists: 1
+[Divock Origi] | [AC Milan] | [2022/2023] | Goals: 2 | Assists: 1
+[Divock Origi] | [Liverpool] | [2021/2022] | Goals: 6 | Assists: 3
+[Divock Origi] | [Liverpool] | [2020/2021] | Goals: 1 | Assists: 2
+[Divock Origi] | [Liverpool] | [2019/2020] | Goals: 6 | Assists: 2
+[Divock Origi] | [Liverpool] | [2018/2019] | Goals: 7 | Assists: 1
+[Divock Origi] | [Wolfsburg] | [2017/2018] | Goals: 7 | Assists: 3
+[Divock Origi] | [Liverpool] | [2016/2017] | Goals: 11 | Assists: 3
+[Divock Origi] | [Liverpool] | [2015/2016] | Goals: 10 | Assists: 2
+[Divock Origi] | [Lille] | [2014/2015] | Goals: 9 | Assists: 3
+[Daley Blind] | [Girona] | [2023/2024] | Goals: 3 | Assists: 2
+[Daley Blind] | [Bayern Munchen] | [2022/2023] | Goals: 0 | Assists: 0
+[Daley Blind] | [Ajax] | [2021/2022] | Goals: 2 | Assists: 3
+[Daley Blind] | [Ajax] | [2020/2021] | Goals: 1 | Assists: 2
+[Daley Blind] | [Ajax] | [2019/2020] | Goals: 1 | Assists: 1
+[Daley Blind] | [Ajax] | [2018/2019] | Goals: 6 | Assists: 4
+[Daley Blind] | [Man United] | [2017/2018] | Goals: 1 | Assists: 2
+[Daley Blind] | [Man United] | [2016/2017] | Goals: 1 | Assists: 2
+[Miguel Gutierrez] | [Girona] | [2023/2024] | Goals: 2 | Assists: 9
+[Miguel Gutierrez] | [Girona] | [2022/2023] | Goals: 2 | Assists: 3
+[Miguel Gutierrez] | [Real Madrid] | [2021/2022] | Goals: 0 | Assists: 1
+[Miguel Gutierrez] | [Real Madrid] | [2020/2021] | Goals: 0 | Assists: 1
+[Eric Dier] | [Bayern Munchen] | [2023/2024] | Goals: 0 | Assists: 0
+[Eric Dier] | [Tottenham] | [2022/2023] | Goals: 2 | Assists: 1
+[Eric Dier] | [Tottenham] | [2021/2022] | Goals: 0 | Assists: 0
+[Eric Dier] | [Tottenham] | [2020/2021] | Goals: 0 | Assists: 0
+[Eric Dier] | [Tottenham] | [2019/2020] | Goals: 0 | Assists: 2
+[Eric Dier] | [Tottenham] | [2018/2019] | Goals: 3 | Assists: 0
+[Eric Dier] | [Tottenham] | [2017/2018] | Goals: 0 | Assists: 3
+[Eric Dier] | [Tottenham] | [2016/2017] | Goals: 2 | Assists: 2
+[Raphael Guerreiro] | [Bayern Munchen] | [2023/2024] | Goals: 3 | Assists: 2
+[Raphael Guerreiro] | [Dortmund] | [2022/2023] | Goals: 6 | Assists: 14
+[Raphael Guerreiro] | [Dortmund] | [2021/2022] | Goals: 5 | Assists: 3
+[Raphael Guerreiro] | [Dortmund] | [2020/2021] | Goals: 6 | Assists: 10
+[Raphael Guerreiro] | [Dortmund] | [2019/2020] | Goals: 8 | Assists: 3
+[Raphael Guerreiro] | [Dortmund] | [2018/2019] | Goals: 6 | Assists: 6
+[Raphael Guerreiro] | [Dortmund] | [2017/2018] | Goals: 2 | Assists: 1
+[Raphael Guerreiro] | [Dortmund] | [2016/2017] | Goals: 7 | Assists: 5
+[Dayot Upamecano] | [Bayern Munchen] | [2023/2024] | Goals: 1 | Assists: 0
+[Dayot Upamecano] | [Bayern Munchen] | [2022/2023] | Goals: 1 | Assists: 1
+[Dayot Upamecano] | [Bayern Munchen] | [2021/2022] | Goals: 1 | Assists: 6
+[Dayot Upamecano] | [RB Leipzig] | [2020/2021] | Goals: 1 | Assists: 0
+[Dayot Upamecano] | [RB Leipzig] | [2019/2020] | Goals: 0 | Assists: 1
+[Dayot Upamecano] | [RB Leipzig] | [2018/2019] | Goals: 0 | Assists: 0
+[Dayot Upamecano] | [RB Leipzig] | [2017/2018] | Goals: 3 | Assists: 0
+[Dayot Upamecano] | [Salzburg] | [2016/2017] | Goals: 0 | Assists: 2
+[Matthijs de Ligt] | [Bayern Munchen] | [2023/2024] | Goals: 2 | Assists: 1
+[Matthijs de Ligt] | [Bayern Munchen] | [2022/2023] | Goals: 3 | Assists: 1
+[Matthijs de Ligt] | [Juventus] | [2021/2022] | Goals: 3 | Assists: 1
+[Matthijs de Ligt] | [Juventus] | [2020/2021] | Goals: 1 | Assists: 1
+[Matthijs de Ligt] | [Juventus] | [2019/2020] | Goals: 4 | Assists: 0
+[Matthijs de Ligt] | [Ajax] | [2018/2019] | Goals: 7 | Assists: 1
+[Matthijs de Ligt] | [Ajax] | [2017/2018] | Goals: 3 | Assists: 3
+[Matthijs de Ligt] | [Ajax] | [2016/2017] | Goals: 3 | Assists: 0
+[Leon Goretzka] | [Bayern Munchen] | [2023/2024] | Goals: 6 | Assists: 9
+[Leon Goretzka] | [Bayern Munchen] | [2022/2023] | Goals: 6 | Assists: 6
+[Leon Goretzka] | [Bayern Munchen] | [2021/2022] | Goals: 3 | Assists: 3
+[Leon Goretzka] | [Bayern Munchen] | [2020/2021] | Goals: 8 | Assists: 7
+[Leon Goretzka] | [Bayern Munchen] | [2019/2020] | Goals: 8 | Assists: 7
+[Leon Goretzka] | [Bayern Munchen] | [2018/2019] | Goals: 9 | Assists: 6
+[Leon Goretzka] | [Schalke 04] | [2017/2018] | Goals: 4 | Assists: 3
+[Leon Goretzka] | [Schalke 04] | [2016/2017] | Goals: 8 | Assists: 4
+[Konrad Laimer] | [Bayern Munchen] | [2023/2024] | Goals: 1 | Assists: 4
+[Konrad Laimer] | [RB Leipzig] | [2022/2023] | Goals: 4 | Assists: 1
+[Konrad Laimer] | [RB Leipzig] | [2021/2022] | Goals: 5 | Assists: 6
+[Konrad Laimer] | [RB Leipzig] | [2020/2021] | Goals: 0 | Assists: 0
+[Konrad Laimer] | [RB Leipzig] | [2019/2020] | Goals: 4 | Assists: 6
+[Konrad Laimer] | [RB Leipzig] | [2018/2019] | Goals: 2 | Assists: 3
+[Konrad Laimer] | [RB Leipzig] | [2017/2018] | Goals: 0 | Assists: 2
+[Konrad Laimer] | [Salzburg] | [2016/2017] | Goals: 4 | Assists: 4
+[Jamal Musiala] | [Bayern Munchen] | [2023/2024] | Goals: 12 | Assists: 7
+[Jamal Musiala] | [Bayern Munchen] | [2022/2023] | Goals: 16 | Assists: 13
+[Jamal Musiala] | [Bayern Munchen] | [2021/2022] | Goals: 8 | Assists: 5
+[Jamal Musiala] | [Bayern Munchen] | [2020/2021] | Goals: 7 | Assists: 1
+[Kingsley Coman] | [Bayern Munchen] | [2023/2024] | Goals: 5 | Assists: 3
+[Kingsley Coman] | [Bayern Munchen] | [2022/2023] | Goals: 9 | Assists: 6
+[Kingsley Coman] | [Bayern Munchen] | [2021/2022] | Goals: 8 | Assists: 5
+[Kingsley Coman] | [Bayern Munchen] | [2020/2021] | Goals: 8 | Assists: 5
+[Kingsley Coman] | [Bayern Munchen] | [2019/2020] | Goals: 8 | Assists: 5
+[Kingsley Coman] | [Bayern Munchen] | [2018/2019] | Goals: 10 | Assists: 5
+[Kingsley Coman] | [Bayern Munchen] | [2017/2018] | Goals: 7 | Assists: 6
+[Kingsley Coman] | [Bayern Munchen] | [2016/2017] | Goals: 2 | Assists: 1
+[Eric Garcia] | [Girona] | [2023/2024] | Goals: 5 | Assists: 0
+[Eric Garcia] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 2
+[Eric Garcia] | [Barcelona] | [2021/2022] | Goals: 0 | Assists: 0
+[Eric Garcia] | [Man City] | [2020/2021] | Goals: 0 | Assists: 0
+[Eric Garcia] | [Man City] | [2019/2020] | Goals: 0 | Assists: 1
+[Inigo Martinez] | [Barcelona] | [2023/2024] | Goals: 0 | Assists: 0
+[Inigo Martinez] | [Athletic Club] | [2022/2023] | Goals: 1 | Assists: 0
+[Inigo Martinez] | [Athletic Club] | [2021/2022] | Goals: 4 | Assists: 0
+[Inigo Martinez] | [Athletic Club] | [2020/2021] | Goals: 2 | Assists: 1
+[Inigo Martinez] | [Athletic Club] | [2019/2020] | Goals: 1 | Assists: 3
+[Inigo Martinez] | [Athletic Club] | [2018/2019] | Goals: 0 | Assists: 1
+[Inigo Martinez] | [Real Sociedad] | [2017/2018] | Goals: 1 | Assists: 1
+[Inigo Martinez] | [Real Sociedad] | [2016/2017] | Goals: 4 | Assists: 3
+[Clement Lenglet] | [Aston Villa] | [2023/2024] | Goals: 0 | Assists: 1
+[Clement Lenglet] | [Tottenham] | [2022/2023] | Goals: 1 | Assists: 2
+[Clement Lenglet] | [Barcelona] | [2021/2022] | Goals: 0 | Assists: 1
+[Clement Lenglet] | [Barcelona] | [2020/2021] | Goals: 1 | Assists: 0
+[Clement Lenglet] | [Barcelona] | [2019/2020] | Goals: 4 | Assists: 1
+[Clement Lenglet] | [Barcelona] | [2018/2019] | Goals: 2 | Assists: 0
+[Clement Lenglet] | [Sevilla] | [2017/2018] | Goals: 4 | Assists: 1
+[Clement Lenglet] | [Nancy] | [2016/2017] | Goals: 0 | Assists: 0
+[Ronald Araujo] | [Barcelona] | [2023/2024] | Goals: 1 | Assists: 2
+[Ronald Araujo] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 2
+[Ronald Araujo] | [Barcelona] | [2021/2022] | Goals: 4 | Assists: 0
+[Ronald Araujo] | [Barcelona] | [2020/2021] | Goals: 2 | Assists: 1
+[Ronald Araujo] | [Barcelona] | [2019/2020] | Goals: 0 | Assists: 0
+[Andreas Christensen] | [Barcelona] | [2023/2024] | Goals: 3 | Assists: 2
+[Andreas Christensen] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 1
+[Andreas Christensen] | [Chelsea] | [2021/2022] | Goals: 2 | Assists: 1
+[Andreas Christensen] | [Chelsea] | [2020/2021] | Goals: 0 | Assists: 0
+[Andreas Christensen] | [Chelsea] | [2019/2020] | Goals: 0 | Assists: 0
+[Andreas Christensen] | [Chelsea] | [2018/2019] | Goals: 0 | Assists: 1
+[Andreas Christensen] | [Chelsea] | [2017/2018] | Goals: 0 | Assists: 0
+[Andreas Christensen] | [M'gladbach] | [2016/2017] | Goals: 4 | Assists: 0
+[Alex Balde] | [Barcelona] | [2023/2024] | Goals: 1 | Assists: 1
+[Alex Balde] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 6
+[Alex Balde] | [Barcelona] | [2021/2022] | Goals: 0 | Assists: 0
+[Pau Cubarsi] | [Barcelona] | [2023/2024] | Goals: 0 | Assists: 1
+[Gavi] | [Barcelona] | [2023/2024] | Goals: 2 | Assists: 1
+[Gavi] | [Barcelona] | [2022/2023] | Goals: 3 | Assists: 6
+[Gavi] | [Barcelona] | [2021/2022] | Goals: 2 | Assists: 5
+[Fermin Lopez] | [Barcelona] | [2023/2023] | Goals: 11 | Assists: 0
+[Fermin Lopez] | [Linares Deportivo] | [2022/2023] | Goals: 12 | Assists: 0
+[Oriol Romeu] | [Barcelona] | [2023/2024] | Goals: 0 | Assists: 1
+[Oriol Romeu] | [Girona] | [2022/2023] | Goals: 2 | Assists: 0
+[Oriol Romeu] | [Southampton] | [2021/2022] | Goals: 2 | Assists: 3
+[Oriol Romeu] | [Southampton] | [2020/2021] | Goals: 1 | Assists: 1
+[Oriol Romeu] | [Southampton] | [2019/2020] | Goals: 0 | Assists: 0
+[Oriol Romeu] | [Southampton] | [2018/2019] | Goals: 1 | Assists: 0
+[Oriol Romeu] | [Southampton] | [2017/2018] | Goals: 1 | Assists: 0
+[Oriol Romeu] | [Southampton] | [2016/2017] | Goals: 1 | Assists: 0
+[Pablo Torre] | [Girona] | [2023/2024] | Goals: 1 | Assists: 2
+[Pablo Torre] | [Barcelona] | [2022/2023] | Goals: 1 | Assists: 1
+[Lamine Yamal] | [Barcelona] | [2023/2024] | Goals: 7 | Assists: 7
+[Lamine Yamal] | [Barcelona] | [2022/2023] | Goals: 0 | Assists: 0
+[Vitor Roque] | [Barcelona] | [2023/2024] | Goals: 2 | Assists: 0
+[Vitor Roque] | [Athletico Paranaense] | [2022/2023] | Goals: 21 | Assists: 6
+[Raphinha] | [Barcelona] | [2023/2024] | Goals: 10 | Assists: 11
+[Raphinha] | [Barcelona] | [2022/2023] | Goals: 10 | Assists: 12
+[Raphinha] | [Leeds] | [2021/2022] | Goals: 11 | Assists: 3
+[Raphinha] | [Leeds] | [2020/2021] | Goals: 6 | Assists: 9
+[Raphinha] | [Rennes] | [2019/2020] | Goals: 7 | Assists: 4
+[Raphinha] | [Sporting CP] | [2018/2019] | Goals: 7 | Assists: 2
+[Raphinha] | [Vitoria de Guimaraes] | [2017/2018] | Goals: 18 | Assists: 4
+[Ansu Fati] | [Brighton] | [2023/2024] | Goals: 4 | Assists: 1
+[Ansu Fati] | [Barcelona] | [2022/2023] | Goals: 10 | Assists: 3
+[Ansu Fati] | [Barcelona] | [2021/2022] | Goals: 6 | Assists: 0
+[Ansu Fati] | [Barcelona] | [2020/2021] | Goals: 5 | Assists: 2
+[Ansu Fati] | [Barcelona] | [2019/2020] | Goals: 8 | Assists: 1
+[Ferland Mendy] | [Real Madrid] | [2023/2024] | Goals: 1 | Assists: 0
+[Ferland Mendy] | [Real Madrid] | [2022/2023] | Goals: 0 | Assists: 1
+[Ferland Mendy] | [Real Madrid] | [2021/2022] | Goals: 2 | Assists: 4
+[Ferland Mendy] | [Real Madrid] | [2020/2021] | Goals: 2 | Assists: 0
+[Ferland Mendy] | [Real Madrid] | [2019/2020] | Goals: 1 | Assists: 2
+[Ferland Mendy] | [Lyon] | [2018/2019] | Goals: 3 | Assists: 2
+[Ferland Mendy] | [Lyon] | [2017/2018] | Goals: 0 | Assists: 5
+[Eduardo Camavinga] | [Real Madrid] | [2023/2024] | Goals: 0 | Assists: 3
+[Eduardo Camavinga] | [Real Madrid] | [2022/2023] | Goals: 0 | Assists: 2
+[Eduardo Camavinga] | [Real Madrid] | [2021/2022] | Goals: 2 | Assists: 2
+[Eduardo Camavinga] | [Rennes] | [2020/2021] | Goals: 1 | Assists: 2
+[Eduardo Camavinga] | [Rennes] | [2019/2020] | Goals: 1 | Assists: 2
+[Eduardo Camavinga] | [Rennes] | [2018/2019] | Goals: 0 | Assists: 0
+[Samuel Chukwueze] | [AC Milan] | [2023/2024] | Goals: 3 | Assists: 3
+[Samuel Chukwueze] | [Villarreal] | [2022/2023] | Goals: 13 | Assists: 10
+[Samuel Chukwueze] | [Villarreal] | [2021/2022] | Goals: 7 | Assists: 3
+[Samuel Chukwueze] | [Villarreal] | [2020/2021] | Goals: 5 | Assists: 7
+[Samuel Chukwueze] | [Villarreal] | [2019/2020] | Goals: 4 | Assists: 3
+[Samuel Chukwueze] | [Villarreal] | [2018/2019] | Goals: 8 | Assists: 3
+[Rafael Leao] | [AC Milan] | [2023/2024] | Goals: 15 | Assists: 12
+[Rafael Leao] | [AC Milan] | [2022/2023] | Goals: 16 | Assists: 11
+[Rafael Leao] | [AC Milan] | [2021/2022] | Goals: 14 | Assists: 10
+[Rafael Leao] | [AC Milan] | [2020/2021] | Goals: 7 | Assists: 6
+[Rafael Leao] | [AC Milan] | [2019/2020] | Goals: 6 | Assists: 2
+[Rafael Leao] | [Lille] | [2018/2019] | Goals: 8 | Assists: 3
+[Rafael Leao] | [Sporting CP] | [2017/2018] | Goals: 1 | Assists: 1
+[Noah Okafor] | [AC Milan] | [2023/2024] | Goals: 6 | Assists: 3
+[Noah Okafor] | [Salzburg] | [2022/2023] | Goals: 10 | Assists: 4
+[Noah Okafor] | [Salzburg] | [2021/2022] | Goals: 14 | Assists: 9
+[Noah Okafor] | [Salzburg] | [2020/2021] | Goals: 6 | Assists: 4
+[Noah Okafor] | [Salzburg] | [2019/2020] | Goals: 4 | Assists: 1
+[Noah Okafor] | [Basel] | [2018/2019] | Goals: 4 | Assists: 2
+[Yacine Adli] | [AC Milan] | [2023/2024] | Goals: 1 | Assists: 2
+[Yacine Adli] | [AC Milan] | [2022/2023] | Goals: 0 | Assists: 0
+[Yacine Adli] | [Bordeaux] | [2021/2022] | Goals: 1 | Assists: 7
+[Yacine Adli] | [Bordeaux] | [2020/2021] | Goals: 2 | Assists: 5
+[Yacine Adli] | [Bordeaux] | [2019/2020] | Goals: 3 | Assists: 3
+[Yacine Adli] | [Bordeaux] | [2018/2019] | Goals: 0 | Assists: 0
+[Diogo Dalot] | [Man United] | [2023/2024] | Goals: 3 | Assists: 5
+[Diogo Dalot] | [Man United] | [2022/2023] | Goals: 2 | Assists: 2
+[Diogo Dalot] | [Man United] | [2021/2022] | Goals: 0 | Assists: 0
+[Diogo Dalot] | [AC Milan] | [2020/2021] | Goals: 2 | Assists: 3
+[Diogo Dalot] | [Man United] | [2019/2020] | Goals: 1 | Assists: 0
+[Diogo Dalot] | [Man United] | [2018/2019] | Goals: 0 | Assists: 2
+[Diogo Dalot] | [FC Porto] | [2017/2018] | Goals: 0 | Assists: 1
+[Lisandro Martinez] | [Man United] | [2023/2024] | Goals: 0 | Assists: 1
+[Lisandro Martinez] | [Man United] | [2022/2023] | Goals: 1 | Assists: 0
+[Lisandro Martinez] | [Ajax] | [2021/2022] | Goals: 1 | Assists: 4
+[Lisandro Martinez] | [Ajax] | [2020/2021] | Goals: 3 | Assists: 1
+[Lisandro Martinez] | [Ajax] | [2019/2020] | Goals: 2 | Assists: 1
+[Lisandro Martinez] | [Defensa y Justicia] | [2018/2019] | Goals: 2 | Assists: 3
+[Leny Yoro] | [Lille] | [2023/2024] | Goals: 3 | Assists: 0
+[Leny Yoro] | [Lille] | [2022/2023] | Goals: 0 | Assists: 0
+[Leny Yoro] | [Lille] | [2021/2022] | Goals: 0 | Assists: 0
+[Jonny Evans] | [Man United] | [2023/2024] | Goals: 0 | Assists: 1
+[Jonny Evans] | [Leicester] | [2022/2023] | Goals: 0 | Assists: 0
+[Jonny Evans] | [Leicester] | [2021/2022] | Goals: 2 | Assists: 1
+[Jonny Evans] | [Leicester] | [2020/2021] | Goals: 2 | Assists: 2
+[Jonny Evans] | [Leicester] | [2019/2020] | Goals: 2 | Assists: 1
+[Jonny Evans] | [Leicester] | [2018/2019] | Goals: 1 | Assists: 0
+[Jonny Evans] | [West Brom] | [2017/2018] | Goals: 2 | Assists: 2
+[Jonny Evans] | [West Brom] | [2016/2017] | Goals: 2 | Assists: 1
+[Jonny Evans] | [West Brom] | [2015/2016] | Goals: 1 | Assists: 2
+[Scott McTominay] | [Man United] | [2023/2024] | Goals: 10 | Assists: 3
+[Scott McTominay] | [Man United] | [2022/2023] | Goals: 3 | Assists: 1
+[Scott McTominay] | [Man United] | [2021/2022] | Goals: 2 | Assists: 1
+[Scott McTominay] | [Man United] | [2020/2021] | Goals: 7 | Assists: 2
+[Scott McTominay] | [Man United] | [2019/2020] | Goals: 5 | Assists: 1
+[Scott McTominay] | [Man United] | [2018/2019] | Goals: 2 | Assists: 0
+[Scott McTominay] | [Man United] | [2017/2018] | Goals: 0 | Assists: 0
+[Scott McTominay] | [Man United] | [2016/2017] | Goals: 0 | Assists: 0
+[Oleksandr Zinchenko] | [Arsenal] | [2023/2024] | Goals: 1 | Assists: 2
+[Oleksandr Zinchenko] | [Arsenal] | [2022/2023] | Goals: 1 | Assists: 2
+[Oleksandr Zinchenko] | [Man City] | [2021/2022] | Goals: 0 | Assists: 6
+[Oleksandr Zinchenko] | [Man City] | [2020/2021] | Goals: 0 | Assists: 2
+[Oleksandr Zinchenko] | [Man City] | [2019/2020] | Goals: 1 | Assists: 0
+[Oleksandr Zinchenko] | [Man City] | [2018/2019] | Goals: 1 | Assists: 5
+[Oleksandr Zinchenko] | [Man City] | [2017/2018] | Goals: 0 | Assists: 0
+[Gabriel] | [Arsenal] | [2023/2024] | Goals: 4 | Assists: 0
+[Gabriel] | [Arsenal] | [2022/2023] | Goals: 3 | Assists: 0
+[Gabriel] | [Arsenal] | [2021/2022] | Goals: 5 | Assists: 0
+[Gabriel] | [Arsenal] | [2020/2021] | Goals: 3 | Assists: 1
+[Gabriel] | [Lille] | [2019/2020] | Goals: 1 | Assists: 0
+[Gabriel] | [Lille] | [2018/2019] | Goals: 1 | Assists: 0
+[Ben White] | [Arsenal] | [2023/2024] | Goals: 4 | Assists: 5
+[Ben White] | [Arsenal] | [2022/2023] | Goals: 2 | Assists: 5
+[Ben White] | [Arsenal] | [2021/2022] | Goals: 0 | Assists: 0
+[Ben White] | [Brighton] | [2020/2021] | Goals: 0 | Assists: 0
+[Ben White] | [Leeds] | [2019/2020] | Goals: 1 | Assists: 2
+[Jorginho] | [Arsenal] | [2023/2024] | Goals: 1 | Assists: 2
+[Jorginho] | [Arsenal] | [2022/2023] | Goals: 0 | Assists: 1
+[Jorginho] | [Chelsea] | [2021/2022] | Goals: 9 | Assists: 4
+[Jorginho] | [Chelsea] | [2020/2021] | Goals: 8 | Assists: 2
+[Jorginho] | [Chelsea] | [2019/2020] | Goals: 7 | Assists: 2
+[Jorginho] | [Chelsea] | [2018/2019] | Goals: 2 | Assists: 0
+[Jorginho] | [SSC Napoli] | [2017/2018] | Goals: 4 | Assists: 4
+[Jorginho] | [SSC Napoli] | [2016/2017] | Goals: 0 | Assists: 3
+[Thomas Partey] | [Arsenal] | [2023/2024] | Goals: 0 | Assists: 0
+[Thomas Partey] | [Arsenal] | [2022/2023] | Goals: 3 | Assists: 0
+[Thomas Partey] | [Arsenal] | [2021/2022] | Goals: 2 | Assists: 1
+[Thomas Partey] | [Arsenal] | [2020/2021] | Goals: 0 | Assists: 3
+[Thomas Partey] | [Atletico Madrid] | [2019/2020] | Goals: 4 | Assists: 1
+[Thomas Partey] | [Atletico Madrid] | [2018/2019] | Goals: 3 | Assists: 6
+[Thomas Partey] | [Atletico Madrid] | [2017/2018] | Goals: 5 | Assists: 1
+[Thomas Partey] | [Atletico Madrid] | [2016/2017] | Goals: 1 | Assists: 4
+[Declan Rice] | [Arsenal] | [2023/2024] | Goals: 7 | Assists: 9
+[Declan Rice] | [West Ham] | [2022/2023] | Goals: 5 | Assists: 4
+[Declan Rice] | [West Ham] | [2021/2022] | Goals: 5 | Assists: 4
+[Declan Rice] | [West Ham] | [2020/2021] | Goals: 2 | Assists: 1
+[Declan Rice] | [West Ham] | [2019/2020] | Goals: 1 | Assists: 3
+[Declan Rice] | [West Ham] | [2018/2019] | Goals: 2 | Assists: 1
+[Declan Rice] | [West Ham] | [2017/2018] | Goals: 0 | Assists: 0
+[Gabriel Jesus] | [Arsenal] | [2023/2024] | Goals: 8 | Assists: 8
+[Gabriel Jesus] | [Arsenal] | [2022/2023] | Goals: 11 | Assists: 7
+[Gabriel Jesus] | [Man City] | [2021/2022] | Goals: 13 | Assists: 11
+[Gabriel Jesus] | [Man City] | [2020/2021] | Goals: 14 | Assists: 4
+[Gabriel Jesus] | [Man City] | [2019/2020] | Goals: 23 | Assists: 11
+[Gabriel Jesus] | [Man City] | [2018/2019] | Goals: 21 | Assists: 7
+[Gabriel Jesus] | [Man City] | [2017/2018] | Goals: 17 | Assists: 3
+[Gabriel Jesus] | [Man City] | [2016/2017] | Goals: 7 | Assists: 5
+[Gabriel Jesus] | [Palmeiras] | [2015/2016] | Goals: 21 | Assists: 5
+[Gabriel Jesus] | [Palmeiras] | [2014/2015] | Goals: 7 | Assists: 4
+[Kai Havertz] | [Arsenal] | [2023/2024] | Goals: 14 | Assists: 7
+[Kai Havertz] | [Chelsea] | [2022/2023] | Goals: 9 | Assists: 1
+[Kai Havertz] | [Chelsea] | [2021/2022] | Goals: 14 | Assists: 5
+[Kai Havertz] | [Chelsea] | [2020/2021] | Goals: 9 | Assists: 6
+[Kai Havertz] | [Leverkusen] | [2019/2020] | Goals: 18 | Assists: 9
+[Kai Havertz] | [Leverkusen] | [2018/2019] | Goals: 20 | Assists: 6
+[Kai Havertz] | [Leverkusen] | [2017/2018] | Goals: 4 | Assists: 8
+[Kai Havertz] | [Leverkusen] | [2016/2017] | Goals: 4 | Assists: 5
+[Leandro Trossard] | [Arsenal] | [2023/2024] | Goals: 17 | Assists: 2
+[Leandro Trossard] | [Arsenal] | [2022/2023] | Goals: 1 | Assists: 10
+[Leandro Trossard] | [Brighton] | [2021/2022] | Goals: 8 | Assists: 3
+[Leandro Trossard] | [Brighton] | [2020/2021] | Goals: 5 | Assists: 5
+[Leandro Trossard] | [Brighton] | [2019/2020] | Goals: 5 | Assists: 3
+[Leandro Trossard] | [Brighton] | [2018/2019] | Goals: 22 | Assists: 10
+[Reiss Nelson] | [Arsenal] | [2023/2024] | Goals: 1 | Assists: 2
+[Reiss Nelson] | [Arsenal] | [2022/2023] | Goals: 3 | Assists: 3
+[Reiss Nelson] | [Feyenoord] | [2021/2022] | Goals: 4 | Assists: 7
+[Reiss Nelson] | [Arsenal] | [2020/2021] | Goals: 1 | Assists: 1
+[Reiss Nelson] | [Arsenal] | [2019/2020] | Goals: 3 | Assists: 3
+[Reiss Nelson] | [Hoffenheim] | [2018/2019] | Goals: 7 | Assists: 0
+[Reiss Nelson] | [Arsenal] | [2017/2018] | Goals: 0 | Assists: 0
+[Matteo Politano] | [SSC Napoli] | [2023/2024] | Goals: 9 | Assists: 8
+[Matteo Politano] | [SSC Napoli] | [2022/2023] | Goals: 4 | Assists: 4
+[Matteo Politano] | [SSC Napoli] | [2021/2022] | Goals: 5 | Assists: 6
+[Matteo Politano] | [SSC Napoli] | [2020/2021] | Goals: 12 | Assists: 4
+[Matteo Politano] | [SSC Napoli] | [2019/2020] | Goals: 2 | Assists: 2
+[Matteo Politano] | [Inter] | [2018/2019] | Goals: 6 | Assists: 7
+[Matteo Politano] | [Sassuolo] | [2017/2018] | Goals: 11 | Assists: 4
+[Matteo Politano] | [Sassuolo] | [2016/2017] | Goals: 8 | Assists: 6
+[Victor Osimhen] | [SSC Napoli] | [2023/2024] | Goals: 17 | Assists: 3
+[Victor Osimhen] | [SSC Napoli] | [2022/2023] | Goals: 31 | Assists: 4
+[Victor Osimhen] | [SSC Napoli] | [2021/2022] | Goals: 18 | Assists: 2
+[Victor Osimhen] | [SSC Napoli] | [2020/2021] | Goals: 10 | Assists: 3
+[Victor Osimhen] | [Lille] | [2019/2020] | Goals: 18 | Assists: 5
+[Victor Osimhen] | [Sporting Charleroi] | [2018/2019] | Goals: 20 | Assists: 4
+[Victor Osimhen] | [Wolfsburg] | [2017/2018] | Goals: 0 | Assists: 0
+[Victor Osimhen] | [Wolfsburg] | [2016/2017] | Goals: 0 | Assists: 0
+[Khvicha Kvaratskhelia] | [SSC Napoli] | [2023/2024] | Goals: 11 | Assists: 7
+[Khvicha Kvaratskhelia] | [SSC Napoli] | [2022/2023] | Goals: 14 | Assists: 14
+[Khvicha Kvaratskhelia] | [Rubin] | [2021/2022] | Goals: 2 | Assists: 4
+[Khvicha Kvaratskhelia] | [Rubin] | [2020/2021] | Goals: 4 | Assists: 4
+[Khvicha Kvaratskhelia] | [Rubin] | [2019/2020] | Goals: 3 | Assists: 2
+[Khvicha Kvaratskhelia] | [Lokomotiv] | [2018/2019] | Goals: 1 | Assists: 0
+[Chris Smalling] | [Roma] | [2023/2024] | Goals: 0 | Assists: 0
+[Chris Smalling] | [Roma] | [2022/2023] | Goals: 3 | Assists: 1
+[Chris Smalling] | [Roma] | [2021/2022] | Goals: 4 | Assists: 0
+[Chris Smalling] | [Roma] | [2020/2021] | Goals: 0 | Assists: 1
+[Chris Smalling] | [Roma] | [2019/2020] | Goals: 3 | Assists: 2
+[Chris Smalling] | [Man United] | [2018/2019] | Goals: 1 | Assists: 0
+[Chris Smalling] | [Man United] | [2017/2018] | Goals: 4 | Assists: 0
+[Chris Smalling] | [Man United] | [2016/2017] | Goals: 2 | Assists: 2
+[Chris Smalling] | [Man United] | [2015/2016] | Goals: 2 | Assists: 1
+[Leandro Paredes] | [Roma] | [2023/2024] | Goals: 5 | Assists: 7
+[Leandro Paredes] | [Juventus] | [2022/2023] | Goals: 1 | Assists: 1
+[Leandro Paredes] | [PSG] | [2021/2022] | Goals: 1 | Assists: 2
+[Leandro Paredes] | [PSG] | [2020/2021] | Goals: 1 | Assists: 3
+[Leandro Paredes] | [PSG] | [2019/2020] | Goals: 1 | Assists: 1
+[Leandro Paredes] | [PSG] | [2018/2019] | Goals: 0 | Assists: 2
+[Leandro Paredes] | [Zenit] | [2017/2018] | Goals: 6 | Assists: 8
+[Leandro Paredes] | [Roma] | [2016/2017] | Goals: 3 | Assists: 1
+[Paulo Dybala] | [Roma] | [2023/2024] | Goals: 16 | Assists: 10
+[Paulo Dybala] | [Roma] | [2022/2023] | Goals: 18 | Assists: 7
+[Paulo Dybala] | [Juventus] | [2021/2022] | Goals: 15 | Assists: 6
+[Paulo Dybala] | [Juventus] | [2020/2021] | Goals: 5 | Assists: 3
+[Paulo Dybala] | [Juventus] | [2019/2020] | Goals: 17 | Assists: 9
+[Paulo Dybala] | [Juventus] | [2018/2019] | Goals: 10 | Assists: 4
+[Paulo Dybala] | [Juventus] | [2017/2018] | Goals: 26 | Assists: 6
+[Paulo Dybala] | [Juventus] | [2016/2017] | Goals: 19 | Assists: 8
+[Pedro Rodriguez] | [Lazio] | [2023/2024] | Goals: 3 | Assists: 1
+[Pedro Rodriguez] | [Lazio] | [2022/2023] | Goals: 7 | Assists: 4
+[Pedro Rodriguez] | [Lazio] | [2021/2022] | Goals: 10 | Assists: 6
+[Pedro Rodriguez] | [Roma] | [2020/2021] | Goals: 6 | Assists: 4
+[Pedro Rodriguez] | [Chelsea] | [2019/2020] | Goals: 2 | Assists: 3
+[Pedro Rodriguez] | [Chelsea] | [2018/2019] | Goals: 13 | Assists: 5
+[Pedro Rodriguez] | [Chelsea] | [2017/2018] | Goals: 7 | Assists: 5
+[Pedro Rodriguez] | [Chelsea] | [2016/2017] | Goals: 13 | Assists: 11
+[Nicolas Otamendi] | [Benfica] | [2023/2024] | Goals: 4 | Assists: 2
+[Nicolas Otamendi] | [Benfica] | [2022/2023] | Goals: 2 | Assists: 1
+[Nicolas Otamendi] | [Benfica] | [2021/2022] | Goals: 0 | Assists: 1
+[Nicolas Otamendi] | [Benfica] | [2020/2021] | Goals: 1 | Assists: 0
+[Nicolas Otamendi] | [Man City] | [2019/2020] | Goals: 3 | Assists: 0
+[Nicolas Otamendi] | [Man City] | [2018/2019] | Goals: 1 | Assists: 1
+[Nicolas Otamendi] | [Man City] | [2017/2018] | Goals: 5 | Assists: 0
+[Nicolas Otamendi] | [Man City] | [2016/2017] | Goals: 1 | Assists: 1
+[Adrien Rabiot] | [Juventus] | [2023/2024] | Goals: 5 | Assists: 3
+[Adrien Rabiot] | [Juventus] | [2022/2023] | Goals: 11 | Assists: 5
+[Adrien Rabiot] | [Juventus] | [2021/2022] | Goals: 0 | Assists: 2
+[Adrien Rabiot] | [Juventus] | [2020/2021] | Goals: 5 | Assists: 3
+[Adrien Rabiot] | [Juventus] | [2019/2020] | Goals: 1 | Assists: 1
+[Adrien Rabiot] | [PSG] | [2018/2019] | Goals: 2 | Assists: 2
+[Adrien Rabiot] | [PSG] | [2017/2018] | Goals: 5 | Assists: 7
+[Adrien Rabiot] | [PSG] | [2016/2017] | Goals: 4 | Assists: 4
+[Theo Hernandez] | [AC Milan] | [2023/2024] | Goals: 5 | Assists: 11
+[Theo Hernandez] | [AC Milan] | [2022/2023] | Goals: 4 | Assists: 5
+[Theo Hernandez] | [AC Milan] | [2021/2022] | Goals: 5 | Assists: 9
+[Theo Hernandez] | [AC Milan] | [2020/2021] | Goals: 8 | Assists: 7
+[Theo Hernandez] | [AC Milan] | [2019/2020] | Goals: 7 | Assists: 3
+[Theo Hernandez] | [Real Sociedad] | [2018/2019] | Goals: 1 | Assists: 2
+[Theo Hernandez] | [Real Madrid] | [2017/2018] | Goals: 0 | Assists: 2
+[Theo Hernandez] | [Deportivo Alaves] | [2016/1017] | Goals: 2 | Assists: 3
+[Olivier Giroud] | [AC Milan] | [2023/2024] | Goals: 17 | Assists: 9
+[Olivier Giroud] | [AC Milan] | [2022/2023] | Goals: 18 | Assists: 7
+[Olivier Giroud] | [AC Milan] | [2021/2022] | Goals: 14 | Assists: 3
+[Olivier Giroud] | [Chelsea] | [2020/2021] | Goals: 11 | Assists: 0
+[Olivier Giroud] | [Chelsea] | [2019/2020] | Goals: 10 | Assists: 1
+[Olivier Giroud] | [Chelsea] | [2018/2019] | Goals: 13 | Assists: 9
+[Olivier Giroud] | [Chelsea] | [2017/2018] | Goals: 5 | Assists: 3
+[Marcus Thuram] | [Inter] | [2023/2024] | Goals: 15 | Assists: 7
+[Marcus Thuram] | [M'gladbach] | [2022/2023] | Goals: 16 | Assists: 7
+[Marcus Thuram] | [M'gladbach] | [2021/2022] | Goals: 3 | Assists: 0
+[Marcus Thuram] | [M'gladbach] | [2020/2021] | Goals: 11 | Assists: 5
+[Marcus Thuram] | [M'gladbach] | [2019/2020] | Goals: 14 | Assists: 8
+[Marcus Thuram] | [Guingamp] | [2018/2019] | Goals: 13 | Assists: 1
+[Marcus Thuram] | [Guingamp] | [2017/2018] | Goals: 4 | Assists: 1
+[Marcus Thuram] | [Sochaux] | [2016/2017] | Goals: 1 | Assists: 1
+[Lewis Dunk] | [Brighton] | [2023/2024] | Goals: 4 | Assists: 1
+[Lewis Dunk] | [Brighton] | [2022/2023] | Goals: 2 | Assists: 0
+[Lewis Dunk] | [Brighton] | [2021/2022] | Goals: 1 | Assists: 0
+[Lewis Dunk] | [Brighton] | [2020/2021] | Goals: 5 | Assists: 0
+[Lewis Dunk] | [Brighton] | [2019/2020] | Goals: 3 | Assists: 3
+[Lewis Dunk] | [Brighton] | [2018/2019] | Goals: 2 | Assists: 1
+[Lewis Dunk] | [Brighton] | [2017/2018] | Goals: 1 | Assists: 1
+[Lewis Dunk] | [Brighton] | [2016/2017] | Goals: 2 | Assists: 1
+[Ezri Konsa] | [Aston Villa] | [2023/2024] | Goals: 1 | Assists: 0
+[Ezri Konsa] | [Aston Villa] | [2022/2023] | Goals: 0 | Assists: 0
+[Ezri Konsa] | [Aston Villa] | [2021/2022] | Goals: 2 | Assists: 0
+[Ezri Konsa] | [Aston Villa] | [2020/2021] | Goals: 2 | Assists: 0
+[Ezri Konsa] | [Aston Villa] | [2019/2020] | Goals: 2 | Assists: 2
+[Ezri Konsa] | [Aston Villa] | [2018/2019] | Goals: 1 | Assists: 0
+[Marc Guehi] | [Crystal Palace] | [2023/2024] | Goals: 0 | Assists: 1
+[Marc Guehi] | [Crystal Palace] | [2022/2023] | Goals: 1 | Assists: 0
+[Marc Guehi] | [Crystal Palace] | [2021/2022] | Goals: 4 | Assists: 1
+[Marc Guehi] | [Swansea] | [2020/2021] | Goals: 0 | Assists: 0
+[Marc Guehi] | [Swansea] | [2019/2020] | Goals: 0 | Assists: 0
+[Eberechi Eze] | [Crystal Palace] | [2023/2024] | Goals: 11 | Assists: 6
+[Eberechi Eze] | [Crystal Palace] | [2022/2023] | Goals: 10 | Assists: 4
+[Eberechi Eze] | [Crystal Palace] | [2021/2022] | Goals: 1 | Assists: 1
+[Eberechi Eze] | [Crystal Palace] | [2020/2021] | Goals: 4 | Assists: 6
+[Eberechi Eze] | [QPR] | [2019/2020] | Goals: 14 | Assists: 8
+[Eberechi Eze] | [QPR] | [2018/2019] | Goals: 4 | Assists: 3
+[Eberechi Eze] | [QPR] | [2017/2018] | Goals: 2 | Assists: 0
+[Ivan Toney] | [Brentford] | [2023/2024] | Goals: 4 | Assists: 2
+[Ivan Toney] | [Brentford] | [2022/2023] | Goals: 21 | Assists: 5
+[Ivan Toney] | [Brentford] | [2021/2022] | Goals: 14 | Assists: 6
+[Ivan Toney] | [Brentford] | [2020/2021] | Goals: 33 | Assists: 10
+[Ivan Toney] | [Peterborough] | [2019/2020] | Goals: 26 | Assists: 6
+[Kobbie Mainoo] | [Man United] | [2023/2024] | Goals: 5 | Assists: 1
+[Kobbie Mainoo] | [Man United] | [2022/2023] | Goals: 0 | Assists: 0
+[Jesus Navas] | [Sevilla] | [2023/2024] | Goals: 0 | Assists: 2
+[Jesus Navas] | [Sevilla] | [2022/2023] | Goals: 0 | Assists: 4
+[Jesus Navas] | [Sevilla] | [2021/2022] | Goals: 0 | Assists: 3
+[Jesus Navas] | [Sevilla] | [2020/2021] | Goals: 0 | Assists: 6
+[Jesus Navas] | [Sevilla] | [2019/2020] | Goals: 0 | Assists: 10
+[Jesus Navas] | [Sevilla] | [2018/2019] | Goals: 2 | Assists: 7
+[Jesus Navas] | [Sevilla] | [2017/2018] | Goals: 3 | Assists: 2
+[Jesus Navas] | [Man City] | [2016/2017] | Goals: 0 | Assists: 3
+[Robin Le Normand] | [Real Sociedad] | [2023/2024] | Goals: 2 | Assists: 0
+[Robin Le Normand] | [Real Sociedad] | [2022/2023] | Goals: 0 | Assists: 0
+[Robin Le Normand] | [Real Sociedad] | [2021/2022] | Goals: 2 | Assists: 2
+[Robin Le Normand] | [Real Sociedad] | [2020/2021] | Goals: 0 | Assists: 1
+[Robin Le Normand] | [Real Sociedad] | [2019/2020] | Goals: 2 | Assists: 0
+[Robin Le Normand] | [Real Sociedad] | [2018/2019] | Goals: 0 | Assists: 2
+[Juan Miranda] | [Real Betis] | [2023/2024] | Goals: 2 | Assists: 2
+[Juan Miranda] | [Real Betis] | [2022/2023] | Goals: 3 | Assists: 5
+[Juan Miranda] | [Real Betis] | [2021/2022] | Goals: 1 | Assists: 2
+[Juan Miranda] | [Real Betis] | [2020/2021] | Goals: 2 | Assists: 2
+[Juan Miranda] | [Schalke 04] | [2019/2020] | Goals: 0 | Assists: 1
+[Juan Miranda] | [Barcelona] | [2018/2019] | Goals: 0 | Assists: 0
+[Dani Olmo] | [RB Leipzig] | [2023/2024] | Goals: 8 | Assists: 5
+[Dani Olmo] | [RB Leipzig] | [2022/2023] | Goals: 5 | Assists: 9
+[Dani Olmo] | [RB Leipzig] | [2021/2022] | Goals: 4 | Assists: 5
+[Dani Olmo] | [RB Leipzig] | [2020/2021] | Goals: 7 | Assists: 11
+[Dani Olmo] | [RB Leipzig] | [2019/2020] | Goals: 5 | Assists: 1
+[Dani Olmo] | [Dinamo Zagreb] | [2018/2019] | Goals: 12 | Assists: 3
+[Fabian Ruiz] | [PSG] | [2023/2024] | Goals: 3 | Assists: 7
+[Fabian Ruiz] | [PSG] | [2022/2023] | Goals: 3 | Assists: 3
+[Fabian Ruiz] | [SSC Napoli] | [2021/2022] | Goals: 7 | Assists: 5
+[Fabian Ruiz] | [SSC Napoli] | [2020/2021] | Goals: 4 | Assists: 1
+[Fabian Ruiz] | [SSC Napoli] | [2019/2020] | Goals: 4 | Assists: 6
+[Fabian Ruiz] | [SSC Napoli] | [2018/2019] | Goals: 7 | Assists: 4
+[Fabian Ruiz] | [Real Betis] | [2017/2018] | Goals: 3 | Assists: 6
+[Fabian Ruiz] | [Real Betis] | [2016/2017] | Goals: 0 | Assists: 0
+[Alex Baena] | [Villarreal] | [2023/2024] | Goals: 5 | Assists: 17
+[Alex Baena] | [Villarreal] | [2022/2023] | Goals: 12 | Assists: 3
+[Alex Baena] | [Girona] | [2021/2022] | Goals: 5 | Assists: 6
+[Alex Baena] | [Villarreal] | [2020/2021] | Goals: 2 | Assists: 3
+[Alex Baena] | [Villarreal] | [2019/2020] | Goals: 0 | Assists: 2
+[Joselu] | [Real Madrid] | [2023/2024] | Goals: 18 | Assists: 3
+[Joselu] | [Espanyol] | [2022/2023] | Goals: 17 | Assists: 3
+[Joselu] | [Deportivo Alaves] | [2021/2022] | Goals: 14 | Assists: 4
+[Joselu] | [Deportivo Alaves] | [2020/2021] | Goals: 11 | Assists: 3
+[Joselu] | [Deportivo Alaves] | [2019/2020] | Goals: 11 | Assists: 2
+[Joselu] | [Newcastle] | [2018/2019] | Goals: 3 | Assists: 1
+[Joselu] | [Newcastle] | [2017/2018] | Goals: 4 | Assists: 1
+[Joselu] | [Deportivo La Coruna] | [2016/2017] | Goals: 6 | Assists: 1
+[Nico Williams] | [Athletic Club] | [2023/2024] | Goals: 8 | Assists: 16
+[Nico Williams] | [Athletic Club] | [2022/2023] | Goals: 9 | Assists: 4
+[Nico Williams] | [Athletic Club] | [2021/2022] | Goals: 3 | Assists: 1
+[Nico Williams] | [Athletic Club] | [2020/2021] | Goals: 0 | Assists: 0
+[Mikel Oyarzabal ] | [Real Sociedad] | [2023/2024] | Goals: 14 | Assists: 3
+[Mikel Oyarzabal ] | [Real Sociedad] | [2022/2023] | Goals: 4 | Assists: 1
+[Mikel Oyarzabal ] | [Real Sociedad] | [2021/2022] | Goals: 15 | Assists: 4
+[Mikel Oyarzabal ] | [Real Sociedad] | [2020/2021] | Goals: 13 | Assists: 10
+[Mikel Oyarzabal ] | [Real Sociedad] | [2019/2020] | Goals: 13 | Assists: 13
+[Mikel Oyarzabal ] | [Real Sociedad] | [2018/2019] | Goals: 14 | Assists: 2
+[Mikel Oyarzabal ] | [Real Sociedad] | [2017/2018] | Goals: 14 | Assists: 6
+[Mikel Oyarzabal ] | [Real Sociedad] | [2016/2017] | Goals: 4 | Assists: 8

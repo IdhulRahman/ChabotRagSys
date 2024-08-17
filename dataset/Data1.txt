@@ -1,0 +1,7296 @@
+Player: Lionel Messi
+Team: InterMiami
+Season: 2024
+Goals: 14
+Assists: 11
+---
+Player: Lionel Messi
+Team: InterMiami
+Season: 2023
+Goals: 11
+Assists: 5
+---
+Player: Lionel Messi
+Team: PSG
+Season: 2022/2023
+Goals: 21
+Assists: 20
+---
+Player: Lionel Messi
+Team: PSG
+Season: 2021/2022
+Goals: 11
+Assists: 14
+---
+Player: Lionel Messi
+Team: Barcelona
+Season: 2020/2021
+Goals: 38
+Assists: 12
+---
+Player: Lionel Messi
+Team: Barcelona
+Season: 2019/2020
+Goals: 31
+Assists: 25
+---
+Player: Lionel Messi
+Team: Barcelona
+Season: 2018/2019
+Goals: 51
+Assists: 19
+---
+Player: Lionel Messi
+Team: Barcelona
+Season: 2017/2018
+Goals: 45
+Assists: 18
+---
+Player: Lionel Messi
+Team: Barcelona
+Season: 2016/2017
+Goals: 54
+Assists: 16
+---
+Player: Cristiano Ronaldo
+Team: AL Nassr
+Season: 2023/2024
+Goals: 50
+Assists: 13
+---
+Player: Cristiano Ronaldo
+Team: AL Nassr
+Season: 2022/2023
+Goals: 14
+Assists: 2
+---
+Player: Cristiano Ronaldo
+Team: Man United
+Season: 2021/2022
+Goals: 3
+Assists: 2
+---
+Player: Cristiano Ronaldo
+Team: Man United
+Season: 2020/2021
+Goals: 24
+Assists: 3
+---
+Player: Cristiano Ronaldo
+Team: Juventus
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Cristiano Ronaldo
+Team: Juventus
+Season: 2018/2019
+Goals: 36
+Assists: 5
+---
+Player: Cristiano Ronaldo
+Team: Juventus
+Season: 2017/2018
+Goals: 28
+Assists: 10
+---
+Player: Cristiano Ronaldo
+Team: Real Madrid
+Season: 2016/2017
+Goals: 42
+Assists: 11
+---
+Player: Cristiano Ronaldo
+Team: Real Madrid
+Season: 2015/2016
+Goals: 51
+Assists: 15
+---
+Player: Neymar
+Team: AL Hilal
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Neymar
+Team: PSG
+Season: 2022/2023
+Goals: 18
+Assists: 16
+---
+Player: Neymar
+Team: PSG
+Season: 2021/2022
+Goals: 13
+Assists: 8
+---
+Player: Neymar
+Team: PSG
+Season: 2020/2021
+Goals: 17
+Assists: 7
+---
+Player: Neymar
+Team: PSG
+Season: 2019/2020
+Goals: 19
+Assists: 11
+---
+Player: Neymar
+Team: PSG
+Season: 2018/2019
+Goals: 23
+Assists: 10
+---
+Player: Neymar
+Team: PSG
+Season: 2017/2018
+Goals: 28
+Assists: 16
+---
+Player: Neymar
+Team: Barcelona
+Season: 2016/2017
+Goals: 20
+Assists: 21
+---
+Player: Neymar
+Team: Barcelona
+Season: 2015/2016
+Goals: 31
+Assists: 20
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2023/2024
+Goals: 44
+Assists: 10
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2022/2023
+Goals: 41
+Assists: 9
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2021/2022
+Goals: 39
+Assists: 21
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2020/2021
+Goals: 42
+Assists: 11
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2019/2020
+Goals: 30
+Assists: 14
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2018/2019
+Goals: 39
+Assists: 13
+---
+Player: Kylian Mbappe
+Team: PSG
+Season: 2017/2018
+Goals: 21
+Assists: 13
+---
+Player: Kylian Mbappe
+Team: Monaco
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Kylian Mbappe
+Team: Monaco
+Season: 2015/2016
+Goals: 26
+Assists: 8
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2023/2024
+Goals: 25
+Assists: 13
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2022/2023
+Goals: 30
+Assists: 16
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2021/2022
+Goals: 31
+Assists: 15
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2020/2021
+Goals: 31
+Assists: 6
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2019/2020
+Goals: 23
+Assists: 13
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2018/2019
+Goals: 27
+Assists: 10
+---
+Player: Mohamed Salah
+Team: Liverpool
+Season: 2017/2018
+Goals: 44
+Assists: 14
+---
+Player: Mohamed Salah
+Team: Roma
+Season: 2016/2017
+Goals: 19
+Assists: 12
+---
+Player: Mohamed Salah
+Team: Roma
+Season: 2015/2016
+Goals: 15
+Assists: 6
+---
+Player: Kamir Benzema
+Team: AL Ittihad
+Season: 2023/2024
+Goals: 16
+Assists: 9
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2022/2023
+Goals: 31
+Assists: 6
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2021/2022
+Goals: 44
+Assists: 15
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2020/2021
+Goals: 30
+Assists: 9
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2019/2020
+Goals: 27
+Assists: 11
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2018/2019
+Goals: 30
+Assists: 10
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2017/2018
+Goals: 12
+Assists: 11
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2016/2017
+Goals: 19
+Assists: 7
+---
+Player: Kamir Benzema
+Team: Real Madrid
+Season: 2015/2016
+Goals: 28
+Assists: 7
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2023/2024
+Goals: 24
+Assists: 9
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2022/2023
+Goals: 23
+Assists: 19
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2021/2022
+Goals: 22
+Assists: 16
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2020/2021
+Goals: 6
+Assists: 4
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2019/2020
+Goals: 5
+Assists: 3
+---
+Player: Vinicius Junior
+Team: Real Madrid
+Season: 2018/2019
+Goals: 4
+Assists: 8
+---
+Player: Vinicius Junior
+Team: Real Madrid Castilla
+Season: 2017/2018
+Goals: 4
+Assists: 0
+---
+Player: Vinicius Junior
+Team: Flamengo
+Season: 2016/2017
+Goals: 10
+Assists: 3
+---
+Player: Vinicius Junior
+Team: Flamengo
+Season: 2015/2016
+Goals: 4
+Assists: 1
+---
+Player: Paul Pogba
+Team: Juventus
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Paul Pogba
+Team: Juventus
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2021/2022
+Goals: 1
+Assists: 9
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2020/2021
+Goals: 6
+Assists: 6
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2019/2020
+Goals: 1
+Assists: 3
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2018/2019
+Goals: 16
+Assists: 11
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2017/2018
+Goals: 6
+Assists: 12
+---
+Player: Paul Pogba
+Team: Man United
+Season: 2016/2017
+Goals: 9
+Assists: 6
+---
+Player: Paul Pogba
+Team: Juventus
+Season: 2015/2016
+Goals: 10
+Assists: 15
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 24
+Assists: 8
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 16
+Assists: 18
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 8
+Assists: 6
+---
+Player: Antoine Griezmann
+Team: Barcelona
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Antoine Griezmann
+Team: Barcelona
+Season: 2019/2020
+Goals: 20
+Assists: 12
+---
+Player: Antoine Griezmann
+Team: Barcelona
+Season: 2018/2019
+Goals: 15
+Assists: 4
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2017/2018
+Goals: 21
+Assists: 11
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2016/2017
+Goals: 29
+Assists: 13
+---
+Player: Antoine Griezmann
+Team: Atletico Madrid
+Season: 2015/2016
+Goals: 32
+Assists: 6
+---
+Player: Ilkay Gundogan
+Team: Barcelona
+Season: 2023/2024
+Goals: 5
+Assists: 14
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2022/2023
+Goals: 11
+Assists: 6
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2021/2022
+Goals: 10
+Assists: 7
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2020/2021
+Goals: 17
+Assists: 4
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2019/2020
+Goals: 5
+Assists: 4
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2018/2019
+Goals: 6
+Assists: 8
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2017/2018
+Goals: 6
+Assists: 7
+---
+Player: Ilkay Gundogan
+Team: Man City
+Season: 2016/2017
+Goals: 5
+Assists: 1
+---
+Player: Ilkay Gundogan
+Team: Dortmund
+Season: 2015/2016
+Goals: 3
+Assists: 5
+---
+Player: Harry Kane
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 44
+Assists: 12
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2022/2023
+Goals: 32
+Assists: 5
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2021/2022
+Goals: 27
+Assists: 10
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2020/2021
+Goals: 33
+Assists: 17
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2019/2020
+Goals: 24
+Assists: 2
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2018/2019
+Goals: 24
+Assists: 6
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2017/2018
+Goals: 41
+Assists: 4
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2016/2017
+Goals: 35
+Assists: 7
+---
+Player: Harry Kane
+Team: Tottenham
+Season: 2015/2016
+Goals: 28
+Assists: 2
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 7
+Assists: 10
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 8
+Assists: 11
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 13
+Assists: 22
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 15
+Assists: 19
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 14
+Assists: 25
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 9
+Assists: 12
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2017/2018
+Goals: 9
+Assists: 15
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2016/2017
+Goals: 9
+Assists: 15
+---
+Player: Thomas Muller
+Team: Bayern Munchen
+Season: 2015/2016
+Goals: 32
+Assists: 10
+---
+Player: Robert Lewandowski
+Team: Barcelona
+Season: 2023/2024
+Goals: 26
+Assists: 9
+---
+Player: Robert Lewandowski
+Team: Barcelona
+Season: 2022/2023
+Goals: 33
+Assists: 8
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 50
+Assists: 6
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 48
+Assists: 9
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 55
+Assists: 9
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 40
+Assists: 9
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2017/2018
+Goals: 41
+Assists: 4
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2016/2017
+Goals: 43
+Assists: 8
+---
+Player: Robert Lewandowski
+Team: Bayern Munchen
+Season: 2015/2016
+Goals: 42
+Assists: 4
+---
+Player: Angel Di Maria
+Team: Benfica
+Season: 2023/2024
+Goals: 17
+Assists: 13
+---
+Player: Angel Di Maria
+Team: Juventus
+Season: 2022/2023
+Goals: 8
+Assists: 7
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2021/2022
+Goals: 5
+Assists: 8
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2020/2021
+Goals: 5
+Assists: 15
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2019/2020
+Goals: 13
+Assists: 22
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2018/2019
+Goals: 19
+Assists: 16
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2017/2018
+Goals: 21
+Assists: 9
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2016/2017
+Goals: 14
+Assists: 15
+---
+Player: Angel Di Maria
+Team: PSG
+Season: 2015/2016
+Goals: 15
+Assists: 22
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2023/2024
+Goals: 17
+Assists: 10
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2022/2023
+Goals: 14
+Assists: 6
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2021/2022
+Goals: 24
+Assists: 8
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2020/2021
+Goals: 22
+Assists: 15
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2019/2020
+Goals: 18
+Assists: 11
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2018/2019
+Goals: 20
+Assists: 19
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2017/2018
+Goals: 18
+Assists: 11
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2016/2017
+Goals: 21
+Assists: 7
+---
+Player: Heung Min Son
+Team: Tottenham
+Season: 2015/2016
+Goals: 8
+Assists: 6
+---
+Player: Raheem Sterling
+Team: Chelsea
+Season: 2023/2024
+Goals: 10
+Assists: 8
+---
+Player: Raheem Sterling
+Team: Chelsea
+Season: 2022/2023
+Goals: 9
+Assists: 4
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2021/2022
+Goals: 17
+Assists: 8
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2020/2021
+Goals: 14
+Assists: 10
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2019/2020
+Goals: 31
+Assists: 5
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2018/2019
+Goals: 25
+Assists: 15
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2017/2018
+Goals: 23
+Assists: 13
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2016/2017
+Goals: 10
+Assists: 15
+---
+Player: Raheem Sterling
+Team: Man City
+Season: 2015/2016
+Goals: 11
+Assists: 8
+---
+Player: Riyad Mahrez
+Team: Al Ahli
+Season: 2023/2024
+Goals: 12
+Assists: 13
+---
+Player: Riyad Mahrez
+Team: Man City
+Season: 2022/2023
+Goals: 15
+Assists: 13
+---
+Player: Riyad Mahrez
+Team: Man City
+Season: 2021/2022
+Goals: 24
+Assists: 9
+---
+Player: Riyad Mahrez
+Team: Man City
+Season: 2020/2021
+Goals: 14
+Assists: 9
+---
+Player: Riyad Mahrez
+Team: Man City
+Season: 2019/2020
+Goals: 13
+Assists: 13
+---
+Player: Riyad Mahrez
+Team: Man City
+Season: 2018/2019
+Goals: 12
+Assists: 12
+---
+Player: Riyad Mahrez
+Team: Leicester
+Season: 2017/2018
+Goals: 13
+Assists: 12
+---
+Player: Riyad Mahrez
+Team: Leicester
+Season: 2016/2017
+Goals: 10
+Assists: 6
+---
+Player: Riyad Mahrez
+Team: Leicester
+Season: 2015/2016
+Goals: 18
+Assists: 11
+---
+Player: Sadio Mane
+Team: AL Nassr
+Season: 2023/2024
+Goals: 19
+Assists: 11
+---
+Player: Sadio Mane
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 12
+Assists: 6
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2021/2022
+Goals: 23
+Assists: 2
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2020/2021
+Goals: 16
+Assists: 8
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2019/2020
+Goals: 22
+Assists: 9
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2018/2019
+Goals: 26
+Assists: 2
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2017/2017
+Goals: 20
+Assists: 9
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2016/2017
+Goals: 13
+Assists: 7
+---
+Player: Sadio Mane
+Team: Liverpool
+Season: 2015/2016
+Goals: 15
+Assists: 6
+---
+Player: Alvaro Morata
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 21
+Assists: 4
+---
+Player: Alvaro Morata
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 15
+Assists: 3
+---
+Player: Alvaro Morata
+Team: Juventus
+Season: 2021/2022
+Goals: 12
+Assists: 7
+---
+Player: Alvaro Morata
+Team: Juventus
+Season: 2020/2021
+Goals: 20
+Assists: 11
+---
+Player: Alvaro Morata
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 16
+Assists: 4
+---
+Player: Alvaro Morata
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 6
+Assists: 1
+---
+Player: Alvaro Morata
+Team: Chelsea
+Season: 2017/2018
+Goals: 9
+Assists: 0
+---
+Player: Alvaro Morata
+Team: Chelsea
+Season: 2016/2017
+Goals: 15
+Assists: 6
+---
+Player: Alvaro Morata
+Team: Real Madrid
+Season: 2015/2016
+Goals: 20
+Assists: 5
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2023/2024
+Goals: 12
+Assists: 10
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2022/2023
+Goals: 7
+Assists: 6
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2021/2022
+Goals: 13
+Assists: 7
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2020/2021
+Goals: 5
+Assists: 9
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2019/2020
+Goals: 8
+Assists: 10
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2018/2019
+Goals: 13
+Assists: 13
+---
+Player: Bernardo Silva
+Team: Man City
+Season: 2017/2018
+Goals: 9
+Assists: 10
+---
+Player: Bernardo Silva
+Team: Monaco
+Season: 2016/2017
+Goals: 11
+Assists: 10
+---
+Player: Bernardo Silva
+Team: Monaco
+Season: 2015/2016
+Goals: 7
+Assists: 1
+---
+Player: Erling Haaland
+Team: Man City
+Season: 2023/2024
+Goals: 38
+Assists: 6
+---
+Player: Erling Haaland
+Team: Man City
+Season: 2022/2023
+Goals: 52
+Assists: 9
+---
+Player: Erling Haaland
+Team: Dortmund
+Season: 2021/2022
+Goals: 29
+Assists: 7
+---
+Player: Erling Haaland
+Team: Dortmund
+Season: 2020/2021
+Goals: 41
+Assists: 10
+---
+Player: Erling Haaland
+Team: Dortmund
+Season: 2019/2020
+Goals: 16
+Assists: 2
+---
+Player: Erling Haaland
+Team: Salzburg
+Season: 2018/2019
+Goals: 28
+Assists: 5
+---
+Player: Erling Haaland
+Team: Salzburg
+Season: 2017/2018
+Goals: 1
+Assists: 0
+---
+Player: Erling Haaland
+Team: Molde
+Season: 2016/2017
+Goals: 16
+Assists: 4
+---
+Player: Erling Haaland
+Team: Molde
+Season: 2015/2016
+Goals: 3
+Assists: 1
+---
+Player: Romelu Lukaku
+Team: Roma
+Season: 2023/2024
+Goals: 21
+Assists: 4
+---
+Player: Romelu Lukaku
+Team: Inter 
+Season: 2022/2023
+Goals: 14
+Assists: 7
+---
+Player: Romelu Lukaku
+Team: Chelsea
+Season: 2021/2022
+Goals: 15
+Assists: 0
+---
+Player: Romelu Lukaku
+Team: Inter
+Season: 2020/2021
+Goals: 30
+Assists: 11
+---
+Player: Romelu Lukaku
+Team: Inter
+Season: 2019/2020
+Goals: 34
+Assists: 6
+---
+Player: Romelu Lukaku
+Team: Man United
+Season: 2018/2019
+Goals: 15
+Assists: 3
+---
+Player: Romelu Lukaku
+Team: Man United
+Season: 2017/2018
+Goals: 27
+Assists: 9
+---
+Player: Romelu Lukaku
+Team: Everton
+Season: 2016/2017
+Goals: 26
+Assists: 7
+---
+Player: Romelu Lukaku
+Team: Everton
+Season: 2015/2016
+Goals: 25
+Assists: 6
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2023/2024
+Goals: 2
+Assists: 7
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2022/2023
+Goals: 6
+Assists: 6
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2021/2022
+Goals: 3
+Assists: 12
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2020/2021
+Goals: 6
+Assists: 6
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2019/2020
+Goals: 5
+Assists: 7
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2018/2019
+Goals: 4
+Assists: 8
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2017/2018
+Goals: 2
+Assists: 8
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2016/2017
+Goals: 1
+Assists: 3
+---
+Player: Luka Modric
+Team: Real Madrid
+Season: 2015/2016
+Goals: 3
+Assists: 5
+---
+Player: Sergio Ramos
+Team: Sevilla
+Season: 2023/2024
+Goals: 7
+Assists: 1
+---
+Player: Sergio Ramos
+Team: PSG
+Season: 2022/2023
+Goals: 4
+Assists: 1
+---
+Player: Sergio Ramos
+Team: PSG
+Season: 2021/2022
+Goals: 2
+Assists: 0
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2020/2021
+Goals: 4
+Assists: 1
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2019/2020
+Goals: 13
+Assists: 0
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2018/2019
+Goals: 11
+Assists: 1
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2017/2018
+Goals: 5
+Assists: 1
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2016/2017
+Goals: 10
+Assists: 2
+---
+Player: Sergio Ramos
+Team: Real Madrid
+Season: 2015/2016
+Goals: 3
+Assists: 2
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 2
+Assists: 9
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 7
+Assists: 11
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 3
+Assists: 11
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 6
+Assists: 14
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 7
+Assists: 15
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 2
+Assists: 18
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2017/2018
+Goals: 6
+Assists: 15
+---
+Player: Joshua Kimmich
+Team: Bayern Munchen
+Season: 2016/2017
+Goals: 9
+Assists: 2
+---
+Player: Leroy Sane
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 10
+Assists: 12
+---
+Player: Leroy Sane
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 14
+Assists: 9
+---
+Player: Leroy Sane
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 14
+Assists: 14
+---
+Player: Leroy Sane
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 10
+Assists: 10
+---
+Player: Leroy Sane
+Team: Man City
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Leroy Sane
+Team: Man City
+Season: 2018/2019
+Goals: 16
+Assists: 17
+---
+Player: Leroy Sane
+Team: Man City
+Season: 2017/2018
+Goals: 14
+Assists: 19
+---
+Player: Leroy Sane
+Team: Man City
+Season: 2016/2017
+Goals: 9
+Assists: 6
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2021/2022
+Goals: 3
+Assists: 0
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2019/2020
+Goals: 2
+Assists: 0
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2018/2019
+Goals: 0
+Assists: 1
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2017/2018
+Goals: 4
+Assists: 0
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2016/2017
+Goals: 3
+Assists: 3
+---
+Player: Nacho Fernandez
+Team: Real Madrid
+Season: 2015/2016
+Goals: 1
+Assists: 0
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2023/2024
+Goals: 4
+Assists: 2
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2022/2023
+Goals: 3
+Assists: 1
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2021/2022
+Goals: 3
+Assists: 1
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2019/2020
+Goals: 5
+Assists: 2
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2018/2019
+Goals: 6
+Assists: 4
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2017/2018
+Goals: 1
+Assists: 0
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Virgil van Dijk
+Team: Liverpool
+Season: 2015/2016
+Goals: 4
+Assists: 0
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2023/2024
+Goals: 3
+Assists: 3
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2022/2023
+Goals: 4
+Assists: 3
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2020/2021
+Goals: 1
+Assists: 2
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2018/2019
+Goals: 1
+Assists: 7
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2017/2018
+Goals: 1
+Assists: 8
+---
+Player: Sergi Roberto
+Team: Barcelona
+Season: 2016/2017
+Goals: 1
+Assists: 6
+---
+Player: Joao Cancelo
+Team: Barcelona
+Season: 2023/2024
+Goals: 4
+Assists: 5
+---
+Player: Joao Cancelo
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 1
+Assists: 6
+---
+Player: Joao Cancelo
+Team: Man City
+Season: 2021/2022
+Goals: 2
+Assists: 4
+---
+Player: Joao Cancelo
+Team: Man City
+Season: 2020/2021
+Goals: 3
+Assists: 10
+---
+Player: Joao Cancelo
+Team: Man City
+Season: 2019/2020
+Goals: 3
+Assists: 5
+---
+Player: Joao Cancelo
+Team: Juventus
+Season: 2018/2019
+Goals: 1
+Assists: 5
+---
+Player: Joao Cancelo
+Team: Inter
+Season: 2017/2018
+Goals: 1
+Assists: 3
+---
+Player: Joao Cancelo
+Team: Valencia
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Roberto Firmino
+Team: Al Ahli
+Season: 2023/2024
+Goals: 9
+Assists: 7
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2022/2023
+Goals: 13
+Assists: 5
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2021/2022
+Goals: 11
+Assists: 5
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2020/2021
+Goals: 9
+Assists: 9
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2019/2020
+Goals: 12
+Assists: 12
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2018/2019
+Goals: 16
+Assists: 7
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2017/2018
+Goals: 27
+Assists: 16
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2016/2017
+Goals: 12
+Assists: 8
+---
+Player: Roberto Firmino
+Team: Liverpool
+Season: 2015/2016
+Goals: 11
+Assists: 9
+---
+Player: Kai Havertz
+Team: Arsenal
+Season: 2023/2024
+Goals: 14
+Assists: 7
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2022/2023
+Goals: 9
+Assists: 1
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2021/2022
+Goals: 14
+Assists: 5
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2020/2021
+Goals: 9
+Assists: 6
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2019/2020
+Goals: 18
+Assists: 9
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2018/2019
+Goals: 20
+Assists: 6
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2017/2018
+Goals: 4
+Assists: 8
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2016/2017
+Goals: 4
+Assists: 5
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 6
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 0
+Assists: 3
+---
+Player: koke
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 1
+Assists: 3
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2020/2021
+Goals: 1
+Assists: 2
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 5
+Assists: 6
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 6
+Assists: 5
+---
+Player: koke
+Team: Atletico Madrid
+Season: 2017/2018
+Goals: 6
+Assists: 7
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2016/2017
+Goals: 5
+Assists: 10
+---
+Player: Koke
+Team: Atletico Madrid
+Season: 2015/2016
+Goals: 5
+Assists: 15
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 2
+Assists: 1
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 1
+Assists: 1
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 0
+Assists: 1
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 2
+Assists: 0
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2017/2018
+Goals: 2
+Assists: 2
+---
+Player: Jose Gimenez
+Team: Atletico Madrid
+Season: 2016/2017
+Goals: 1
+Assists: 1
+---
+Player: Christopher Nkunku
+Team: Chelsea
+Season: 2023/2024
+Goals: 3
+Assists: 0
+---
+Player: Christopher Nkunku
+Team: RB Leipzig
+Season: 2022/2023
+Goals: 23
+Assists: 7
+---
+Player: Christopher Nkunku
+Team: RB Leipzig
+Season: 2021/2022
+Goals: 35
+Assists: 16
+---
+Player: Christopher Nkunku
+Team: RB Leipzig
+Season: 2020/2021
+Goals: 7
+Assists: 9
+---
+Player: Christopher Nkunku
+Team: RB Leipzig
+Season: 2019/2020
+Goals: 5
+Assists: 13
+---
+Player: Christopher Nkunku
+Team: PSG
+Season: 2018/2019
+Goals: 4
+Assists: 2
+---
+Player: Christopher Nkunku
+Team: PSG
+Season: 2017/2018
+Goals: 5
+Assists: 0
+---
+Player: Christopher Nkunku
+Team: PSG
+Season: 2016/2017
+Goals: 2
+Assists: 1
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2022/2023
+Goals: 0
+Assists: 11
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2021/2022
+Goals: 3
+Assists: 15
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2020/2021
+Goals: 1
+Assists: 7
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2019/2020
+Goals: 3
+Assists: 12
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2018/2019
+Goals: 0
+Assists: 13
+---
+Player: Andrew Robertson
+Team: Liverpool
+Season: 2017/2018
+Goals: 1
+Assists: 5
+---
+Player: Andrew Robertson
+Team: Hull
+Season: 2016/2017
+Goals: 1
+Assists: 3
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2023/2024
+Goals: 3
+Assists: 9
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2022/2023
+Goals: 4
+Assists: 10
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2021/2022
+Goals: 2
+Assists: 18
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2020/2021
+Goals: 2
+Assists: 9
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2019/2020
+Goals: 4
+Assists: 15
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2018/2019
+Goals: 1
+Assists: 15
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2017/2018
+Goals: 3
+Assists: 2
+---
+Player: Trent Alexander-Arnold
+Team: Liverpool
+Season: 2016/2017
+Goals: 0
+Assists: 1
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2023/2024
+Goals: 0
+Assists: 3
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2021/2022
+Goals: 0
+Assists: 1
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2020/2021
+Goals: 0
+Assists: 1
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2017/2018
+Goals: 0
+Assists: 2
+---
+Player: Joseph Gomez
+Team: Liverpool
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Harry Maguire
+Team: Man United
+Season: 2023/2024
+Goals: 4
+Assists: 2
+---
+Player: Harry Maguire
+Team: Man United
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Harry Maguire
+Team: Man United
+Season: 2021/2022
+Goals: 2
+Assists: 0
+---
+Player: Harry Maguire
+Team: Man United
+Season: 2020/2021
+Goals: 2
+Assists: 1
+---
+Player: Harry Maguire
+Team: Man United
+Season: 2019/2020
+Goals: 3
+Assists: 2
+---
+Player: Harry Maguire
+Team: Leicester
+Season: 2018/2019
+Goals: 3
+Assists: 0
+---
+Player: Harry Maguire
+Team: Leicester
+Season: 2017/2018
+Goals: 2
+Assists: 4
+---
+Player: Harry Maguire
+Team: Hull
+Season: 2016/2017
+Goals: 3
+Assists: 2
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2023/2024
+Goals: 0
+Assists: 5
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2021/2022
+Goals: 1
+Assists: 2
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2020/2021
+Goals: 2
+Assists: 1
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2019/2020
+Goals: 1
+Assists: 6
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2018/2019
+Goals: 2
+Assists: 1
+---
+Player: Kyle Walker
+Team: Man City
+Season: 2017/2018
+Goals: 0
+Assists: 7
+---
+Player: Kyle Walker
+Team: Tottenham
+Season: 2016/2017
+Goals: 0
+Assists: 5
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2023/2024
+Goals: 14
+Assists: 5
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2022/2023
+Goals: 11
+Assists: 5
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2021/2022
+Goals: 8
+Assists: 5
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2020/2021
+Goals: 8
+Assists: 7
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2019/2020
+Goals: 9
+Assists: 3
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2018/2019
+Goals: 15
+Assists: 4
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2017/2018
+Goals: 10
+Assists: 6
+---
+Player: Inaki Williams
+Team: Athletic Club
+Season: 2016/2017
+Goals: 8
+Assists: 6
+---
+Player: Ferran Torres
+Team: Barcelona
+Season: 2023/2024
+Goals: 11
+Assists: 3
+---
+Player: Ferran Torres
+Team: Barcelona
+Season: 2022/2023
+Goals: 7
+Assists: 3
+---
+Player: Ferran Torres
+Team: Man City
+Season: 2021/2022
+Goals: 7
+Assists: 6
+---
+Player: Ferran Torres
+Team: Man City
+Season: 2020/2021
+Goals: 13
+Assists: 3
+---
+Player: Ferran Torres
+Team: Valencia
+Season: 2019/2020
+Goals: 6
+Assists: 8
+---
+Player: Ferran Torres
+Team: Valencia
+Season: 2018/2019
+Goals: 3
+Assists: 2
+---
+Player: Ferran Torres
+Team: Valencia
+Season: 2017/2018
+Goals: 0
+Assists: 2
+---
+Player: Jude Bellingham
+Team: Real Madrid
+Season: 2023/2024
+Goals: 23
+Assists: 13
+---
+Player: Jude Bellingham
+Team: Dortmund
+Season: 2022/2023
+Goals: 14
+Assists: 6
+---
+Player: Jude Bellingham
+Team: Dortmund
+Season: 2021/2022
+Goals: 6
+Assists: 13
+---
+Player: Jude Bellingham
+Team: Dortmund
+Season: 2020/2021
+Goals: 4
+Assists: 4
+---
+Player: Jude Bellingham
+Team: Birmingham
+Season: 2019/2020
+Goals: 4
+Assists: 2
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2023/2024
+Goals: 8
+Assists: 5
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2022/2023
+Goals: 30
+Assists: 9
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2021/2022
+Goals: 5
+Assists: 2
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2020/2021
+Goals: 21
+Assists: 12
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2019/2020
+Goals: 22
+Assists: 8
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2018/2019
+Goals: 13
+Assists: 7
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2017/2018
+Goals: 13
+Assists: 8
+---
+Player: Marcus Rashford
+Team: Man United
+Season: 2016/2017
+Goals: 11
+Assists: 4
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2023/2024
+Goals: 20
+Assists: 14
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2022/2023
+Goals: 15
+Assists: 11
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2021/2022
+Goals: 12
+Assists: 7
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2020/2021
+Goals: 7
+Assists: 7
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2019/2020
+Goals: 4
+Assists: 12
+---
+Player: Bukayo Saka
+Team: Arsenal
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Frenkie de Jong
+Team: Barcelona
+Season: 2023/2024
+Goals: 2
+Assists: 0
+---
+Player: Frenkie de Jong
+Team: Barcelona
+Season: 2022/2023
+Goals: 2
+Assists: 4
+---
+Player: Frenkie de Jong
+Team: Barcelona
+Season: 2021/2022
+Goals: 4
+Assists: 5
+---
+Player: Frenkie de Jong
+Team: Barcelona
+Season: 2020/2021
+Goals: 7
+Assists: 7
+---
+Player: Frenkie de Jong
+Team: Barcelona
+Season: 2019/2020
+Goals: 2
+Assists: 3
+---
+Player: Frenkie de Jong
+Team: Ajax
+Season: 2018/2019
+Goals: 3
+Assists: 3
+---
+Player: Frenkie de Jong
+Team: Ajax
+Season: 2017/2018
+Goals: 1
+Assists: 7
+---
+Player: Frenkie de Jong
+Team: Ajax
+Season: 2016/2017
+Goals: 1
+Assists: 0
+---
+Player: Alexis Mac Allister
+Team: Liverpool
+Season: 2023/2024
+Goals: 7
+Assists: 7
+---
+Player: Alexis Mac Allister
+Team: Brighton
+Season: 2022/2023
+Goals: 12
+Assists: 3
+---
+Player: Alexis Mac Allister
+Team: Brighton
+Season: 2021/2022
+Goals: 5
+Assists: 4
+---
+Player: Alexis Mac Allister
+Team: Brighton
+Season: 2020/2021
+Goals: 3
+Assists: 2
+---
+Player: Alexis Mac Allister
+Team: Brighton
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Alexis Mac Allister
+Team: Boca Juniors
+Season: 2018/2019
+Goals: 2
+Assists: 4
+---
+Player: Casemiro
+Team: Man United
+Season: 2023/2024
+Goals: 5
+Assists: 3
+---
+Player: Casemiro
+Team: Man United
+Season: 2022/2023
+Goals: 7
+Assists: 6
+---
+Player: Casemiro
+Team: real Madrid
+Season: 2021/2022
+Goals: 1
+Assists: 3
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2020/2021
+Goals: 7
+Assists: 5
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2019/2020
+Goals: 5
+Assists: 5
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2018/2019
+Goals: 4
+Assists: 0
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2017/2018
+Goals: 7
+Assists: 3
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2016/2017
+Goals: 6
+Assists: 3
+---
+Player: Casemiro
+Team: real Madrid
+Season: 2015/2016
+Goals: 1
+Assists: 3
+---
+Player: Casemiro
+Team: Real Madrid
+Season: 2014/2015
+Goals: 4
+Assists: 1
+---
+Player: Alejandro Garnacho
+Team: Man United
+Season: 2023/2024
+Goals: 10
+Assists: 5
+---
+Player: Alejandro Garnacho
+Team: Man United
+Season: 2022/2023
+Goals: 5
+Assists: 4
+---
+Player: Alejandro Garnacho
+Team: Man United
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Jadon Sancho
+Team: Dortmund
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Jadon Sancho
+Team: Man United
+Season: 2022/2023
+Goals: 7
+Assists: 3
+---
+Player: Jadon Sancho
+Team: Man United
+Season: 2021/2022
+Goals: 5
+Assists: 3
+---
+Player: Jadon Sancho
+Team: Dortmund
+Season: 2020/2021
+Goals: 16
+Assists: 18
+---
+Player: Jadon Sancho
+Team: Dortmund
+Season: 2019/2020
+Goals: 20
+Assists: 19
+---
+Player: Jadon Sancho
+Team: Dortmund
+Season: 2018/2019
+Goals: 13
+Assists: 16
+---
+Player: Jadon Sancho
+Team: Dortmund
+Season: 2017/2018
+Goals: 1
+Assists: 4
+---
+Player: Cody Gakpo
+Team: Liverpool
+Season: 2023/2024
+Goals: 16
+Assists: 6
+---
+Player: Cody Gakpo
+Team: Liverpool
+Season: 2022/2023
+Goals: 7
+Assists: 2
+---
+Player: Cody Gakpo
+Team: PSV Eindhoven
+Season: 2021/2022
+Goals: 21
+Assists: 15
+---
+Player: Cody Gakpo
+Team: PSV Eindhoven
+Season: 2020/2021
+Goals: 11
+Assists: 4
+---
+Player: Cody Gakpo
+Team: PSV Eindhoven
+Season: 2019/2020
+Goals: 8
+Assists: 8
+---
+Player: Cody Gakpo
+Team: PSV Eindhoven
+Season: 2018/2019
+Goals: 2
+Assists: 6
+---
+Player: Diogo Jota
+Team: Liverpool
+Season: 2023/2024
+Goals: 15
+Assists: 4
+---
+Player: Diogo Jota
+Team: Liverpool
+Season: 2022/2023
+Goals: 7
+Assists: 8
+---
+Player: Diogo Jota
+Team: Liverpool
+Season: 2021/2022
+Goals: 21
+Assists: 6
+---
+Player: Diogo Jota
+Team: Liverpool
+Season: 2020/2021
+Goals: 13
+Assists: 1
+---
+Player: Diogo Jota
+Team: Wolves
+Season: 2019/2020
+Goals: 16
+Assists: 1
+---
+Player: Diogo Jota
+Team: Wolves
+Season: 2018/2019
+Goals: 10
+Assists: 7
+---
+Player: Diogo Jota
+Team: Wolves
+Season: 2017/2018
+Goals: 18
+Assists: 5
+---
+Player: Diogo Jota
+Team: FC Porto
+Season: 2016/2017
+Goals: 9
+Assists: 5
+---
+Player: Jules Kounde
+Team: Barcelona
+Season: 2023/2024
+Goals: 2
+Assists: 4
+---
+Player: Jules Kounde
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 6
+---
+Player: Jules Kounde
+Team: Sevilla
+Season: 2021/2022
+Goals: 3
+Assists: 1
+---
+Player: Jules Kounde
+Team: Sevilla
+Season: 2020/2021
+Goals: 4
+Assists: 1
+---
+Player: Jules Kounde
+Team: Sevilla
+Season: 2019/2020
+Goals: 2
+Assists: 1
+---
+Player: Jules Kounde
+Team: Bordeaux
+Season: 2018/2019
+Goals: 2
+Assists: 1
+---
+Player: Jules Kounde
+Team: Bordeaux
+Season: 2017/2018
+Goals: 2
+Assists: 0
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2023/2024
+Goals: 9
+Assists: 10
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2022/2023
+Goals: 12
+Assists: 3
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2021/2022
+Goals: 18
+Assists: 6
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2020/2021
+Goals: 14
+Assists: 15
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2019/2020
+Goals: 14
+Assists: 3
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2018/2019
+Goals: 21
+Assists: 6
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2017/2018
+Goals: 23
+Assists: 5
+---
+Player: Iago Aspas
+Team: Celta Vigo
+Season: 2016/2017
+Goals: 26
+Assists: 6
+---
+Player: Hector Bellerin
+Team: Real Betis
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Hector Bellerin
+Team: Sporting CP
+Season: 2022/2023
+Goals: 1
+Assists: 0
+---
+Player: Hector Bellerin
+Team: Barcelona
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Hector Bellerin
+Team: Real Betis
+Season: 2020/2021
+Goals: 0
+Assists: 5
+---
+Player: Hector Bellerin
+Team: Arsenal
+Season: 2019/2020
+Goals: 1
+Assists: 1
+---
+Player: Hector Bellerin
+Team: Arsenal
+Season: 2018/2019
+Goals: 0
+Assists: 5
+---
+Player: Hector Bellerin
+Team: Arsenal
+Season: 2017/2018
+Goals: 3
+Assists: 5
+---
+Player: Hector Bellerin
+Team: Arsenal
+Season: 2016/2017
+Goals: 1
+Assists: 5
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2023/2024
+Goals: 11
+Assists: 8
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2022/2023
+Goals: 11
+Assists: 6
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2021/2022
+Goals: 13
+Assists: 7
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2020/2021
+Goals: 30
+Assists: 10
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2019/2020
+Goals: 20
+Assists: 5
+---
+Player: Gerard Moreno
+Team: Villarreal
+Season: 2018/2019
+Goals: 13
+Assists: 3
+---
+Player: Gerard Moreno
+Team: Espanyol
+Season: 2017/2018
+Goals: 19
+Assists: 2
+---
+Player: Gerard Moreno
+Team: Espanyol
+Season: 2016/2017
+Goals: 13
+Assists: 4
+---
+Player: David Alaba
+Team: Real Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 2
+---
+Player: David Alaba
+Team: Real Madrid
+Season: 2022/2023
+Goals: 2
+Assists: 3
+---
+Player: David Alaba
+Team: Real Madrid
+Season: 2021/2022
+Goals: 3
+Assists: 4
+---
+Player: David Alaba
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 2
+Assists: 4
+---
+Player: David Alaba
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 2
+Assists: 2
+---
+Player: David Alaba
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 3
+Assists: 7
+---
+Player: David Alaba
+Team: Bayern Munchen
+Season: 2017/2018
+Goals: 2
+Assists: 4
+---
+Player: David Alaba
+Team: Bayern Munchen
+Season: 2016/2017
+Goals: 5
+Assists: 6
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2023/2024
+Goals: 3
+Assists: 7
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2022/2023
+Goals: 4
+Assists: 2
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2021/2022
+Goals: 3
+Assists: 0
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2020/2021
+Goals: 2
+Assists: 7
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2019/2020
+Goals: 3
+Assists: 1
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2018/2019
+Goals: 5
+Assists: 4
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2017/2018
+Goals: 8
+Assists: 12
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2016/2017
+Goals: 4
+Assists: 11
+---
+Player: Lucas Vazquez
+Team: Real Madrid
+Season: 2015/2016
+Goals: 4
+Assists: 8
+---
+Player: Pedri
+Team: Barcelona
+Season: 2023/2024
+Goals: 4
+Assists: 5
+---
+Player: Pedri
+Team: Barcelona
+Season: 2022/2023
+Goals: 7
+Assists: 1
+---
+Player: Pedri
+Team: Barcelona
+Season: 2021/2022
+Goals: 5
+Assists: 1
+---
+Player: Pedri
+Team: Barcelona
+Season: 2020/2021
+Goals: 4
+Assists: 6
+---
+Player: Pedri
+Team: Las Palmas
+Season: 2019/2020
+Goals: 4
+Assists: 6
+---
+Player: John Stones
+Team: Man City
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: John Stones
+Team: Man City
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: John Stones
+Team: Man City
+Season: 2021/2022
+Goals: 2
+Assists: 0
+---
+Player: John Stones
+Team: Man City
+Season: 2020/2021
+Goals: 5
+Assists: 0
+---
+Player: John Stones
+Team: Man City
+Season: 2019/2020
+Goals: 0
+Assists: 1
+---
+Player: John Stones
+Team: Man City
+Season: 2018/2019
+Goals: 0
+Assists: 1
+---
+Player: John Stones
+Team: Man City
+Season: 2017/2018
+Goals: 3
+Assists: 0
+---
+Player: John Stones
+Team: Man City
+Season: 2016/2017
+Goals: 2
+Assists: 0
+---
+Player: John Stones
+Team: Everton
+Season: 2015/2016
+Goals: 0
+Assists: 0
+---
+Player: Mateo Kovacic
+Team: Man City
+Season: 2023/2024
+Goals: 3
+Assists: 1
+---
+Player: Mateo Kovacic
+Team: Chelsea
+Season: 2022/2023
+Goals: 2
+Assists: 2
+---
+Player: Mateo Kovacic
+Team: Chelsea
+Season: 2021/2022
+Goals: 2
+Assists: 6
+---
+Player: Mateo Kovacic
+Team: Chelsea
+Season: 2020/2021
+Goals: 0
+Assists: 2
+---
+Player: Mateo Kovacic
+Team: Chelsea
+Season: 2019/2020
+Goals: 2
+Assists: 3
+---
+Player: Mateo Kovacic
+Team: Chelsea
+Season: 2018/2019
+Goals: 0
+Assists: 2
+---
+Player: Mateo Kovacic
+Team: Real Madrid
+Season: 2017/2018
+Goals: 0
+Assists: 2
+---
+Player: Mateo Kovacic
+Team: Real Madrid
+Season: 2016/2017
+Goals: 2
+Assists: 3
+---
+Player: Mateo Kovacic
+Team: Real Madrid
+Season: 2015/2016
+Goals: 1
+Assists: 2
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2023/2024
+Goals: 20
+Assists: 2
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2022/2023
+Goals: 6
+Assists: 5
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2021/2022
+Goals: 17
+Assists: 2
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2020/2021
+Goals: 17
+Assists: 9
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2019/2020
+Goals: 23
+Assists: 7
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2018/2019
+Goals: 18
+Assists: 4
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2017/2018
+Goals: 23
+Assists: 1
+---
+Player: Jamie Vardy
+Team: Leicester
+Season: 2016/2017
+Goals: 16
+Assists: 5
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2022/2023
+Goals: 1
+Assists: 6
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2021/2022
+Goals: 0
+Assists: 5
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2020/2021
+Goals: 1
+Assists: 6
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2018/2019
+Goals: 1
+Assists: 5
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Luke Shaw
+Team: Man United
+Season: 2016/2017
+Goals: 0
+Assists: 1
+---
+Player: Bruno Fernandes
+Team: Man United
+Season: 2023/2024
+Goals: 15
+Assists: 13
+---
+Player: Bruno Fernandes
+Team: Man United
+Season: 2022/2023
+Goals: 14
+Assists: 13
+---
+Player: Bruno Fernandes
+Team: Man United
+Season: 2021/2022
+Goals: 10
+Assists: 13
+---
+Player: Bruno Fernandes
+Team: Man United
+Season: 2020/2021
+Goals: 28
+Assists: 18
+---
+Player: Bruno Fernandes
+Team: Man United
+Season: 2019/2020
+Goals: 12
+Assists: 8
+---
+Player: Bruno Fernandes
+Team: Sporting CP
+Season: 2018/2019
+Goals: 31
+Assists: 15
+---
+Player: Bruno Fernandes
+Team: Sporting CP
+Season: 2017/2018
+Goals: 16
+Assists: 14
+---
+Player: Bruno Fernandes
+Team: Sampdoria
+Season: 2016/2017
+Goals: 5
+Assists: 3
+---
+Player: Mason Mount
+Team: Man United
+Season: 2023/2024
+Goals: 1
+Assists: 1
+---
+Player: Mason Mount
+Team: Chelsea
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: Mason Mount
+Team: Chelsea
+Season: 2021/2022
+Goals: 13
+Assists: 16
+---
+Player: Mason Mount
+Team: Chelsea
+Season: 2020/2021
+Goals: 9
+Assists: 8
+---
+Player: Mason Mount
+Team: Chelsea
+Season: 2019/2020
+Goals: 8
+Assists: 5
+---
+Player: Mason Mount
+Team: Derby
+Season: 2018/2019
+Goals: 11
+Assists: 5
+---
+Player: Mason Mount
+Team: Vitesse
+Season: 2017/2018
+Goals: 14
+Assists: 10
+---
+Player: Antony
+Team: Man United
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Antony
+Team: Man United
+Season: 2022/2023
+Goals: 8
+Assists: 3
+---
+Player: Antony
+Team: Ajax
+Season: 2021/2022
+Goals: 12
+Assists: 10
+---
+Player: Antony
+Team: Ajax
+Season: 2020/2021
+Goals: 11
+Assists: 9
+---
+Player: Josko Gvardiol
+Team: Man City
+Season: 2023/2024
+Goals: 5
+Assists: 2
+---
+Player: Josko Gvardiol
+Team: RB Leipzig
+Season: 2022/2023
+Goals: 3
+Assists: 0
+---
+Player: Josko Gvardiol
+Team: RB Leipzig
+Season: 2021/2022
+Goals: 2
+Assists: 3
+---
+Player: Josko Gvardiol
+Team: Dinamo Zagreb
+Season: 2020/2021
+Goals: 3
+Assists: 2
+---
+Player: Kalvin Phillips
+Team: West Ham
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Kalvin Phillips
+Team: Man City
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2021/2022
+Goals: 1
+Assists: 1
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2020/2021
+Goals: 1
+Assists: 1
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2018/2019
+Goals: 2
+Assists: 2
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2017/2018
+Goals: 1
+Assists: 3
+---
+Player: Kalvin Phillips
+Team: Leeds
+Season: 2016/2017
+Goals: 1
+Assists: 2
+---
+Player: Rodri
+Team: Man City
+Season: 2023/2024
+Goals: 9
+Assists: 13
+---
+Player: Rodri
+Team: Man City
+Season: 2022/2023
+Goals: 4
+Assists: 7
+---
+Player: Rodri
+Team: Man City
+Season: 2021/2022
+Goals: 7
+Assists: 2
+---
+Player: Rodri
+Team: Man City
+Season: 2020/2021
+Goals: 2
+Assists: 5
+---
+Player: Rodri
+Team: Man City
+Season: 2019/2020
+Goals: 4
+Assists: 2
+---
+Player: Rodri
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 3
+Assists: 1
+---
+Player: Rodri
+Team: Villarreal
+Season: 2017/2018
+Goals: 1
+Assists: 4
+---
+Player: Rodri
+Team: Villarreal
+Season: 2016/2017
+Goals: 1
+Assists: 2
+---
+Player: Jack Grealish
+Team: Man City
+Season: 2023/2024
+Goals: 3
+Assists: 3
+---
+Player: Jack Grealish
+Team: Man City
+Season: 2022/2023
+Goals: 5
+Assists: 11
+---
+Player: Jack Grealish
+Team: Man City
+Season: 2021/2022
+Goals: 6
+Assists: 4
+---
+Player: Jack Grealish
+Team: Aston Villa
+Season: 2020/2021
+Goals: 7
+Assists: 10
+---
+Player: Jack Grealish
+Team: Aston Villa
+Season: 2019/2020
+Goals: 10
+Assists: 8
+---
+Player: Jack Grealish
+Team: Aston Villa
+Season: 2018/2019
+Goals: 6
+Assists: 7
+---
+Player: Jack Grealish
+Team: Aston Villa
+Season: 2017/2018
+Goals: 3
+Assists: 6
+---
+Player: Jack Grealish
+Team: Aston Villa
+Season: 2016/2017
+Goals: 5
+Assists: 2
+---
+Player: Julian Alvarez
+Team: Man City
+Season: 2023/2024
+Goals: 19
+Assists: 13
+---
+Player: Julian Alvarez
+Team: Man City
+Season: 2022/2023
+Goals: 17
+Assists: 4
+---
+Player: Julian Alvarez
+Team: River Plate
+Season: 2021/2022
+Goals: 18
+Assists: 6
+---
+Player: Julian Alvarez
+Team: River Plate
+Season: 2020/2021
+Goals: 24
+Assists: 14
+---
+Player: Julian Alvarez
+Team: River Plate
+Season: 2019/2020
+Goals: 8
+Assists: 3
+---
+Player: Julian Alvarez
+Team: River Plate
+Season: 2018/2019
+Goals: 3
+Assists: 2
+---
+Player: Julian Alvarez
+Team: River Plate
+Season: 2017/2018
+Goals: 1
+Assists: 2
+---
+Player: Phil Foden
+Team: Man City
+Season: 2023/2024
+Goals: 27
+Assists: 12
+---
+Player: Phil Foden
+Team: Man City
+Season: 2022/2023
+Goals: 15
+Assists: 7
+---
+Player: Phil Foden
+Team: Man City
+Season: 2021/2022
+Goals: 14
+Assists: 11
+---
+Player: Phil Foden
+Team: Man City
+Season: 2020/2021
+Goals: 16
+Assists: 10
+---
+Player: Phil Foden
+Team: Man City
+Season: 2019/2020
+Goals: 8
+Assists: 9
+---
+Player: Phil Foden
+Team: Man City
+Season: 2018/2019
+Goals: 7
+Assists: 2
+---
+Player: Phil Foden
+Team: Man City
+Season: 2017/2018
+Goals: 0
+Assists: 1
+---
+Player: Jeremy Doku
+Team: Man City
+Season: 2023/2024
+Goals: 6
+Assists: 9
+---
+Player: Jeremy Doku
+Team: Rennes
+Season: 2022/2023
+Goals: 7
+Assists: 4
+---
+Player: Jeremy Doku
+Team: Rennes
+Season: 2021/2022
+Goals: 2
+Assists: 2
+---
+Player: Jeremy Doku
+Team: Anderlecht
+Season: 2020/2021
+Goals: 2
+Assists: 3
+---
+Player: Jeremy Doku
+Team: Anderlecht
+Season: 2019/2020
+Goals: 4
+Assists: 4
+---
+Player: Jeremy Doku
+Team: Anderlecht
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Timo Werner
+Team: Tottenham
+Season: 2023/2024
+Goals: 2
+Assists: 3
+---
+Player: Timo Werner
+Team: RB Leipzig
+Season: 2022/2023
+Goals: 16
+Assists: 5
+---
+Player: Timo Werner
+Team: Chelsea
+Season: 2021/2022
+Goals: 11
+Assists: 6
+---
+Player: Timo Werner
+Team: Chelsea
+Season: 2020/2021
+Goals: 12
+Assists: 11
+---
+Player: Timo Werner
+Team: RB Leipzig
+Season: 2019/2020
+Goals: 34
+Assists: 12
+---
+Player: Timo Werner
+Team: RB Leipzig
+Season: 2018/2019
+Goals: 19
+Assists: 8
+---
+Player: Timo Werner
+Team: RB Leipzig
+Season: 2017/2018
+Goals: 21
+Assists: 9
+---
+Player: Timo Werner
+Team: RB Leipzig
+Season: 2016/2017
+Goals: 21
+Assists: 5
+---
+Player: Richarlison
+Team: Tottenham
+Season: 2023/2024
+Goals: 12
+Assists: 4
+---
+Player: Richarlison
+Team: Tottenham
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: Richarlison
+Team: Everton
+Season: 2021/2022
+Goals: 11
+Assists: 5
+---
+Player: Richarlison
+Team: Everton
+Season: 2020/2021
+Goals: 13
+Assists: 3
+---
+Player: Richarlison
+Team: Everton
+Season: 2019/2020
+Goals: 15
+Assists: 4
+---
+Player: Richarlison
+Team: Everton
+Season: 2018/2019
+Goals: 14
+Assists: 1
+---
+Player: Richarlison
+Team: Watford
+Season: 2017/2018
+Goals: 5
+Assists: 4
+---
+Player: Richarlison
+Team: Fluminense
+Season: 2016/2017
+Goals: 15
+Assists: 2
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2023/2024
+Goals: 1
+Assists: 0
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2022/2023
+Goals: 0
+Assists: 3
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2020/2021
+Goals: 2
+Assists: 2
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2019/2020
+Goals: 1
+Assists: 4
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2018/2019
+Goals: 1
+Assists: 2
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2017/2018
+Goals: 4
+Assists: 5
+---
+Player: Alex Sandro
+Team: Juventus
+Season: 2016/2017
+Goals: 3
+Assists: 7
+---
+Player: Danilo
+Team: Juventus
+Season: 2023/2024
+Goals: 1
+Assists: 3
+---
+Player: Danilo
+Team: Juventus
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: Danilo
+Team: Juventus
+Season: 2021/2022
+Goals: 2
+Assists: 2
+---
+Player: Danilo
+Team: Juventus
+Season: 2020/2021
+Goals: 1
+Assists: 4
+---
+Player: Danilo
+Team: Juventus
+Season: 2019/2020
+Goals: 2
+Assists: 0
+---
+Player: Danilo
+Team: Man City
+Season: 2018/2019
+Goals: 1
+Assists: 1
+---
+Player: Danilo
+Team: Man City
+Season: 2017/2018
+Goals: 3
+Assists: 3
+---
+Player: Danilo
+Team: Real Madrid
+Season: 2016/2017
+Goals: 1
+Assists: 3
+---
+Player: Danilo
+Team: Real Madrid
+Season: 2015/2016
+Goals: 2
+Assists: 6
+---
+Player: Danilo
+Team: FC Porto
+Season: 2014/2015
+Goals: 7
+Assists: 1
+---
+Player: Arthur
+Team: Fiorentina
+Season: 2023/2024
+Goals: 2
+Assists: 3
+---
+Player: Arthur
+Team: Liverpool
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Arthur
+Team: Juventus
+Season: 2021/2022
+Goals: 0
+Assists: 1
+---
+Player: Arthur
+Team: Juventus
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Arthur
+Team: Barcelona
+Season: 2019/2020
+Goals: 4
+Assists: 4
+---
+Player: Arthur
+Team: Barcelona
+Season: 2018/2019
+Goals: 0
+Assists: 2
+---
+Player: Arthur
+Team: Gremio
+Season: 2017/2018
+Goals: 4
+Assists: 2
+---
+Player: Arthur
+Team: Gremio
+Season: 2016/2017
+Goals: 2
+Assists: 1
+---
+Player: Federico Chiesa
+Team: Juventus
+Season: 2023/2024
+Goals: 10
+Assists: 2
+---
+Player: Federico Chiesa
+Team: Juventus
+Season: 2022/2023
+Goals: 4
+Assists: 6
+---
+Player: Federico Chiesa
+Team: Juventus
+Season: 2021/2022
+Goals: 4
+Assists: 2
+---
+Player: Federico Chiesa
+Team: Juventus
+Season: 2020/2021
+Goals: 14
+Assists: 10
+---
+Player: Federico Chiesa
+Team: Fiorentina
+Season: 2019/2020
+Goals: 11
+Assists: 6
+---
+Player: Federico Chiesa
+Team: Fiorentina
+Season: 2018/2019
+Goals: 12
+Assists: 5
+---
+Player: Federico Chiesa
+Team: Fiorentina
+Season: 2017/2018
+Goals: 6
+Assists: 5
+---
+Player: Federico Chiesa
+Team: Fiorentina
+Season: 2016/2017
+Goals: 4
+Assists: 2
+---
+Player: Alexis Sanchez
+Team: Inter
+Season: 2023/2024
+Goals: 4
+Assists: 5
+---
+Player: Alexis Sanchez
+Team: Marseille
+Season: 2022/2023
+Goals: 18
+Assists: 3
+---
+Player: Alexis Sanchez
+Team: Inter
+Season: 2021/2022
+Goals: 9
+Assists: 4
+---
+Player: Alexis Sanchez
+Team: Inter
+Season: 2020/2021
+Goals: 7
+Assists: 5
+---
+Player: Alexis Sanchez
+Team: Inter
+Season: 2019/2020
+Goals: 4
+Assists: 9
+---
+Player: Alexis Sanchez
+Team: Man United
+Season: 2018/2019
+Goals: 2
+Assists: 4
+---
+Player: Alexis Sanchez
+Team: Man United
+Season: 2017/2018
+Goals: 3
+Assists: 5
+---
+Player: Alexis Sanchez
+Team: Arsenal
+Season: 2016/2017
+Goals: 30
+Assists: 15
+---
+Player: Juan Cuadrado
+Team: Inter
+Season: 2023/2024
+Goals: 0
+Assists: 2
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2022/2023
+Goals: 2
+Assists: 4
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2021/2022
+Goals: 5
+Assists: 5
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2020/2021
+Goals: 2
+Assists: 17
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2019/2020
+Goals: 3
+Assists: 6
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2018/2019
+Goals: 1
+Assists: 4
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2017/2018
+Goals: 5
+Assists: 8
+---
+Player: Juan Cuadrado
+Team: Juventus
+Season: 2016/2017
+Goals: 3
+Assists: 9
+---
+Player: Joaquin Correa
+Team: Marseille
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Joaquin Correa
+Team: Inter
+Season: 2022/2023
+Goals: 4
+Assists: 3
+---
+Player: Joaquin Correa
+Team: Inter
+Season: 2021/2022
+Goals: 6
+Assists: 2
+---
+Player: Joaquin Correa
+Team: Lazio
+Season: 2020/2021
+Goals: 11
+Assists: 5
+---
+Player: Joaquin Correa
+Team: Lazio
+Season: 2019/2020
+Goals: 10
+Assists: 3
+---
+Player: Joaquin Correa
+Team: Lazio
+Season: 2018/2019
+Goals: 9
+Assists: 7
+---
+Player: Joaquin Correa
+Team: Sevilla
+Season: 2017/2018
+Goals: 7
+Assists: 6
+---
+Player: Joaquin Correa
+Team: Sevilla
+Season: 2016/2017
+Goals: 8
+Assists: 0
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2023/2024
+Goals: 27
+Assists: 3
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2022/2023
+Goals: 28
+Assists: 10
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2021/2022
+Goals: 25
+Assists: 3
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2020/2021
+Goals: 19
+Assists: 7
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2019/2020
+Goals: 21
+Assists: 5
+---
+Player: Lautaro Martinez
+Team: Inter
+Season: 2018/2019
+Goals: 9
+Assists: 2
+---
+Player: Dejan Kulusevski
+Team: Tottenham
+Season: 2023/2024
+Goals: 8
+Assists: 3
+---
+Player: Dejan Kulusevski
+Team: Tottenham
+Season: 2022/2023
+Goals: 2
+Assists: 8
+---
+Player: Dejan Kulusevski
+Team: Juventus
+Season: 2021/2022
+Goals: 2
+Assists: 3
+---
+Player: Dejan Kulusevski
+Team: Juventus
+Season: 2020/2021
+Goals: 7
+Assists: 6
+---
+Player: Dejan Kulusevski
+Team: Parma
+Season: 2019/2020
+Goals: 10
+Assists: 8
+---
+Player: Dejan Kulusevski
+Team: Atalanta
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Axel Witsel
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 2
+Assists: 0
+---
+Player: Axel Witsel
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Axel Witsel
+Team: Dortmund
+Season: 2021/2022
+Goals: 2
+Assists: 0
+---
+Player: Axel Witsel
+Team: Dortmund
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Axel Witsel
+Team: Dortmund
+Season: 2019/2020
+Goals: 4
+Assists: 5
+---
+Player: Axel Witsel
+Team: Dortmund
+Season: 2018/2019
+Goals: 6
+Assists: 1
+---
+Player: Rodrigo De Paul
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 4
+Assists: 6
+---
+Player: Rodrigo De Paul
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 3
+Assists: 8
+---
+Player: Rodrigo De Paul
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 4
+Assists: 1
+---
+Player: Rodrigo De Paul
+Team: Udinese
+Season: 2020/2021
+Goals: 9
+Assists: 9
+---
+Player: Rodrigo De Paul
+Team: Udinese
+Season: 2019/2020
+Goals: 7
+Assists: 6
+---
+Player: Rodrigo De Paul
+Team: Udinese
+Season: 2018/2019
+Goals: 9
+Assists: 8
+---
+Player: Rodrigo De Paul
+Team: Udinese
+Season: 2017/2018
+Goals: 4
+Assists: 7
+---
+Player: Rodrigo De Paul
+Team: Udinese
+Season: 2016/2017
+Goals: 5
+Assists: 1
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 1
+Assists: 3
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 4
+Assists: 6
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2020/2021
+Goals: 2
+Assists: 4
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Thomas Lemar
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 4
+Assists: 6
+---
+Player: Thomas Lemar
+Team: Monaco
+Season: 2017/2018
+Goals: 3
+Assists: 8
+---
+Player: Thomas Lemar
+Team: Monaco
+Season: 2016/2017
+Goals: 14
+Assists: 14
+---
+Player: Nahuel Molina
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 2
+Assists: 5
+---
+Player: Nahuel Molina
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 4
+Assists: 4
+---
+Player: Nahuel Molina
+Team: Udinese
+Season: 2021/2022
+Goals: 8
+Assists: 2
+---
+Player: Nahuel Molina
+Team: Udinese
+Season: 2020/2021
+Goals: 2
+Assists: 5
+---
+Player: Nahuel Molina
+Team: Rosario Central
+Season: 2019/2020
+Goals: 1
+Assists: 3
+---
+Player: Nahuel Molina
+Team: Defensa y Justicia
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2023/2024
+Goals: 11
+Assists: 3
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2022/2023
+Goals: 10
+Assists: 3
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 13
+Assists: 6
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2020/2021
+Goals: 9
+Assists: 11
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 7
+Assists: 7
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 5
+Assists: 4
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2017/2018
+Goals: 9
+Assists: 9
+---
+Player: Angel Correa
+Team: Atletico Madrid
+Season: 2016/2017
+Goals: 8
+Assists: 10
+---
+Player: Joao Felix
+Team: Barcelona
+Season: 2023/2024
+Goals: 10
+Assists: 6
+---
+Player: Joao Felix
+Team: Chelsea
+Season: 2022/2023
+Goals: 4
+Assists: 0
+---
+Player: Joao Felix
+Team: Atletico Madrid
+Season: 2021/2022
+Goals: 10
+Assists: 5
+---
+Player: Joao Felix
+Team: Atletico Madrid
+Season: 2020/2021
+Goals: 10
+Assists: 5
+---
+Player: Joao Felix
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 9
+Assists: 3
+---
+Player: Joao Felix
+Team: Benfica
+Season: 2018/2019
+Goals: 20
+Assists: 8
+---
+Player: Nathan Ake
+Team: Man City
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Nathan Ake
+Team: Man City
+Season: 2022/2023
+Goals: 3
+Assists: 0
+---
+Player: Nathan Ake
+Team: Man City
+Season: 2021/2022
+Goals: 3
+Assists: 0
+---
+Player: Nathan Ake
+Team: Man City
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Nathan Ake
+Team: Bournemouth
+Season: 2019/2020
+Goals: 2
+Assists: 2
+---
+Player: Nathan Ake
+Team: Bournemouth
+Season: 2018/2019
+Goals: 4
+Assists: 0
+---
+Player: Nathan Ake
+Team: Bournemouth
+Season: 2017/2018
+Goals: 2
+Assists: 3
+---
+Player: Nathan Ake
+Team: Chelsea
+Season: 2016/2017
+Goals: 0
+Assists: 1
+---
+Player: Nathan Ake
+Team: Watford
+Season: 2015/2016
+Goals: 1
+Assists: 0
+---
+Player: Manuel Akanji
+Team: Man City
+Season: 2023/2024
+Goals: 4
+Assists: 0
+---
+Player: Manuel Akanji
+Team: Man City
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Manuel Akanji
+Team: Dortmund
+Season: 2021/2022
+Goals: 1
+Assists: 0
+---
+Player: Manuel Akanji
+Team: Dortmund
+Season: 2020/2021
+Goals: 2
+Assists: 0
+---
+Player: Manuel Akanji
+Team: Dortmund
+Season: 2019/2020
+Goals: 0
+Assists: 2
+---
+Player: Manuel Akanji
+Team: Dortmund
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Manuel Akanji
+Team: Basel
+Season: 2017/2018
+Goals: 2
+Assists: 1
+---
+Player: Christian Pulisic
+Team: AC Milan
+Season: 2023/2024
+Goals: 16
+Assists: 10
+---
+Player: Christian Pulisic
+Team: Chelsea
+Season: 2022/2023
+Goals: 1
+Assists: 2
+---
+Player: Christian Pulisic
+Team: Chelsea
+Season: 2021/2022
+Goals: 8
+Assists: 4
+---
+Player: Christian Pulisic
+Team: Chelsea
+Season: 2020/2021
+Goals: 6
+Assists: 4
+---
+Player: Christian Pulisic
+Team: Chelsea
+Season: 2019/2020
+Goals: 11
+Assists: 7
+---
+Player: Christian Pulisic
+Team: Dortmund
+Season: 2018/2019
+Goals: 7
+Assists: 5
+---
+Player: Christian Pulisic
+Team: Dortmund
+Season: 2017/2018
+Goals: 5
+Assists: 6
+---
+Player: Christian Pulisic
+Team: Dortmund
+Season: 2016/2017
+Goals: 5
+Assists: 9
+---
+Player: Divock Origi
+Team: Nottm Forest
+Season: 2023/2024
+Goals: 1
+Assists: 1
+---
+Player: Divock Origi
+Team: AC Milan
+Season: 2022/2023
+Goals: 2
+Assists: 1
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2021/2022
+Goals: 6
+Assists: 3
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2020/2021
+Goals: 1
+Assists: 2
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2019/2020
+Goals: 6
+Assists: 2
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2018/2019
+Goals: 7
+Assists: 1
+---
+Player: Divock Origi
+Team: Wolfsburg
+Season: 2017/2018
+Goals: 7
+Assists: 3
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2016/2017
+Goals: 11
+Assists: 3
+---
+Player: Divock Origi
+Team: Liverpool
+Season: 2015/2016
+Goals: 10
+Assists: 2
+---
+Player: Divock Origi
+Team: Lille
+Season: 2014/2015
+Goals: 9
+Assists: 3
+---
+Player: Daley Blind
+Team: Girona
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Daley Blind
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Daley Blind
+Team: Ajax
+Season: 2021/2022
+Goals: 2
+Assists: 3
+---
+Player: Daley Blind
+Team: Ajax
+Season: 2020/2021
+Goals: 1
+Assists: 2
+---
+Player: Daley Blind
+Team: Ajax
+Season: 2019/2020
+Goals: 1
+Assists: 1
+---
+Player: Daley Blind
+Team: Ajax
+Season: 2018/2019
+Goals: 6
+Assists: 4
+---
+Player: Daley Blind
+Team: Man United
+Season: 2017/2018
+Goals: 1
+Assists: 2
+---
+Player: Daley Blind
+Team: Man United
+Season: 2016/2017
+Goals: 1
+Assists: 2
+---
+Player: Miguel Gutierrez
+Team: Girona
+Season: 2023/2024
+Goals: 2
+Assists: 9
+---
+Player: Miguel Gutierrez
+Team: Girona
+Season: 2022/2023
+Goals: 2
+Assists: 3
+---
+Player: Miguel Gutierrez
+Team: Real Madrid
+Season: 2021/2022
+Goals: 0
+Assists: 1
+---
+Player: Miguel Gutierrez
+Team: Real Madrid
+Season: 2020/2021
+Goals: 0
+Assists: 1
+---
+Player: Eric Dier
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2022/2023
+Goals: 2
+Assists: 1
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2019/2020
+Goals: 0
+Assists: 2
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2018/2019
+Goals: 3
+Assists: 0
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2017/2018
+Goals: 0
+Assists: 3
+---
+Player: Eric Dier
+Team: Tottenham
+Season: 2016/2017
+Goals: 2
+Assists: 2
+---
+Player: Raphael Guerreiro
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2022/2023
+Goals: 6
+Assists: 14
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2021/2022
+Goals: 5
+Assists: 3
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2020/2021
+Goals: 6
+Assists: 10
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2019/2020
+Goals: 8
+Assists: 3
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2018/2019
+Goals: 6
+Assists: 6
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2017/2018
+Goals: 2
+Assists: 1
+---
+Player: Raphael Guerreiro
+Team: Dortmund
+Season: 2016/2017
+Goals: 7
+Assists: 5
+---
+Player: Dayot Upamecano
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 1
+Assists: 0
+---
+Player: Dayot Upamecano
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Dayot Upamecano
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 1
+Assists: 6
+---
+Player: Dayot Upamecano
+Team: RB Leipzig
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Dayot Upamecano
+Team: RB Leipzig
+Season: 2019/2020
+Goals: 0
+Assists: 1
+---
+Player: Dayot Upamecano
+Team: RB Leipzig
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Dayot Upamecano
+Team: RB Leipzig
+Season: 2017/2018
+Goals: 3
+Assists: 0
+---
+Player: Dayot Upamecano
+Team: Salzburg
+Season: 2016/2017
+Goals: 0
+Assists: 2
+---
+Player: Matthijs de Ligt
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 2
+Assists: 1
+---
+Player: Matthijs de Ligt
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 3
+Assists: 1
+---
+Player: Matthijs de Ligt
+Team: Juventus
+Season: 2021/2022
+Goals: 3
+Assists: 1
+---
+Player: Matthijs de Ligt
+Team: Juventus
+Season: 2020/2021
+Goals: 1
+Assists: 1
+---
+Player: Matthijs de Ligt
+Team: Juventus
+Season: 2019/2020
+Goals: 4
+Assists: 0
+---
+Player: Matthijs de Ligt
+Team: Ajax
+Season: 2018/2019
+Goals: 7
+Assists: 1
+---
+Player: Matthijs de Ligt
+Team: Ajax
+Season: 2017/2018
+Goals: 3
+Assists: 3
+---
+Player: Matthijs de Ligt
+Team: Ajax
+Season: 2016/2017
+Goals: 3
+Assists: 0
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 6
+Assists: 9
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 6
+Assists: 6
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 3
+Assists: 3
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 8
+Assists: 7
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 8
+Assists: 7
+---
+Player: Leon Goretzka
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 9
+Assists: 6
+---
+Player: Leon Goretzka
+Team: Schalke 04
+Season: 2017/2018
+Goals: 4
+Assists: 3
+---
+Player: Leon Goretzka
+Team: Schalke 04
+Season: 2016/2017
+Goals: 8
+Assists: 4
+---
+Player: Konrad Laimer
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 1
+Assists: 4
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2022/2023
+Goals: 4
+Assists: 1
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2021/2022
+Goals: 5
+Assists: 6
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2019/2020
+Goals: 4
+Assists: 6
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2018/2019
+Goals: 2
+Assists: 3
+---
+Player: Konrad Laimer
+Team: RB Leipzig
+Season: 2017/2018
+Goals: 0
+Assists: 2
+---
+Player: Konrad Laimer
+Team: Salzburg
+Season: 2016/2017
+Goals: 4
+Assists: 4
+---
+Player: Jamal Musiala
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 12
+Assists: 7
+---
+Player: Jamal Musiala
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 16
+Assists: 13
+---
+Player: Jamal Musiala
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 8
+Assists: 5
+---
+Player: Jamal Musiala
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 7
+Assists: 1
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2023/2024
+Goals: 5
+Assists: 3
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2022/2023
+Goals: 9
+Assists: 6
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2021/2022
+Goals: 8
+Assists: 5
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2020/2021
+Goals: 8
+Assists: 5
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2019/2020
+Goals: 8
+Assists: 5
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2018/2019
+Goals: 10
+Assists: 5
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2017/2018
+Goals: 7
+Assists: 6
+---
+Player: Kingsley Coman
+Team: Bayern Munchen
+Season: 2016/2017
+Goals: 2
+Assists: 1
+---
+Player: Eric Garcia
+Team: Girona
+Season: 2023/2024
+Goals: 5
+Assists: 0
+---
+Player: Eric Garcia
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 2
+---
+Player: Eric Garcia
+Team: Barcelona
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Eric Garcia
+Team: Man City
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Eric Garcia
+Team: Man City
+Season: 2019/2020
+Goals: 0
+Assists: 1
+---
+Player: Inigo Martinez
+Team: Barcelona
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Inigo Martinez
+Team: Athletic Club
+Season: 2022/2023
+Goals: 1
+Assists: 0
+---
+Player: Inigo Martinez
+Team: Athletic Club
+Season: 2021/2022
+Goals: 4
+Assists: 0
+---
+Player: Inigo Martinez
+Team: Athletic Club
+Season: 2020/2021
+Goals: 2
+Assists: 1
+---
+Player: Inigo Martinez
+Team: Athletic Club
+Season: 2019/2020
+Goals: 1
+Assists: 3
+---
+Player: Inigo Martinez
+Team: Athletic Club
+Season: 2018/2019
+Goals: 0
+Assists: 1
+---
+Player: Inigo Martinez
+Team: Real Sociedad
+Season: 2017/2018
+Goals: 1
+Assists: 1
+---
+Player: Inigo Martinez
+Team: Real Sociedad
+Season: 2016/2017
+Goals: 4
+Assists: 3
+---
+Player: Clement Lenglet
+Team: Aston Villa
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Clement Lenglet
+Team: Tottenham
+Season: 2022/2023
+Goals: 1
+Assists: 2
+---
+Player: Clement Lenglet
+Team: Barcelona
+Season: 2021/2022
+Goals: 0
+Assists: 1
+---
+Player: Clement Lenglet
+Team: Barcelona
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Clement Lenglet
+Team: Barcelona
+Season: 2019/2020
+Goals: 4
+Assists: 1
+---
+Player: Clement Lenglet
+Team: Barcelona
+Season: 2018/2019
+Goals: 2
+Assists: 0
+---
+Player: Clement Lenglet
+Team: Sevilla
+Season: 2017/2018
+Goals: 4
+Assists: 1
+---
+Player: Clement Lenglet
+Team: Nancy
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Ronald Araujo
+Team: Barcelona
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Ronald Araujo
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 2
+---
+Player: Ronald Araujo
+Team: Barcelona
+Season: 2021/2022
+Goals: 4
+Assists: 0
+---
+Player: Ronald Araujo
+Team: Barcelona
+Season: 2020/2021
+Goals: 2
+Assists: 1
+---
+Player: Ronald Araujo
+Team: Barcelona
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Andreas Christensen
+Team: Barcelona
+Season: 2023/2024
+Goals: 3
+Assists: 2
+---
+Player: Andreas Christensen
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Andreas Christensen
+Team: Chelsea
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Andreas Christensen
+Team: Chelsea
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Andreas Christensen
+Team: Chelsea
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Andreas Christensen
+Team: Chelsea
+Season: 2018/2019
+Goals: 0
+Assists: 1
+---
+Player: Andreas Christensen
+Team: Chelsea
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Andreas Christensen
+Team: M'gladbach
+Season: 2016/2017
+Goals: 4
+Assists: 0
+---
+Player: Alex Balde
+Team: Barcelona
+Season: 2023/2024
+Goals: 1
+Assists: 1
+---
+Player: Alex Balde
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 6
+---
+Player: Alex Balde
+Team: Barcelona
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Pau Cubarsi
+Team: Barcelona
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Gavi
+Team: Barcelona
+Season: 2023/2024
+Goals: 2
+Assists: 1
+---
+Player: Gavi
+Team: Barcelona
+Season: 2022/2023
+Goals: 3
+Assists: 6
+---
+Player: Gavi
+Team: Barcelona
+Season: 2021/2022
+Goals: 2
+Assists: 5
+---
+Player: Fermin Lopez
+Team: Barcelona
+Season: 2023/2023
+Goals: 11
+Assists: 0
+---
+Player: Fermin Lopez
+Team: Linares Deportivo
+Season: 2022/2023
+Goals: 12
+Assists: 0
+---
+Player: Oriol Romeu
+Team: Barcelona
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Oriol Romeu
+Team: Girona
+Season: 2022/2023
+Goals: 2
+Assists: 0
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2021/2022
+Goals: 2
+Assists: 3
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2020/2021
+Goals: 1
+Assists: 1
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2017/2018
+Goals: 1
+Assists: 0
+---
+Player: Oriol Romeu
+Team: Southampton
+Season: 2016/2017
+Goals: 1
+Assists: 0
+---
+Player: Pablo Torre
+Team: Girona
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Pablo Torre
+Team: Barcelona
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Lamine Yamal
+Team: Barcelona
+Season: 2023/2024
+Goals: 7
+Assists: 7
+---
+Player: Lamine Yamal
+Team: Barcelona
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Vitor Roque
+Team: Barcelona
+Season: 2023/2024
+Goals: 2
+Assists: 0
+---
+Player: Vitor Roque
+Team: Athletico Paranaense
+Season: 2022/2023
+Goals: 21
+Assists: 6
+---
+Player: Raphinha
+Team: Barcelona
+Season: 2023/2024
+Goals: 10
+Assists: 11
+---
+Player: Raphinha
+Team: Barcelona
+Season: 2022/2023
+Goals: 10
+Assists: 12
+---
+Player: Raphinha
+Team: Leeds
+Season: 2021/2022
+Goals: 11
+Assists: 3
+---
+Player: Raphinha
+Team: Leeds
+Season: 2020/2021
+Goals: 6
+Assists: 9
+---
+Player: Raphinha
+Team: Rennes
+Season: 2019/2020
+Goals: 7
+Assists: 4
+---
+Player: Raphinha
+Team: Sporting CP
+Season: 2018/2019
+Goals: 7
+Assists: 2
+---
+Player: Raphinha
+Team: Vitoria de Guimaraes
+Season: 2017/2018
+Goals: 18
+Assists: 4
+---
+Player: Ansu Fati
+Team: Brighton
+Season: 2023/2024
+Goals: 4
+Assists: 1
+---
+Player: Ansu Fati
+Team: Barcelona
+Season: 2022/2023
+Goals: 10
+Assists: 3
+---
+Player: Ansu Fati
+Team: Barcelona
+Season: 2021/2022
+Goals: 6
+Assists: 0
+---
+Player: Ansu Fati
+Team: Barcelona
+Season: 2020/2021
+Goals: 5
+Assists: 2
+---
+Player: Ansu Fati
+Team: Barcelona
+Season: 2019/2020
+Goals: 8
+Assists: 1
+---
+Player: Ferland Mendy
+Team: Real Madrid
+Season: 2023/2024
+Goals: 1
+Assists: 0
+---
+Player: Ferland Mendy
+Team: Real Madrid
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Ferland Mendy
+Team: Real Madrid
+Season: 2021/2022
+Goals: 2
+Assists: 4
+---
+Player: Ferland Mendy
+Team: Real Madrid
+Season: 2020/2021
+Goals: 2
+Assists: 0
+---
+Player: Ferland Mendy
+Team: Real Madrid
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Ferland Mendy
+Team: Lyon
+Season: 2018/2019
+Goals: 3
+Assists: 2
+---
+Player: Ferland Mendy
+Team: Lyon
+Season: 2017/2018
+Goals: 0
+Assists: 5
+---
+Player: Eduardo Camavinga
+Team: Real Madrid
+Season: 2023/2024
+Goals: 0
+Assists: 3
+---
+Player: Eduardo Camavinga
+Team: Real Madrid
+Season: 2022/2023
+Goals: 0
+Assists: 2
+---
+Player: Eduardo Camavinga
+Team: Real Madrid
+Season: 2021/2022
+Goals: 2
+Assists: 2
+---
+Player: Eduardo Camavinga
+Team: Rennes
+Season: 2020/2021
+Goals: 1
+Assists: 2
+---
+Player: Eduardo Camavinga
+Team: Rennes
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Eduardo Camavinga
+Team: Rennes
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Samuel Chukwueze
+Team: AC Milan
+Season: 2023/2024
+Goals: 3
+Assists: 3
+---
+Player: Samuel Chukwueze
+Team: Villarreal
+Season: 2022/2023
+Goals: 13
+Assists: 10
+---
+Player: Samuel Chukwueze
+Team: Villarreal
+Season: 2021/2022
+Goals: 7
+Assists: 3
+---
+Player: Samuel Chukwueze
+Team: Villarreal
+Season: 2020/2021
+Goals: 5
+Assists: 7
+---
+Player: Samuel Chukwueze
+Team: Villarreal
+Season: 2019/2020
+Goals: 4
+Assists: 3
+---
+Player: Samuel Chukwueze
+Team: Villarreal
+Season: 2018/2019
+Goals: 8
+Assists: 3
+---
+Player: Rafael Leao
+Team: AC Milan
+Season: 2023/2024
+Goals: 15
+Assists: 12
+---
+Player: Rafael Leao
+Team: AC Milan
+Season: 2022/2023
+Goals: 16
+Assists: 11
+---
+Player: Rafael Leao
+Team: AC Milan
+Season: 2021/2022
+Goals: 14
+Assists: 10
+---
+Player: Rafael Leao
+Team: AC Milan
+Season: 2020/2021
+Goals: 7
+Assists: 6
+---
+Player: Rafael Leao
+Team: AC Milan
+Season: 2019/2020
+Goals: 6
+Assists: 2
+---
+Player: Rafael Leao
+Team: Lille
+Season: 2018/2019
+Goals: 8
+Assists: 3
+---
+Player: Rafael Leao
+Team: Sporting CP
+Season: 2017/2018
+Goals: 1
+Assists: 1
+---
+Player: Noah Okafor
+Team: AC Milan
+Season: 2023/2024
+Goals: 6
+Assists: 3
+---
+Player: Noah Okafor
+Team: Salzburg
+Season: 2022/2023
+Goals: 10
+Assists: 4
+---
+Player: Noah Okafor
+Team: Salzburg
+Season: 2021/2022
+Goals: 14
+Assists: 9
+---
+Player: Noah Okafor
+Team: Salzburg
+Season: 2020/2021
+Goals: 6
+Assists: 4
+---
+Player: Noah Okafor
+Team: Salzburg
+Season: 2019/2020
+Goals: 4
+Assists: 1
+---
+Player: Noah Okafor
+Team: Basel
+Season: 2018/2019
+Goals: 4
+Assists: 2
+---
+Player: Yacine Adli
+Team: AC Milan
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Yacine Adli
+Team: AC Milan
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Yacine Adli
+Team: Bordeaux
+Season: 2021/2022
+Goals: 1
+Assists: 7
+---
+Player: Yacine Adli
+Team: Bordeaux
+Season: 2020/2021
+Goals: 2
+Assists: 5
+---
+Player: Yacine Adli
+Team: Bordeaux
+Season: 2019/2020
+Goals: 3
+Assists: 3
+---
+Player: Yacine Adli
+Team: Bordeaux
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Diogo Dalot
+Team: Man United
+Season: 2023/2024
+Goals: 3
+Assists: 5
+---
+Player: Diogo Dalot
+Team: Man United
+Season: 2022/2023
+Goals: 2
+Assists: 2
+---
+Player: Diogo Dalot
+Team: Man United
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Diogo Dalot
+Team: AC Milan
+Season: 2020/2021
+Goals: 2
+Assists: 3
+---
+Player: Diogo Dalot
+Team: Man United
+Season: 2019/2020
+Goals: 1
+Assists: 0
+---
+Player: Diogo Dalot
+Team: Man United
+Season: 2018/2019
+Goals: 0
+Assists: 2
+---
+Player: Diogo Dalot
+Team: FC Porto
+Season: 2017/2018
+Goals: 0
+Assists: 1
+---
+Player: Lisandro Martinez
+Team: Man United
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Lisandro Martinez
+Team: Man United
+Season: 2022/2023
+Goals: 1
+Assists: 0
+---
+Player: Lisandro Martinez
+Team: Ajax
+Season: 2021/2022
+Goals: 1
+Assists: 4
+---
+Player: Lisandro Martinez
+Team: Ajax
+Season: 2020/2021
+Goals: 3
+Assists: 1
+---
+Player: Lisandro Martinez
+Team: Ajax
+Season: 2019/2020
+Goals: 2
+Assists: 1
+---
+Player: Lisandro Martinez
+Team: Defensa y Justicia
+Season: 2018/2019
+Goals: 2
+Assists: 3
+---
+Player: Leny Yoro
+Team: Lille
+Season: 2023/2024
+Goals: 3
+Assists: 0
+---
+Player: Leny Yoro
+Team: Lille
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Leny Yoro
+Team: Lille
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Jonny Evans
+Team: Man United
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Jonny Evans
+Team: Leicester
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Jonny Evans
+Team: Leicester
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Jonny Evans
+Team: Leicester
+Season: 2020/2021
+Goals: 2
+Assists: 2
+---
+Player: Jonny Evans
+Team: Leicester
+Season: 2019/2020
+Goals: 2
+Assists: 1
+---
+Player: Jonny Evans
+Team: Leicester
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Jonny Evans
+Team: West Brom
+Season: 2017/2018
+Goals: 2
+Assists: 2
+---
+Player: Jonny Evans
+Team: West Brom
+Season: 2016/2017
+Goals: 2
+Assists: 1
+---
+Player: Jonny Evans
+Team: West Brom
+Season: 2015/2016
+Goals: 1
+Assists: 2
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2023/2024
+Goals: 10
+Assists: 3
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2022/2023
+Goals: 3
+Assists: 1
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2020/2021
+Goals: 7
+Assists: 2
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2019/2020
+Goals: 5
+Assists: 1
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2018/2019
+Goals: 2
+Assists: 0
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Scott McTominay
+Team: Man United
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Oleksandr Zinchenko
+Team: Arsenal
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Oleksandr Zinchenko
+Team: Arsenal
+Season: 2022/2023
+Goals: 1
+Assists: 2
+---
+Player: Oleksandr Zinchenko
+Team: Man City
+Season: 2021/2022
+Goals: 0
+Assists: 6
+---
+Player: Oleksandr Zinchenko
+Team: Man City
+Season: 2020/2021
+Goals: 0
+Assists: 2
+---
+Player: Oleksandr Zinchenko
+Team: Man City
+Season: 2019/2020
+Goals: 1
+Assists: 0
+---
+Player: Oleksandr Zinchenko
+Team: Man City
+Season: 2018/2019
+Goals: 1
+Assists: 5
+---
+Player: Oleksandr Zinchenko
+Team: Man City
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Gabriel
+Team: Arsenal
+Season: 2023/2024
+Goals: 4
+Assists: 0
+---
+Player: Gabriel
+Team: Arsenal
+Season: 2022/2023
+Goals: 3
+Assists: 0
+---
+Player: Gabriel
+Team: Arsenal
+Season: 2021/2022
+Goals: 5
+Assists: 0
+---
+Player: Gabriel
+Team: Arsenal
+Season: 2020/2021
+Goals: 3
+Assists: 1
+---
+Player: Gabriel
+Team: Lille
+Season: 2019/2020
+Goals: 1
+Assists: 0
+---
+Player: Gabriel
+Team: Lille
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Ben White
+Team: Arsenal
+Season: 2023/2024
+Goals: 4
+Assists: 5
+---
+Player: Ben White
+Team: Arsenal
+Season: 2022/2023
+Goals: 2
+Assists: 5
+---
+Player: Ben White
+Team: Arsenal
+Season: 2021/2022
+Goals: 0
+Assists: 0
+---
+Player: Ben White
+Team: Brighton
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Ben White
+Team: Leeds
+Season: 2019/2020
+Goals: 1
+Assists: 2
+---
+Player: Jorginho
+Team: Arsenal
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Jorginho
+Team: Arsenal
+Season: 2022/2023
+Goals: 0
+Assists: 1
+---
+Player: Jorginho
+Team: Chelsea
+Season: 2021/2022
+Goals: 9
+Assists: 4
+---
+Player: Jorginho
+Team: Chelsea
+Season: 2020/2021
+Goals: 8
+Assists: 2
+---
+Player: Jorginho
+Team: Chelsea
+Season: 2019/2020
+Goals: 7
+Assists: 2
+---
+Player: Jorginho
+Team: Chelsea
+Season: 2018/2019
+Goals: 2
+Assists: 0
+---
+Player: Jorginho
+Team: SSC Napoli
+Season: 2017/2018
+Goals: 4
+Assists: 4
+---
+Player: Jorginho
+Team: SSC Napoli
+Season: 2016/2017
+Goals: 0
+Assists: 3
+---
+Player: Thomas Partey
+Team: Arsenal
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Thomas Partey
+Team: Arsenal
+Season: 2022/2023
+Goals: 3
+Assists: 0
+---
+Player: Thomas Partey
+Team: Arsenal
+Season: 2021/2022
+Goals: 2
+Assists: 1
+---
+Player: Thomas Partey
+Team: Arsenal
+Season: 2020/2021
+Goals: 0
+Assists: 3
+---
+Player: Thomas Partey
+Team: Atletico Madrid
+Season: 2019/2020
+Goals: 4
+Assists: 1
+---
+Player: Thomas Partey
+Team: Atletico Madrid
+Season: 2018/2019
+Goals: 3
+Assists: 6
+---
+Player: Thomas Partey
+Team: Atletico Madrid
+Season: 2017/2018
+Goals: 5
+Assists: 1
+---
+Player: Thomas Partey
+Team: Atletico Madrid
+Season: 2016/2017
+Goals: 1
+Assists: 4
+---
+Player: Declan Rice
+Team: Arsenal
+Season: 2023/2024
+Goals: 7
+Assists: 9
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2022/2023
+Goals: 5
+Assists: 4
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2021/2022
+Goals: 5
+Assists: 4
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2020/2021
+Goals: 2
+Assists: 1
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2019/2020
+Goals: 1
+Assists: 3
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2018/2019
+Goals: 2
+Assists: 1
+---
+Player: Declan Rice
+Team: West Ham
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Gabriel Jesus
+Team: Arsenal
+Season: 2023/2024
+Goals: 8
+Assists: 8
+---
+Player: Gabriel Jesus
+Team: Arsenal
+Season: 2022/2023
+Goals: 11
+Assists: 7
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2021/2022
+Goals: 13
+Assists: 11
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2020/2021
+Goals: 14
+Assists: 4
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2019/2020
+Goals: 23
+Assists: 11
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2018/2019
+Goals: 21
+Assists: 7
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2017/2018
+Goals: 17
+Assists: 3
+---
+Player: Gabriel Jesus
+Team: Man City
+Season: 2016/2017
+Goals: 7
+Assists: 5
+---
+Player: Gabriel Jesus
+Team: Palmeiras
+Season: 2015/2016
+Goals: 21
+Assists: 5
+---
+Player: Gabriel Jesus
+Team: Palmeiras
+Season: 2014/2015
+Goals: 7
+Assists: 4
+---
+Player: Kai Havertz
+Team: Arsenal
+Season: 2023/2024
+Goals: 14
+Assists: 7
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2022/2023
+Goals: 9
+Assists: 1
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2021/2022
+Goals: 14
+Assists: 5
+---
+Player: Kai Havertz
+Team: Chelsea
+Season: 2020/2021
+Goals: 9
+Assists: 6
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2019/2020
+Goals: 18
+Assists: 9
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2018/2019
+Goals: 20
+Assists: 6
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2017/2018
+Goals: 4
+Assists: 8
+---
+Player: Kai Havertz
+Team: Leverkusen
+Season: 2016/2017
+Goals: 4
+Assists: 5
+---
+Player: Leandro Trossard
+Team: Arsenal
+Season: 2023/2024
+Goals: 17
+Assists: 2
+---
+Player: Leandro Trossard
+Team: Arsenal
+Season: 2022/2023
+Goals: 1
+Assists: 10
+---
+Player: Leandro Trossard
+Team: Brighton
+Season: 2021/2022
+Goals: 8
+Assists: 3
+---
+Player: Leandro Trossard
+Team: Brighton
+Season: 2020/2021
+Goals: 5
+Assists: 5
+---
+Player: Leandro Trossard
+Team: Brighton
+Season: 2019/2020
+Goals: 5
+Assists: 3
+---
+Player: Leandro Trossard
+Team: Brighton
+Season: 2018/2019
+Goals: 22
+Assists: 10
+---
+Player: Reiss Nelson
+Team: Arsenal
+Season: 2023/2024
+Goals: 1
+Assists: 2
+---
+Player: Reiss Nelson
+Team: Arsenal
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: Reiss Nelson
+Team: Feyenoord
+Season: 2021/2022
+Goals: 4
+Assists: 7
+---
+Player: Reiss Nelson
+Team: Arsenal
+Season: 2020/2021
+Goals: 1
+Assists: 1
+---
+Player: Reiss Nelson
+Team: Arsenal
+Season: 2019/2020
+Goals: 3
+Assists: 3
+---
+Player: Reiss Nelson
+Team: Hoffenheim
+Season: 2018/2019
+Goals: 7
+Assists: 0
+---
+Player: Reiss Nelson
+Team: Arsenal
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Matteo Politano
+Team: SSC Napoli
+Season: 2023/2024
+Goals: 9
+Assists: 8
+---
+Player: Matteo Politano
+Team: SSC Napoli
+Season: 2022/2023
+Goals: 4
+Assists: 4
+---
+Player: Matteo Politano
+Team: SSC Napoli
+Season: 2021/2022
+Goals: 5
+Assists: 6
+---
+Player: Matteo Politano
+Team: SSC Napoli
+Season: 2020/2021
+Goals: 12
+Assists: 4
+---
+Player: Matteo Politano
+Team: SSC Napoli
+Season: 2019/2020
+Goals: 2
+Assists: 2
+---
+Player: Matteo Politano
+Team: Inter
+Season: 2018/2019
+Goals: 6
+Assists: 7
+---
+Player: Matteo Politano
+Team: Sassuolo
+Season: 2017/2018
+Goals: 11
+Assists: 4
+---
+Player: Matteo Politano
+Team: Sassuolo
+Season: 2016/2017
+Goals: 8
+Assists: 6
+---
+Player: Victor Osimhen
+Team: SSC Napoli
+Season: 2023/2024
+Goals: 17
+Assists: 3
+---
+Player: Victor Osimhen
+Team: SSC Napoli
+Season: 2022/2023
+Goals: 31
+Assists: 4
+---
+Player: Victor Osimhen
+Team: SSC Napoli
+Season: 2021/2022
+Goals: 18
+Assists: 2
+---
+Player: Victor Osimhen
+Team: SSC Napoli
+Season: 2020/2021
+Goals: 10
+Assists: 3
+---
+Player: Victor Osimhen
+Team: Lille
+Season: 2019/2020
+Goals: 18
+Assists: 5
+---
+Player: Victor Osimhen
+Team: Sporting Charleroi
+Season: 2018/2019
+Goals: 20
+Assists: 4
+---
+Player: Victor Osimhen
+Team: Wolfsburg
+Season: 2017/2018
+Goals: 0
+Assists: 0
+---
+Player: Victor Osimhen
+Team: Wolfsburg
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Khvicha Kvaratskhelia
+Team: SSC Napoli
+Season: 2023/2024
+Goals: 11
+Assists: 7
+---
+Player: Khvicha Kvaratskhelia
+Team: SSC Napoli
+Season: 2022/2023
+Goals: 14
+Assists: 14
+---
+Player: Khvicha Kvaratskhelia
+Team: Rubin
+Season: 2021/2022
+Goals: 2
+Assists: 4
+---
+Player: Khvicha Kvaratskhelia
+Team: Rubin
+Season: 2020/2021
+Goals: 4
+Assists: 4
+---
+Player: Khvicha Kvaratskhelia
+Team: Rubin
+Season: 2019/2020
+Goals: 3
+Assists: 2
+---
+Player: Khvicha Kvaratskhelia
+Team: Lokomotiv
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Chris Smalling
+Team: Roma
+Season: 2023/2024
+Goals: 0
+Assists: 0
+---
+Player: Chris Smalling
+Team: Roma
+Season: 2022/2023
+Goals: 3
+Assists: 1
+---
+Player: Chris Smalling
+Team: Roma
+Season: 2021/2022
+Goals: 4
+Assists: 0
+---
+Player: Chris Smalling
+Team: Roma
+Season: 2020/2021
+Goals: 0
+Assists: 1
+---
+Player: Chris Smalling
+Team: Roma
+Season: 2019/2020
+Goals: 3
+Assists: 2
+---
+Player: Chris Smalling
+Team: Man United
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Chris Smalling
+Team: Man United
+Season: 2017/2018
+Goals: 4
+Assists: 0
+---
+Player: Chris Smalling
+Team: Man United
+Season: 2016/2017
+Goals: 2
+Assists: 2
+---
+Player: Chris Smalling
+Team: Man United
+Season: 2015/2016
+Goals: 2
+Assists: 1
+---
+Player: Leandro Paredes
+Team: Roma
+Season: 2023/2024
+Goals: 5
+Assists: 7
+---
+Player: Leandro Paredes
+Team: Juventus
+Season: 2022/2023
+Goals: 1
+Assists: 1
+---
+Player: Leandro Paredes
+Team: PSG
+Season: 2021/2022
+Goals: 1
+Assists: 2
+---
+Player: Leandro Paredes
+Team: PSG
+Season: 2020/2021
+Goals: 1
+Assists: 3
+---
+Player: Leandro Paredes
+Team: PSG
+Season: 2019/2020
+Goals: 1
+Assists: 1
+---
+Player: Leandro Paredes
+Team: PSG
+Season: 2018/2019
+Goals: 0
+Assists: 2
+---
+Player: Leandro Paredes
+Team: Zenit
+Season: 2017/2018
+Goals: 6
+Assists: 8
+---
+Player: Leandro Paredes
+Team: Roma
+Season: 2016/2017
+Goals: 3
+Assists: 1
+---
+Player: Paulo Dybala
+Team: Roma
+Season: 2023/2024
+Goals: 16
+Assists: 10
+---
+Player: Paulo Dybala
+Team: Roma
+Season: 2022/2023
+Goals: 18
+Assists: 7
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2021/2022
+Goals: 15
+Assists: 6
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2020/2021
+Goals: 5
+Assists: 3
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2019/2020
+Goals: 17
+Assists: 9
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2018/2019
+Goals: 10
+Assists: 4
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2017/2018
+Goals: 26
+Assists: 6
+---
+Player: Paulo Dybala
+Team: Juventus
+Season: 2016/2017
+Goals: 19
+Assists: 8
+---
+Player: Pedro Rodriguez
+Team: Lazio
+Season: 2023/2024
+Goals: 3
+Assists: 1
+---
+Player: Pedro Rodriguez
+Team: Lazio
+Season: 2022/2023
+Goals: 7
+Assists: 4
+---
+Player: Pedro Rodriguez
+Team: Lazio
+Season: 2021/2022
+Goals: 10
+Assists: 6
+---
+Player: Pedro Rodriguez
+Team: Roma
+Season: 2020/2021
+Goals: 6
+Assists: 4
+---
+Player: Pedro Rodriguez
+Team: Chelsea
+Season: 2019/2020
+Goals: 2
+Assists: 3
+---
+Player: Pedro Rodriguez
+Team: Chelsea
+Season: 2018/2019
+Goals: 13
+Assists: 5
+---
+Player: Pedro Rodriguez
+Team: Chelsea
+Season: 2017/2018
+Goals: 7
+Assists: 5
+---
+Player: Pedro Rodriguez
+Team: Chelsea
+Season: 2016/2017
+Goals: 13
+Assists: 11
+---
+Player: Nicolas Otamendi
+Team: Benfica
+Season: 2023/2024
+Goals: 4
+Assists: 2
+---
+Player: Nicolas Otamendi
+Team: Benfica
+Season: 2022/2023
+Goals: 2
+Assists: 1
+---
+Player: Nicolas Otamendi
+Team: Benfica
+Season: 2021/2022
+Goals: 0
+Assists: 1
+---
+Player: Nicolas Otamendi
+Team: Benfica
+Season: 2020/2021
+Goals: 1
+Assists: 0
+---
+Player: Nicolas Otamendi
+Team: Man City
+Season: 2019/2020
+Goals: 3
+Assists: 0
+---
+Player: Nicolas Otamendi
+Team: Man City
+Season: 2018/2019
+Goals: 1
+Assists: 1
+---
+Player: Nicolas Otamendi
+Team: Man City
+Season: 2017/2018
+Goals: 5
+Assists: 0
+---
+Player: Nicolas Otamendi
+Team: Man City
+Season: 2016/2017
+Goals: 1
+Assists: 1
+---
+Player: Adrien Rabiot
+Team: Juventus
+Season: 2023/2024
+Goals: 5
+Assists: 3
+---
+Player: Adrien Rabiot
+Team: Juventus
+Season: 2022/2023
+Goals: 11
+Assists: 5
+---
+Player: Adrien Rabiot
+Team: Juventus
+Season: 2021/2022
+Goals: 0
+Assists: 2
+---
+Player: Adrien Rabiot
+Team: Juventus
+Season: 2020/2021
+Goals: 5
+Assists: 3
+---
+Player: Adrien Rabiot
+Team: Juventus
+Season: 2019/2020
+Goals: 1
+Assists: 1
+---
+Player: Adrien Rabiot
+Team: PSG
+Season: 2018/2019
+Goals: 2
+Assists: 2
+---
+Player: Adrien Rabiot
+Team: PSG
+Season: 2017/2018
+Goals: 5
+Assists: 7
+---
+Player: Adrien Rabiot
+Team: PSG
+Season: 2016/2017
+Goals: 4
+Assists: 4
+---
+Player: Theo Hernandez
+Team: AC Milan
+Season: 2023/2024
+Goals: 5
+Assists: 11
+---
+Player: Theo Hernandez
+Team: AC Milan
+Season: 2022/2023
+Goals: 4
+Assists: 5
+---
+Player: Theo Hernandez
+Team: AC Milan
+Season: 2021/2022
+Goals: 5
+Assists: 9
+---
+Player: Theo Hernandez
+Team: AC Milan
+Season: 2020/2021
+Goals: 8
+Assists: 7
+---
+Player: Theo Hernandez
+Team: AC Milan
+Season: 2019/2020
+Goals: 7
+Assists: 3
+---
+Player: Theo Hernandez
+Team: Real Sociedad
+Season: 2018/2019
+Goals: 1
+Assists: 2
+---
+Player: Theo Hernandez
+Team: Real Madrid
+Season: 2017/2018
+Goals: 0
+Assists: 2
+---
+Player: Theo Hernandez
+Team: Deportivo Alaves
+Season: 2016/1017
+Goals: 2
+Assists: 3
+---
+Player: Olivier Giroud
+Team: AC Milan
+Season: 2023/2024
+Goals: 17
+Assists: 9
+---
+Player: Olivier Giroud
+Team: AC Milan
+Season: 2022/2023
+Goals: 18
+Assists: 7
+---
+Player: Olivier Giroud
+Team: AC Milan
+Season: 2021/2022
+Goals: 14
+Assists: 3
+---
+Player: Olivier Giroud
+Team: Chelsea
+Season: 2020/2021
+Goals: 11
+Assists: 0
+---
+Player: Olivier Giroud
+Team: Chelsea
+Season: 2019/2020
+Goals: 10
+Assists: 1
+---
+Player: Olivier Giroud
+Team: Chelsea
+Season: 2018/2019
+Goals: 13
+Assists: 9
+---
+Player: Olivier Giroud
+Team: Chelsea
+Season: 2017/2018
+Goals: 5
+Assists: 3
+---
+Player: Marcus Thuram
+Team: Inter
+Season: 2023/2024
+Goals: 15
+Assists: 7
+---
+Player: Marcus Thuram
+Team: M'gladbach
+Season: 2022/2023
+Goals: 16
+Assists: 7
+---
+Player: Marcus Thuram
+Team: M'gladbach
+Season: 2021/2022
+Goals: 3
+Assists: 0
+---
+Player: Marcus Thuram
+Team: M'gladbach
+Season: 2020/2021
+Goals: 11
+Assists: 5
+---
+Player: Marcus Thuram
+Team: M'gladbach
+Season: 2019/2020
+Goals: 14
+Assists: 8
+---
+Player: Marcus Thuram
+Team: Guingamp
+Season: 2018/2019
+Goals: 13
+Assists: 1
+---
+Player: Marcus Thuram
+Team: Guingamp
+Season: 2017/2018
+Goals: 4
+Assists: 1
+---
+Player: Marcus Thuram
+Team: Sochaux
+Season: 2016/2017
+Goals: 1
+Assists: 1
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2023/2024
+Goals: 4
+Assists: 1
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2022/2023
+Goals: 2
+Assists: 0
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2021/2022
+Goals: 1
+Assists: 0
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2020/2021
+Goals: 5
+Assists: 0
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2019/2020
+Goals: 3
+Assists: 3
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2018/2019
+Goals: 2
+Assists: 1
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2017/2018
+Goals: 1
+Assists: 1
+---
+Player: Lewis Dunk
+Team: Brighton
+Season: 2016/2017
+Goals: 2
+Assists: 1
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2023/2024
+Goals: 1
+Assists: 0
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2021/2022
+Goals: 2
+Assists: 0
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2020/2021
+Goals: 2
+Assists: 0
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2019/2020
+Goals: 2
+Assists: 2
+---
+Player: Ezri Konsa
+Team: Aston Villa
+Season: 2018/2019
+Goals: 1
+Assists: 0
+---
+Player: Marc Guehi
+Team: Crystal Palace
+Season: 2023/2024
+Goals: 0
+Assists: 1
+---
+Player: Marc Guehi
+Team: Crystal Palace
+Season: 2022/2023
+Goals: 1
+Assists: 0
+---
+Player: Marc Guehi
+Team: Crystal Palace
+Season: 2021/2022
+Goals: 4
+Assists: 1
+---
+Player: Marc Guehi
+Team: Swansea
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Marc Guehi
+Team: Swansea
+Season: 2019/2020
+Goals: 0
+Assists: 0
+---
+Player: Eberechi Eze
+Team: Crystal Palace
+Season: 2023/2024
+Goals: 11
+Assists: 6
+---
+Player: Eberechi Eze
+Team: Crystal Palace
+Season: 2022/2023
+Goals: 10
+Assists: 4
+---
+Player: Eberechi Eze
+Team: Crystal Palace
+Season: 2021/2022
+Goals: 1
+Assists: 1
+---
+Player: Eberechi Eze
+Team: Crystal Palace
+Season: 2020/2021
+Goals: 4
+Assists: 6
+---
+Player: Eberechi Eze
+Team: QPR
+Season: 2019/2020
+Goals: 14
+Assists: 8
+---
+Player: Eberechi Eze
+Team: QPR
+Season: 2018/2019
+Goals: 4
+Assists: 3
+---
+Player: Eberechi Eze
+Team: QPR
+Season: 2017/2018
+Goals: 2
+Assists: 0
+---
+Player: Ivan Toney
+Team: Brentford
+Season: 2023/2024
+Goals: 4
+Assists: 2
+---
+Player: Ivan Toney
+Team: Brentford
+Season: 2022/2023
+Goals: 21
+Assists: 5
+---
+Player: Ivan Toney
+Team: Brentford
+Season: 2021/2022
+Goals: 14
+Assists: 6
+---
+Player: Ivan Toney
+Team: Brentford
+Season: 2020/2021
+Goals: 33
+Assists: 10
+---
+Player: Ivan Toney
+Team: Peterborough
+Season: 2019/2020
+Goals: 26
+Assists: 6
+---
+Player: Kobbie Mainoo
+Team: Man United
+Season: 2023/2024
+Goals: 5
+Assists: 1
+---
+Player: Kobbie Mainoo
+Team: Man United
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2023/2024
+Goals: 0
+Assists: 2
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2022/2023
+Goals: 0
+Assists: 4
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2021/2022
+Goals: 0
+Assists: 3
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2020/2021
+Goals: 0
+Assists: 6
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2019/2020
+Goals: 0
+Assists: 10
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2018/2019
+Goals: 2
+Assists: 7
+---
+Player: Jesus Navas
+Team: Sevilla
+Season: 2017/2018
+Goals: 3
+Assists: 2
+---
+Player: Jesus Navas
+Team: Man City
+Season: 2016/2017
+Goals: 0
+Assists: 3
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2023/2024
+Goals: 2
+Assists: 0
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2022/2023
+Goals: 0
+Assists: 0
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2021/2022
+Goals: 2
+Assists: 2
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2020/2021
+Goals: 0
+Assists: 1
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2019/2020
+Goals: 2
+Assists: 0
+---
+Player: Robin Le Normand
+Team: Real Sociedad
+Season: 2018/2019
+Goals: 0
+Assists: 2
+---
+Player: Juan Miranda
+Team: Real Betis
+Season: 2023/2024
+Goals: 2
+Assists: 2
+---
+Player: Juan Miranda
+Team: Real Betis
+Season: 2022/2023
+Goals: 3
+Assists: 5
+---
+Player: Juan Miranda
+Team: Real Betis
+Season: 2021/2022
+Goals: 1
+Assists: 2
+---
+Player: Juan Miranda
+Team: Real Betis
+Season: 2020/2021
+Goals: 2
+Assists: 2
+---
+Player: Juan Miranda
+Team: Schalke 04
+Season: 2019/2020
+Goals: 0
+Assists: 1
+---
+Player: Juan Miranda
+Team: Barcelona
+Season: 2018/2019
+Goals: 0
+Assists: 0
+---
+Player: Dani Olmo
+Team: RB Leipzig
+Season: 2023/2024
+Goals: 8
+Assists: 5
+---
+Player: Dani Olmo
+Team: RB Leipzig
+Season: 2022/2023
+Goals: 5
+Assists: 9
+---
+Player: Dani Olmo
+Team: RB Leipzig
+Season: 2021/2022
+Goals: 4
+Assists: 5
+---
+Player: Dani Olmo
+Team: RB Leipzig
+Season: 2020/2021
+Goals: 7
+Assists: 11
+---
+Player: Dani Olmo
+Team: RB Leipzig
+Season: 2019/2020
+Goals: 5
+Assists: 1
+---
+Player: Dani Olmo
+Team: Dinamo Zagreb
+Season: 2018/2019
+Goals: 12
+Assists: 3
+---
+Player: Fabian Ruiz
+Team: PSG
+Season: 2023/2024
+Goals: 3
+Assists: 7
+---
+Player: Fabian Ruiz
+Team: PSG
+Season: 2022/2023
+Goals: 3
+Assists: 3
+---
+Player: Fabian Ruiz
+Team: SSC Napoli
+Season: 2021/2022
+Goals: 7
+Assists: 5
+---
+Player: Fabian Ruiz
+Team: SSC Napoli
+Season: 2020/2021
+Goals: 4
+Assists: 1
+---
+Player: Fabian Ruiz
+Team: SSC Napoli
+Season: 2019/2020
+Goals: 4
+Assists: 6
+---
+Player: Fabian Ruiz
+Team: SSC Napoli
+Season: 2018/2019
+Goals: 7
+Assists: 4
+---
+Player: Fabian Ruiz
+Team: Real Betis
+Season: 2017/2018
+Goals: 3
+Assists: 6
+---
+Player: Fabian Ruiz
+Team: Real Betis
+Season: 2016/2017
+Goals: 0
+Assists: 0
+---
+Player: Alex Baena
+Team: Villarreal
+Season: 2023/2024
+Goals: 5
+Assists: 17
+---
+Player: Alex Baena
+Team: Villarreal
+Season: 2022/2023
+Goals: 12
+Assists: 3
+---
+Player: Alex Baena
+Team: Girona
+Season: 2021/2022
+Goals: 5
+Assists: 6
+---
+Player: Alex Baena
+Team: Villarreal
+Season: 2020/2021
+Goals: 2
+Assists: 3
+---
+Player: Alex Baena
+Team: Villarreal
+Season: 2019/2020
+Goals: 0
+Assists: 2
+---
+Player: Joselu
+Team: Real Madrid
+Season: 2023/2024
+Goals: 18
+Assists: 3
+---
+Player: Joselu
+Team: Espanyol
+Season: 2022/2023
+Goals: 17
+Assists: 3
+---
+Player: Joselu
+Team: Deportivo Alaves
+Season: 2021/2022
+Goals: 14
+Assists: 4
+---
+Player: Joselu
+Team: Deportivo Alaves
+Season: 2020/2021
+Goals: 11
+Assists: 3
+---
+Player: Joselu
+Team: Deportivo Alaves
+Season: 2019/2020
+Goals: 11
+Assists: 2
+---
+Player: Joselu
+Team: Newcastle
+Season: 2018/2019
+Goals: 3
+Assists: 1
+---
+Player: Joselu
+Team: Newcastle
+Season: 2017/2018
+Goals: 4
+Assists: 1
+---
+Player: Joselu
+Team: Deportivo La Coruna
+Season: 2016/2017
+Goals: 6
+Assists: 1
+---
+Player: Nico Williams
+Team: Athletic Club
+Season: 2023/2024
+Goals: 8
+Assists: 16
+---
+Player: Nico Williams
+Team: Athletic Club
+Season: 2022/2023
+Goals: 9
+Assists: 4
+---
+Player: Nico Williams
+Team: Athletic Club
+Season: 2021/2022
+Goals: 3
+Assists: 1
+---
+Player: Nico Williams
+Team: Athletic Club
+Season: 2020/2021
+Goals: 0
+Assists: 0
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2023/2024
+Goals: 14
+Assists: 3
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2022/2023
+Goals: 4
+Assists: 1
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2021/2022
+Goals: 15
+Assists: 4
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2020/2021
+Goals: 13
+Assists: 10
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2019/2020
+Goals: 13
+Assists: 13
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2018/2019
+Goals: 14
+Assists: 2
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2017/2018
+Goals: 14
+Assists: 6
+---
+Player: Mikel Oyarzabal 
+Team: Real Sociedad
+Season: 2016/2017
+Goals: 4
+Assists: 8
+---
